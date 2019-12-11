@@ -1,0 +1,66 @@
+# Site
+name: 'BitcoinSaigon.org'
+description: 'The original Bitcoin community in Saigon'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+#disqus: 'demowebsite'
+#email: 'tomo@bitcoinsaigon.org
+#mailchimp-list: ''
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - github-pages
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    tomo:
+      name:           tomo
+      site:           https://www.bitcoinsaigon.org
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I'm Tomo!"
+      email:          tomo@bitcoinsaigon.org
+      twitter:        https://twitter.com/tomoXtechno
+
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: tomo
+      avatar: assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
