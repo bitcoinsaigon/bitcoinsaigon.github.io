@@ -16,17 +16,17 @@ full recordings of the morning sessions.
 
 The morning sessions covered:
 
-0:00 - 04:00 Intro to the event by [Dominik Weil](www.twitter.com/DominikWeil) (Founding Member of Bitcoin Saigon community)
+0:00 - 04:00 Intro to the event by [Dominik Weil](https://www.twitter.com/DominikWeil) (Founding Member of Bitcoin Saigon community)
 
 04:00 - 45:30 Panel - "Origins, Values & the future for Bitcoin
 Communities around the World" with [Leo Weese](https://twitter.com/LeoAW)
-([Hong Kong](https://www.bitcoin.org.hk/)), [Richard Bensberg](https://twitter.com/richardbensberg) ([Beijing](https://twitter.com/BeijingMeetup)), [John Saeyong Ra](https://twitter.com/johnsra) ([Seoul/Korea](https://bitcoincenterkorea.org/)), [Dominik Weil](www.twitter.com/DominikWeil) (Bitcoin Saigon Founding Team), [Tomo Huynh](www.twitter.com/tomoXtechno) (Moderator)
+([Hong Kong](https://www.bitcoin.org.hk/)), [Richard Bensberg](https://twitter.com/richardbensberg) ([Beijing](https://twitter.com/BeijingMeetup)), [John Saeyong Ra](https://twitter.com/johnsra) ([Seoul/Korea](https://bitcoincenterkorea.org/)), [Dominik Weil](https://www.twitter.com/DominikWeil) (Bitcoin Saigon Founding Team), [Tomo Huynh](https://www.twitter.com/tomoXtechno) (Moderator)
 
 46:00 - 1:26:00 "Importance of data and media literacy in the Crypto
 World" by [Koji Higashi](https://twitter.com/Coin_and_Peace)
-([Bitcoinization.com](bitcoinization.com))
+([Bitcoinization.com](https://bitcoinization.com))
 
-1:26:00 - 1:49:30 "Apps that can't be evil" by [Larry Salibra](https://twitter.com/larrysalibra) ([New Internet Labs](www.newinternetlabs.com)) 
+1:26:00 - 1:49:30 "Apps that can't be evil" by [Larry Salibra](https://twitter.com/larrysalibra) ([New Internet Labs](https://www.newinternetlabs.com)) 
 
 1:51:00 - 2:13:00 "Designing for Humans: How we approach design for
 complex systems in order to serve user needs" by [Jon Myers](https://twitter.com/jonmyers) (Liquid Exchange (former Quoine Exchange))
