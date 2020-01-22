@@ -6,7 +6,8 @@ image: assets/images/bitcoin_saigon_cover.png
 tags: [featured, sticky]
 ---
 Bitcoin Saigon is the original home of the city's Bitcoin community since 2014. Also, serving as a base for overseas experts and Bitcoin fans who visit, the group has held more than 100 events and meetups as part of our commitment to build a strong and dynamic community of Bitcoin enthusiasts and supporters.
-Founded by ver the years we had the honour to have many of the world’s foremost Bitcoin researchers, developers, investors, enthusiasts like Andreas Antonopoulos, Simon Dixon, Eric Voskuil, Roger Ver, Tone Vays, Neil Woodfine and many more!
+
+Founded initially by [Diana Ngo](https://twitter.com/DHQNgo "Diana Ngo"), [Khoa Tran](https://twitter.com/dkhoatr) and [Dominik Weil](http://www.twitter.com/DominikWeil) our community had over the years we had the honour to have many of the world’s foremost Bitcoin researchers, developers, investors, enthusiasts like Andreas Antonopoulos, Simon Dixon, Eric Voskuil, Roger Ver, Tone Vays, Neil Woodfine and many more!
 
 ![](../assets/images/bitcoin_saigon_logo.png)
 
