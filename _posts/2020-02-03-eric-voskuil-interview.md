@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fabian Jahr interviewed by Bitcoin Saigon"
+title: "CryptoEcon 2020 - Interview Eric Voskuil (Libbitcoin Lead Developer)"
 categories: [ Community ]
 image: assets/images/voskuil.jpg
 tags: [featured]
