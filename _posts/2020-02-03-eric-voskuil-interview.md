@@ -48,7 +48,7 @@ We have built a lasting and committed community, essential for others to take th
 
 We believe that a production quality systems level Bitcoin developer toolkit is essential to the buildout of a Bitcoin economy. A monolithic application cannot serve in this role, any more than Netscape could reasonably have served as the interface for all Web development. We see Libbitcoin as inevitable and take a long term approach to its evolution. We don’t promote it beyond its current capability and accept that it will take time for it to evolve to its full potential.
 
-***Bitcoin Saigon: Before we dive deeper into what the upcoming CryptoEcon 2020 is about: One obvious question ahead of the upcoming CryptoEcon 2020 - why Hanoi and why Vietnam as choice of location? ***
+***Bitcoin Saigon: Before we dive deeper into what the upcoming CryptoEcon 2020 is about: One obvious question ahead of the upcoming CryptoEcon 2020 - why Hanoi and why Vietnam as choice of location?***
 
 **Eric:** I like Hanoi. It’s a lively city filled with enterprising and kind people. I visited five years ago over Christmas, and returned last year on my own to ride a motorcycle from Saigon. It’s a place that many people I talk to would like to visit but haven’t. They also have the best coffee on the planet. I made sure there was a western style coffee shop just steps from the Venue.
 
@@ -61,7 +61,7 @@ shop, and paintball in a junkyard with shop employees.
 
 ***Bitcoin Saigon: How did you come up with the idea for the CryptoEcon event series, what is your target with the conference - and who should attend?***
 
-**Eric: **The idea evolved from my Cryptoeconomics writings. Many people had suggested a book. The initial publication will be delivered in print to conference attendees. But I have spoken at conferences and meetups around the world. One thing I came to realize is that rational economic concepts are poorly if ever actually explored. Scaling Bitcoin has become a center of excellence for the technological aspects of Bitcoin, but there is no counterpart in economics, which is equally
+**Eric:** The idea evolved from my Cryptoeconomics writings. Many people had suggested a book. The initial publication will be delivered in print to conference attendees. But I have spoken at conferences and meetups around the world. One thing I came to realize is that rational economic concepts are poorly if ever actually explored. Scaling Bitcoin has become a center of excellence for the technological aspects of Bitcoin, but there is no counterpart in economics, which is equally
 important to understanding.
 
 It’s hard for someone without intimate understanding of both the code and rational economic principles to properly analyze Bitcoin. Economists invariably err, even in understanding of the value proposition, but also the security model. This stems from a vague understanding of, and essentially blind faith in, the technology. Similarly, technologists invariably err in understanding and application of rational economic theory. Economics is often counterintuitive and takes a long time to
@@ -81,7 +81,7 @@ should attend.
 
 ***Bitcoin Saigon: Thank you so much for your time and insights Eric - and we wish for a successful CryptoEcon 2020!***
 
-**Eric: **Thanks for the opportunity, it's my pleasure.
+**Eric:** Thanks for the opportunity, it's my pleasure.
 
 ---
 
