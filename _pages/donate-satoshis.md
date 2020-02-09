@@ -18,6 +18,8 @@ Wrapped SegWit:
 
 ![3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t](../assets/images/3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t.png)
 
-Lightning:
-Coming soon!
+Lightning Network:
 
+Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 30 minutes:
+
+<iframe id="lightningtips" width="300" height="500" src="http://ln.bitcoinsaigon.org/lightningTip.php" style="border:none;" />
