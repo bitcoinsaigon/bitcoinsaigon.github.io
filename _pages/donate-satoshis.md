@@ -22,4 +22,5 @@ Lightning Network:
 
 Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 30 minutes:
 
-<iframe id="lightningtips" width="300" height="500" src="http://www-ln.bitcoinsaigon.org/lightningTip.php" style="border:none;" />
+<iframe id="lightningtips" width="300" height="500" src="https://www-ln.bitcoinsaigon.org/lightningTip.php" style="border:none;"></iframe>
+
