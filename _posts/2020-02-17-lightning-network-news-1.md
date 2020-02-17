@@ -16,7 +16,7 @@ tags: [featured]
 
 ![Lightning Tips](../assets/images/lightning_tip.jpg) 
 
-*You can now donate Sats directly via the Lightning Network to Bitcoin Saigon (https://bitcoinsaigon.org/donate-satoshis)!*
+*You can now donate Sats directly via the Lightning Network to [Bitcoin Saigon](https://bitcoinsaigon.org/donate-satoshis)!*
 
 *[We continue to be thankful to the work done by [Albert](http://www.twitter.com/subnetmask "Albert") of [Neutronpay](http://www.neutronpay.com "Neutronpay") and [Tomo](http://www.twitter.com/tomoxtechno "Tomo") of [BitcoinVN](http://www.bitcoinvn.io "BitcoinVN") who are volunteering their free time to build out this infrastructure for our community]*
 
