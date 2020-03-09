@@ -6,6 +6,9 @@ image: assets/images/bitcoin2020.jpg
 tags: [featured]
 ---
 
+Update March 7: Bitcoin2020 conference has been officially postponed due to the Coronavirus sitution.
+[More details](https://bitcoinmagazine.com/articles/postponed-bitcoin-2020-is-moving-to-q3-2020)
+
 ## David Bailey Interview - Bitcoin Saigon
 
 Just one more month to go until the second edition of the [Bitcoin Conference](https://www.bitcoin2020conference.com/ "Bitcoin Conference") hosted by [Bitcoin Magazine](https://bitcoinmagazine.com/ "Bitcoin Magazine") is going to take place in San Francisco.
