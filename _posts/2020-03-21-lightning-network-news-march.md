@@ -7,8 +7,10 @@ tags: [featured]
 ---
 
 
-## March 2020 - Episode II
- 
+## Lightning Network News Episode II
+
+Here's a roundup of updates on our community node and worldwide.
+
 ### Bitcoin Saigon LN Node:
  
 - Bitcoin Saigon Node has been [upgraded to LND 0.9](https://github.com/lightningnetwork/lnd/releases "upgraded to LND 0.9")
