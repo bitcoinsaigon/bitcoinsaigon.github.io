@@ -47,7 +47,7 @@ Besides being a regular venue host for our local meetups; their situation within
 - [Albert Buu](http://www.twitter.com/subnetmask) (CEO & Founder [Neutronpay](http://www.neutronpay.com)) : “Italiani's is a great place for pizza and pasta when you have a craving. They have a wide range of items to choose from on their menu and are decently price for Italian food in Ho Chi Minh. A Cozy setting with a close family feel, great for get togethers. They also offer to pay in Bitcoin Lightning which is a cool way to settle your bill. Would recommend to friends.”
 
 
-- [Bao Phuong Nguyen](http://www.twitter.com/PhuongBitcoinVN) (CEO & Founder BitcoinVN): “Definitely one of the most worth-trying spot in Saigon. Real wood-toasted pizza. Their homemade burrata is my must have every single time.”
+- [Bao Phuong Nguyen](http://www.twitter.com/PhuongBitcoinVN) (CEO & Founder [BitcoinVN](https://bitcoinvn.io/): “Definitely one of the most worth-trying spot in Saigon. Real wood-toasted pizza. Their homemade burrata is my must have every single time.”
 
 
 - [David Watson](https://vn.linkedin.com/in/davidwatson) (General Director[ future.travel](http://www.future.travel)): “Italiani’s is is the comfort food pizza place for Saigon. It is the place that you go and sit and say oh yeah this is great! Better than Home. Close to the city and close to my heart. Definitely one of my favourite places to eat in Ho Chi Minh City.”
