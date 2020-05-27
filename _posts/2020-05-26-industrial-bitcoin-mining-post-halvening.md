@@ -21,7 +21,7 @@ In this light we decided to invite you for our next Online Meetup with [Steve Ba
 You can read an interview we conducted with Steve in February 2020 ahead of the CryptoEcon 2020 conference in Hanoi [here](https://bitcoinsaigon.org/interview-steve-barbour-upstreamdata/).
 
 
-You can read an interview we conducted with Thomas in the past week here:
+You can read an interview we conducted with Thomas in the past week [here](https://bitcoinsaigon.org/interview-thomas-heller/).
 
 
 **[awaiting interview]**
