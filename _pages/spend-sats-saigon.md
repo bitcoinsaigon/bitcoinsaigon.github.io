@@ -5,7 +5,7 @@ permalink: "/sats-bitcoin-merchants-directory-saigon.html"
 
 The Bitcoin Community in Saigon has these days thanks to the dedicated work of some people within the community been able to expand the reach of Bitcoin Merchants in Saigon.
 
-Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [Dave Watson](https://twitter.com/watson_ita) of [future.travel](http://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
+Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [David Watson](https://twitter.com/watson_ita) of [Future.Travel](http://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
 
 ## Food & Beverage Venues
 
@@ -76,7 +76,7 @@ Besides being able to exchange Sats for Steak - they’re also host of some of t
 
 #### Offline/Online Merchants
 
-[Future.travel](https://future.travel/)
+#### [Future.Travel](https://future.travel/)
 
 Sector: Online Travel Agency (Flights, Cruises, Hotels, Visas and more!)
 Full service Travel Agent with online ticketing
@@ -91,7 +91,7 @@ An entrepreneur from head to toe and with business operating experience across 4
 
 He and his firm have been a steady supporter over the years of the local community - be it the efforts around [Bitfilm Festival 2015](https://www.coinnewsasia.com/bitcoin-saigon-to-host-the-first-bitfilm-festival/); [BlockFin Asia](http://www.blockfin.asia/) or sponsoring the [Bitcoin Lightning Node of the local community](https://1ml.com/node/023e4a4c0e0e114d88ab50ec14582fefd60ad8baae63eb0934db146d995c5567d7).
 
-Dave himself is also a regular at the local Bitcoin meetups and probably the person who has set up the most people with wallets and their first Sats all across the country.
+David himself is also a regular at the local Bitcoin meetups and probably the person who has set up the most people with wallets and their first Sats all across the country.
 
 - Interview: (following soon!)
 - Website: [future.travel](http://future.travel)
@@ -105,3 +105,4 @@ Dave himself is also a regular at the local Bitcoin meetups and probably the per
 ---
 
 *If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page](https://bitcoinsaigon.org/donate-satoshis)!*
+
