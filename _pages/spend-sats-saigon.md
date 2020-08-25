@@ -74,6 +74,21 @@ Besides being able to exchange Sats for Steak - they’re also host of some of t
 - Facebook: [fb.com/bigpig.vn](https://www.facebook.com/bigpig.vn)
 - Instagram: [instagram.com/bigpig.vn](www.instagram.com/bigpig.vn)
 
+#### Hem Chill - Seoul Street
+
+- Address: 8/13 Duong So 49B, Thao Dien, Quan 2, Thành phố Hồ Chí Minh 70000, Vietnam
+- Google Maps: [g.page/hemchill-d2](https://g.page/hemchill-d2?share)
+- Phone: 02836202919
+- Style: Bar & Fingerfood (Asian Style)
+
+Located in Saigon’s “Western expat” district of Thao Dien, Hem Chill - Seoul Street is one of the newest additions to Rob Rankin’s network of theme-oriented F&B outlets in town.
+
+Hem Chill Seoul Street describes itself as inspired by the vibrant walking streets of Asia with a wide variety of signature cocktails, craft beer, wine & soju as well as a variety of Asian & Western food delights.
+
+- Location review: [soon to follow!]
+- Facebook: [fb.com/hemchill.d2]( https://www.facebook.com/hemchill.d2)
+- Instagram: [instagram.com/hemchill.d2](www.instagram.com/hemchill.d2)
+
 #### Offline/Online Merchants
 
 #### [Future.Travel](https://future.travel/)
