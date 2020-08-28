@@ -6,8 +6,6 @@ image: assets/images/monis.jpg
 tags: [featured]
 ---
 
-![](https://bitcoinsaigon.org/assets/images/monis.jpg)
-
 [Monis](https://twitter.com/cryptotechgr) of the [Greek Crypto Community](https://twitter.com/greekcryptocom) is the leading force behind pulling together and organizing the upcoming [Global Online Bitcoin Meetup on September 19th](https://bitcoinsaigon.org/global-bitcoin-meetup/).
 
 ###### Bitcoin Saigon: Hi Monis! Can you tell us a bit more about your background and when & how you fell into the Bitcoin rabbithole?
