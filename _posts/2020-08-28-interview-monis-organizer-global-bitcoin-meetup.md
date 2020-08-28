@@ -32,3 +32,7 @@ tags: [featured]
 
 **Monis:** I am very pleased with the progress that has been made around custody solutions for institutions, I hope for more Segwit adoption and I am also quite excited about Liquid and its ability to free up bitcoin block space, especially when it comes to interexchange transfers. Regarding Bitcoin’s future, I see the same monetary practises linked to monetary base expansion that were the drivers for the creation of Bitcoin back in 2009 are now in play much more than before. As the failure of this experiment unfolds, I reckon that digital scarcity will remain in the spotlight. After all, 21 million is non-negotiable.
 
+---
+
+*If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page](http://bitcoinsaigon.org/donate-satoshis "Donation page")!*
+
