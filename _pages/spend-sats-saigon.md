@@ -3,6 +3,7 @@ title:  "Sats/Bitcoin Merchants Directory Saigon"
 permalink: "/sats-bitcoin-merchants-directory-saigon.html"
 ---
 
+
 The Bitcoin Community in Saigon has these days thanks to the dedicated work of some people within the community been able to expand the reach of Bitcoin Merchants in Saigon.
 
 Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [David Watson](https://twitter.com/watson_ita) of [Future.Travel](http://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
@@ -89,6 +90,39 @@ Hem Chill Seoul Street describes itself as inspired by the vibrant walking stree
 - Facebook: [fb.com/hemchill.d2]( https://www.facebook.com/hemchill.d2)
 - Instagram: [instagram.com/hemchill.d2](www.instagram.com/hemchill.d2)
 
+#### Tailgate
+
+Address: 224 Mai Chi Tho, Ho Chi Minh in D2 - [Google Maps](https://goo.gl/maps/iK6JntYynLUznBRK8)
+Style: Bar/Restaurant 
+
+Tailgate is located 224 Mai Chi Tho, Ho Chi Minh in D2 in a unique building made from sea containers. Tailgate offers a selection of coffee choice's from Cappuccino, Americano to Vietnamese coffee, ice or hot and more. There is also a food menu, and a selection of draft beers from east west and local brands to choose from. 
+
+It's a great place to get away from the crowded and busy streets of the usual local coffee and beer spots, with spacious room that can seat up to 40+, with an outdoor sitting area as well. Parties and events can also be booked. If visiting by motorbike, car or van there is plenty of space to park either one.
+
+Location review: [soon to follow!]
+Facebook: [fb.com/Tailgatesaigon](https://www.facebook.com/Tailgatesaigon/)
+Instagram: [instagram.com/tailgatesaigon](https://www.instagram.com/tailgatesaigon/)
+
+#### Baba’s Kitchen
+
+Address:
+1. 274 Bui Vien, Pham Ngu Lao Ward, District 1, Ho Chi Minh City - [Google Maps](https://g.page/babaskitchenbuivien?share) - Phone: +842838386661
+2.  35 Le Van Mien, Thao Dien Ward, District 2, Ho Chi Minh City, Vietnam - [Google Maps](https://g.page/babaskitchenthaodien?share) - Phone: +842837446897
+Style: Indian Restaurant
+
+“Baba’s brings India to Vietnam” is the motto of Baba’s Kitchen, which has been operating since fall of 2011 in the heart of our beloved Saigon. 
+
+By now being close to a decade in operation (and recently expanding to new locations in Thao Dien as well as the tourist town of Hoi An in Quang Nam province), you can tell that they found approval & steady support within Saigon’s large Foodie scene.
+
+Baba’s is offering a wide variety of Indian menu offerings, including mild, vegetarian and halal options at a very affordable price point.
+
+Baba’s Kitchen has been a regular venue of the weekly Bitcoin Saigon meetups since several years.
+
+Location review: [soon to follow!]
+Facebook: [Baba’s Kitchen](https://facebook.com/babaskitchenvn)
+Instagram: [Baba’s Kitchen](https://instagram.com/babaskitchenvn)
+Twitter: [Baba’s Kitchen](https://twitter.com/babaskitchenvn)
+
 #### Offline/Online Merchants
 
 #### [Future.Travel](https://future.travel/)
@@ -112,6 +146,21 @@ David himself is also a regular at the local Bitcoin meetups and probably the pe
 - Website: [future.travel](http://future.travel)
 - Twitter: [twitter.com/FutureTravel14](http://www.twitter.com/FutureTravel14)
 - Facebook: [fb.com/FutureTravel-1504447956442155](https://www.twitter.com/FutureTravel14)
+
+#### [BitcoinVN Online Shop](http://shop.bitcoinvn.io)
+
+Sector: Bitcoin-related hardware and merchandise
+
+[BitcoinVN Shop](http://shop.bitcoinvn.io) is the Online Shop of Vietnam’s oldest Bitcoin Exchange [BitcoinVN](http://www.bitcoinvn.io).
+
+As such it serves as an official reseller of hardware wallets from trusted manufacturers such as [Trezor](https://news.bitcoinvn.io/bitcoinvn-shop-official-reseller-trezor-vietnam/?lang=en) or [Ledger](https://news.bitcoinvn.io/official-reseller-ledger-hardware-vietnam/?lang=en). 
+
+BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the country since early 2014; founded by industry veterans such as [Dominik Weil](http://www.twitter.com/DominikWeil), [Alex Winter](http://www.twitter.com/realalexwinter) and [Bao Phuong Nguyen](http://www.twitter.com/PhuongBitcoinVN) and provides a variety of exchange-related services such as the online trading platform [VBTC](http://www.vbtc.exchange), the brokerage [BitcoinVN](http://www.bitcoinvn.io), an [OTC desk for institutional & affluent private clients](http://www.bitcoinvn.io/en/otc) and a fleet of [Bitcoin ATMs](http://btm.bitcoinvn.io).
+
+Interview: (following soon!)
+Website: [shop.bitcoinvn.io](http://shop.bitcoinvn.io)
+Facebook: [BitcoinVN Shop](https://www.facebook.com/Vilanh-BTC-Shop-Bitcoinvn-104495564767407/)
+Twitter: [BitcoinVN Shop](http://www.twitter.com/BitcoinVNShop)
 
 ---
 
