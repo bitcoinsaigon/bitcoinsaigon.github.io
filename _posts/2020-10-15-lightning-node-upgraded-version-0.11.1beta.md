@@ -17,7 +17,7 @@ Among the new features in this release are:
 
 For more details you can also read the blog entry by [Bryan Vu](http://www.twitter.com/bvu) of [Lightning Labs](https://lightning.engineering/) on the release:
 
-(https://lightning.engineering/posts/2020-08-20-lnd-v0.11/)[https://lightning.engineering/posts/2020-08-20-lnd-v0.11/]
+[https://lightning.engineering/posts/2020-08-20-lnd-v0.11/](https://lightning.engineering/posts/2020-08-20-lnd-v0.11/)
 
 If you are looking to get more actively involved and see how the Lightning Network is used in a practical manner today, we would encourage you to pass by one of our weekly meetups in Saigon (or if not based here - check out for [a good Bitcoin meetup in your area](https://bitcoin-only.com/#meetups) :) ).
 
