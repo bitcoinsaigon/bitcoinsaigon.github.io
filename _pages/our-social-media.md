@@ -13,6 +13,8 @@ YouTube: <a class="nav-link" target="_blank" href="https://www.youtube.com/chann
 
 Meetup.com: <a class="nav-link" target="_blank" href="https://www.meetup.com/Bitcoin-Saigon-Meetup/">Bitcoin Saigon Meetup</a>
 
+Telegram (public announcement channel): <a class="nav-link" target="_blank" href="https://t.me/BitcoinSaigon_public">t.me/BitcoinSaigon_public</a>
+
 The Lightning Network:
 
 Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 30 minutes:
