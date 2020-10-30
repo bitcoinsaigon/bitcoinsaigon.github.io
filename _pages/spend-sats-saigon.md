@@ -142,7 +142,7 @@ He and his firm have been a steady supporter over the years of the local communi
 
 David himself is also a regular at the local Bitcoin meetups and probably the person who has set up the most people with wallets and their first Sats all across the country.
 
-- Interview: (following soon!)
+- Interview: [Interview David Watson](https://bitcoinsaigon.org/david-watson-future-travel/)
 - Website: [future.travel](http://future.travel)
 - Twitter: [twitter.com/FutureTravel14](http://www.twitter.com/FutureTravel14)
 - Facebook: [fb.com/FutureTravel-1504447956442155](https://www.twitter.com/FutureTravel14)
