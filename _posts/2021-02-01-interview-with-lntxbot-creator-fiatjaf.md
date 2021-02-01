@@ -6,8 +6,6 @@ image: assets/images/interview_fiatjaf.jpg
 tags: [featured]
 ---
 
-![](/assets/images/interview_fiatjaf.jpg)
-
 If you are following the developments around the Lightning Network and are an active user of the [Telegram Messenger](https://bitcoinsaigon.org/public-telegram-announcement-channel/), there is a good chance that you have heard by now of [LNTXBot](https://bitcoinsaigon.org/lntxbot-lightning-wallet-telegram/).
 
 LNTXBot is a creation by [Fiatjaf](http://www.twitter.com/fiatjaf), an ardent builder of applications on the Lightning Network and creator of [Etleneum](https://etleneum.com/), which describes itself as “a global, open-source platform for the centralized applications” and offers a variety of smart contract applications ( a [prediction market](http://predictions.etleneum.com), [strategy games](https://lichess.etleneum.com/) or an [onchain tx auction platform](https://chainmarket.etleneum.com/)) without the unnecessary complexity of Ethereum & Co., while utilizing the Lightning Network as transfer mechanism for value.
