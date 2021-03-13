@@ -53,9 +53,9 @@ In regards to the local F&B industry, there will definitely be some long lasting
 
 > **Darrell Johnston:** “Fresh and filling plates, amazing nachos, hands down best Mexican in town , the staff are always friendly and attentive. It’s cosy.”
 
-> **David Watson (General Director future.travel):**“This place is awesome. It’s my once a week comfort food stop for the best burritos in Southeast Asia. My favourite: chicken burrito, California style, with extra guacamole, and refried beans. They even have A&W Root Beer and Peanut butter and jelly quesadillas for dessert or for children."
+> **[David Watson](https://vn.linkedin.com/in/davidwatson) (General Director [future.travel](http://www.future.travel/)):**“This place is awesome. It’s my once a week comfort food stop for the best burritos in Southeast Asia. My favourite: chicken burrito, California style, with extra guacamole, and refried beans. They even have A&W Root Beer and Peanut butter and jelly quesadillas for dessert or for children."
 
-> **Tomo Huynh:** "I have been coming here for years at its hidden Q4 location. It's my go to spot for burritos and the owner is always welcoming when he sees you unlike a lot of other joints!"
+> **[Tomo Huynh](http://www.twitter.com/tomoxtechno):** "I have been coming here for years at its hidden Q4 location. It's my go to spot for burritos and the owner is always welcoming when he sees you unlike a lot of other joints!"
 
 ---
 
