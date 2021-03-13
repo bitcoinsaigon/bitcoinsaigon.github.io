@@ -40,7 +40,7 @@ Led by F&B veteran Christopher Arizaga from Arizona, Tippy’s has become a regu
 
 Burritos, Tacos, Guacamole, Quesadilla… - everything the Mexican cuisine has to offer and more to make you happy & full!
 
-- Location review: (Following soon!)
+- Location review: [bitcoinsaigon.org/location-revue-tippy-s](https://bitcoinsaigon.org/location-revue-tippy-s/)
 - Facebook: [fb.com/TippysMexicanFood](https://www.facebook.com/TippysMexicanFood/)
 
 #### La Hem
