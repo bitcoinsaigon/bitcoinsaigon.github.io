@@ -30,3 +30,6 @@ Generate an invoice QR code with the amount of satoshis you want to donate to us
 
 [lntxbot.bigsun.xyz/@Bitcoin_Saigon](https://lntxbot.bigsun.xyz/@Bitcoin_Saigon)
 
+![@Bitcoin_Saigon on Telegram](../assets/images/lntx-bot-qr-code.jpg)
+
+LNURL1DP68GURN8GHJ7MRWW3UXYMM59E3XJEMNW4HZU7RE0GHKCMN4WFKZ7URP0YLH2UM9WFHXZMT984PXJARRDA5KUH6NV95KWMMWP08FH3
