@@ -8,19 +8,25 @@ community run by volunteers with a passion for Bitcoin - to help us
 finance further equipment or other event-related costs, you can donate
 to us here:
 
-Native SegWit:
+**Native SegWit:**
+
 bc1q6432ethfyaumwkjhsapkd569gmhscs4gu35rp2
 
 ![bc1q6432ethfyaumwkjhsapkd569gmhscs4gu35rp2](../assets/images/bc1q6432ethfyaumwkjhsapkd569gmhscs4gu35rp2.png)
 
-Wrapped SegWit:
+**Wrapped SegWit:**
+
 3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t
 
 ![3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t](../assets/images/3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t.png)
 
-Lightning Network:
+**Lightning Network:**
 
 Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 30 minutes:
 
 <iframe id="lightningtips" width="300" height="500" src="https://www-ln.bitcoinsaigon.org/lightningTip.php" style="border:none;"></iframe>
+
+**Donate to Bitcoin Saigon via [LNTXBot](https://lntxbot.bigsun.xyz/@Bitcoin_Saigon) on Telegram**
+
+[lntxbot.bigsun.xyz/@Bitcoin_Saigon](https://lntxbot.bigsun.xyz/@Bitcoin_Saigon)
 
