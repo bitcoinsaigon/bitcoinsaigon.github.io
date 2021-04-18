@@ -92,8 +92,9 @@ Hem Chill Seoul Street describes itself as inspired by the vibrant walking stree
 
 #### Tailgate
 
-Address: 224 Mai Chi Tho, Ho Chi Minh in D2 - [Google Maps](https://goo.gl/maps/iK6JntYynLUznBRK8)
-Style: Bar/Restaurant 
+- Address: 224 Mai Chi Tho, Ho Chi Minh in D2
+- Google Maps: [goo.gl/maps/iK6JntYynLUznBRK8](https://goo.gl/maps/iK6JntYynLUznBRK8)
+- Style: Bar/Restaurant 
 
 Tailgate is located 224 Mai Chi Tho, Ho Chi Minh in D2 in a unique building made from sea containers. Tailgate offers a selection of coffee choice's from Cappuccino, Americano to Vietnamese coffee, ice or hot and more. There is also a food menu, and a selection of draft beers from east west and local brands to choose from. 
 
@@ -105,10 +106,10 @@ Instagram: [instagram.com/tailgatesaigon](https://www.instagram.com/tailgatesaig
 
 #### Baba’s Kitchen
 
-Address:
+- Address:
 1. 274 Bui Vien, Pham Ngu Lao Ward, District 1, Ho Chi Minh City - [Google Maps](https://g.page/babaskitchenbuivien?share) - Phone: +842838386661
 2.  35 Le Van Mien, Thao Dien Ward, District 2, Ho Chi Minh City, Vietnam - [Google Maps](https://g.page/babaskitchenthaodien?share) - Phone: +842837446897
-Style: Indian Restaurant
+- Style: Indian Restaurant
 
 “Baba’s brings India to Vietnam” is the motto of Baba’s Kitchen, which has been operating since fall of 2011 in the heart of our beloved Saigon. 
 
@@ -125,8 +126,10 @@ Twitter: [Baba’s Kitchen](https://twitter.com/babaskitchenvn)
 
 #### Capone’s Chicago Deep Dish Pizza & Street Food
 
-Address: 13 Đường số 49B, Thảo Điền, Quận 2, Ho Chi Minh City - [Google Maps](https://g.page/CaponesPizzaSaigonHCMC?share)
-Style: Authentic Chicago Deep Dish pizza & street food
+- Address: 13 Đường số 49B, Thảo Điền, Quận 2, Ho Chi Minh City
+- Google Maps: [g.page/CaponesPizzaSaigonHCMC](https://g.page/CaponesPizzaSaigonHCMC?share)
+- Phone: +84338787459
+- Style: Authentic Chicago Deep Dish pizza & street food
 
 Capone’s Chicago Deep Dish Pizza has been filling a gap in Saigon’s ever expanding scene of food offerings:
 
@@ -146,8 +149,8 @@ Sector: Online Travel Agency (Flights, Cruises, Hotels, Visas and more!)
 Full service Travel Agent with online ticketing
 
 - Address: 15/6 Le Van Huan, Tan Binh District, Ho Chi Minh City (Airport location) 
-- Google Maps: [https://goo.gl/maps/7aPVHXaRg1W9Ncs67](https://goo.gl/maps/7aPVHXaRg1W9Ncs67)
-- Phone: +84 28 7301 9991 or WhatsAp/Viber/Zalo +84902669335
+- Google Maps: [goo.gl/maps/7aPVHXaRg1W9Ncs67](https://goo.gl/maps/7aPVHXaRg1W9Ncs67)
+- Phone: +842873019991 or WhatsAp/Viber/Zalo +84902669335
 
 If there is one person in Saigon and possibly all over Vietnam who deserves the title as *the* doyen of Bitcoin merchant adoption in Vietnam, then it is [Future.Travel](https://future.travel/)’s General Director David Watson.
 
