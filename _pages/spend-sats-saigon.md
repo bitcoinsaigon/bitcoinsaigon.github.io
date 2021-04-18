@@ -100,9 +100,9 @@ Tailgate is located 224 Mai Chi Tho, Ho Chi Minh in D2 in a unique building made
 
 It's a great place to get away from the crowded and busy streets of the usual local coffee and beer spots, with spacious room that can seat up to 40+, with an outdoor sitting area as well. Parties and events can also be booked. If visiting by motorbike, car or van there is plenty of space to park either one.
 
-Location review: [soon to follow!]
-Facebook: [fb.com/Tailgatesaigon](https://www.facebook.com/Tailgatesaigon/)
-Instagram: [instagram.com/tailgatesaigon](https://www.instagram.com/tailgatesaigon/)
+- Location review: [soon to follow!]
+- Facebook: [fb.com/Tailgatesaigon](https://www.facebook.com/Tailgatesaigon/)
+- Instagram: [instagram.com/tailgatesaigon](https://www.instagram.com/tailgatesaigon/)
 
 #### Baba’s Kitchen
 
@@ -119,10 +119,10 @@ Baba’s is offering a wide variety of Indian menu offerings, including mild, ve
 
 Baba’s Kitchen has been a regular venue of the weekly Bitcoin Saigon meetups since several years.
 
-Location review: [soon to follow!]
-Facebook: [Baba’s Kitchen](https://facebook.com/babaskitchenvn)
-Instagram: [Baba’s Kitchen](https://instagram.com/babaskitchenvn)
-Twitter: [Baba’s Kitchen](https://twitter.com/babaskitchenvn)
+- Location review: [soon to follow!]
+- Facebook: [Baba’s Kitchen](https://facebook.com/babaskitchenvn)
+- Instagram: [Baba’s Kitchen](https://instagram.com/babaskitchenvn)
+- Twitter: [Baba’s Kitchen](https://twitter.com/babaskitchenvn)
 
 #### Capone’s Chicago Deep Dish Pizza & Street Food
 
@@ -137,9 +137,9 @@ If you got cravings for a typical Chicago-area Deep Dish Pizza - Capone’s got 
 
 One of the highlights of the location is the stunning riverside view with a look right onto South-East Asia’s tallest building, the Landmark 81 at Vinhomes Central Park.
 
-Location review: [soon to follow!]
-Facebook: [fb.com/CaponesDeepDishandStreetFood](https://facebook.com/CaponesDeepDishandStreetFood)
-Instagram: [instagram.com/capones_saigon/](https://www.instagram.com/capones_saigon/)
+- Location review: [soon to follow!]
+- Facebook: [fb.com/CaponesDeepDishandStreetFood](https://facebook.com/CaponesDeepDishandStreetFood)
+- Instagram: [instagram.com/capones_saigon/](https://www.instagram.com/capones_saigon/)
 
 #### Offline/Online Merchants
 
@@ -175,10 +175,10 @@ As such it serves as an official reseller of hardware wallets from trusted manuf
 
 BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the country since early 2014; founded by industry veterans such as [Dominik Weil](http://www.twitter.com/DominikWeil), [Alex Winter](http://www.twitter.com/realalexwinter) and [Bao Phuong Nguyen](http://www.twitter.com/PhuongBitcoinVN) and provides a variety of exchange-related services such as the online trading platform [VBTC](http://www.vbtc.exchange), the brokerage [BitcoinVN](http://www.bitcoinvn.io), an [OTC desk for institutional & affluent private clients](http://www.bitcoinvn.io/en/otc) and a fleet of [Bitcoin ATMs](http://btm.bitcoinvn.io).
 
-Interview: (following soon!)
-Website: [shop.bitcoinvn.io](http://shop.bitcoinvn.io)
-Facebook: [BitcoinVN Shop](https://www.facebook.com/Vilanh-BTC-Shop-Bitcoinvn-104495564767407/)
-Twitter: [BitcoinVN Shop](http://www.twitter.com/BitcoinVNShop)
+- Interview: (following soon!)
+- Website: [shop.bitcoinvn.io](http://shop.bitcoinvn.io)
+- Facebook: [BitcoinVN Shop](https://www.facebook.com/Vilanh-BTC-Shop-Bitcoinvn-104495564767407/)
+- Twitter: [BitcoinVN Shop](http://www.twitter.com/BitcoinVNShop)
 
 ---
 
