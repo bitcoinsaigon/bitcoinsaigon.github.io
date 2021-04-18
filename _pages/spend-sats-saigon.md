@@ -123,6 +123,21 @@ Facebook: [Baba’s Kitchen](https://facebook.com/babaskitchenvn)
 Instagram: [Baba’s Kitchen](https://instagram.com/babaskitchenvn)
 Twitter: [Baba’s Kitchen](https://twitter.com/babaskitchenvn)
 
+#### Capone’s Chicago Deep Dish Pizza & Street Food
+
+Address: 13 Đường số 49B, Thảo Điền, Quận 2, Ho Chi Minh City - [Google Maps](https://g.page/CaponesPizzaSaigonHCMC?share)
+Style: Authentic Chicago Deep Dish pizza & street food
+
+Capone’s Chicago Deep Dish Pizza has been filling a gap in Saigon’s ever expanding scene of food offerings:
+
+If you got cravings for a typical Chicago-area Deep Dish Pizza - Capone’s got you covered. The Pizza pies are huge - and if that is still not enough for you, Capone’s got the “Double Decker” version on the menu to really fill you up!
+
+One of the highlights of the location is the stunning riverside view with a look right onto South-East Asia’s tallest building, the Landmark 81 at Vinhomes Central Park.
+
+Location review: [soon to follow!]
+Facebook: [fb.com/CaponesDeepDishandStreetFood](https://facebook.com/CaponesDeepDishandStreetFood)
+Instagram: [instagram.com/capones_saigon/](https://www.instagram.com/capones_saigon/)
+
 #### Offline/Online Merchants
 
 #### [Future.Travel](https://future.travel/)
