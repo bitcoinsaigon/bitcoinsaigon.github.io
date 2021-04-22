@@ -11,7 +11,7 @@ Simon has over the past year contributed greatly with his insights and expertise
 
 While Simon has left Vietnam now to go onto the next leg of his nomadic journey, we still took the chance to have a few more words with him - on Bitcoin, Vietnam and where he sees the major opportunities in the upcoming decade!
 
-![](assets/images/interview-simon-mempool-space.jpg)
+![Interview Simon (Mempool.space)](assets/images/interview-simon-mempool-space.jpg)
 
 #### Bitcoin Saigon: Hey Simon! The usual opener question: When and how did you learn about Bitcoin - and what made it “click” for you that you decided to dedicate your career to it?
 
@@ -68,8 +68,6 @@ The biggest challenge was finding a performant backend software that made transa
 ---
 
 If you like what the Mempool.space team is doing and become a sponsor on your own - you can do so [here](https://mempool.space/about)!
-
-[Usual call for donation Donation text of Bitcoin Saigon here]
 
 ---
 
