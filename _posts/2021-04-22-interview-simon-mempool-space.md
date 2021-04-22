@@ -11,6 +11,8 @@ Simon has over the past year contributed greatly with his insights and expertise
 
 While Simon has left Vietnam now to go onto the next leg of his nomadic journey, we still took the chance to have a few more words with him - on Bitcoin, Vietnam and where he sees the major opportunities in the upcoming decade!
 
+![Interview Simon (Mempool.space)](/assets/images/interview-simon-mempool-space.jpg)
+
 #### Bitcoin Saigon: Hey Simon! The usual opener question: When and how did you learn about Bitcoin - and what made it “click” for you that you decided to dedicate your career to it?
 
 **Simon:** I learned about Bitcoin from a friend back in 2013 but I never took the time to research deeply which made me reject it and forget about it for several years. It wasn’t until 2016 when I started hearing about it again, and 2017 when I took the time of actually digging deep to build an understanding, and since then I have been completely hooked which led me to wanting to work on Bitcoin related projects ever since.
