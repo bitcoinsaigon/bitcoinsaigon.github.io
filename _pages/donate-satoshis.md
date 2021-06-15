@@ -10,15 +10,15 @@ to us here:
 
 **Native SegWit:**
 
-bc1q6432ethfyaumwkjhsapkd569gmhscs4gu35rp2
+bc1qjjwfxyjx6a5ezn0lsgh04t6w39ycs4qhpc4es80a0jnrlg2f9apqhvqdq8
 
-![bc1q6432ethfyaumwkjhsapkd569gmhscs4gu35rp2](../assets/images/bc1q6432ethfyaumwkjhsapkd569gmhscs4gu35rp2.png)
+![bc1q6432ethfyaumwkjhsapkd569gmhscs4gu35rp2](../assets/images/native-segwit-qr.png)
 
 **Wrapped SegWit:**
 
-3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t
+31zqcAgM3urq29KwEHeS6Mh8ycmnTDvF17
 
-![3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t](../assets/images/3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t.png)
+![3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t](../assets/images/wrapped-segwit-qr.png)
 
 **Lightning Network:**
 
