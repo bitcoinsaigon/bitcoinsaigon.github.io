@@ -12,13 +12,13 @@ to us here:
 
 bc1qjjwfxyjx6a5ezn0lsgh04t6w39ycs4qhpc4es80a0jnrlg2f9apqhvqdq8
 
-![bc1q6432ethfyaumwkjhsapkd569gmhscs4gu35rp2](../assets/images/native-segwit-qr.png)
+![bc1qjjwfxyjx6a5ezn0lsgh04t6w39ycs4qhpc4es80a0jnrlg2f9apqhvqdq8](../assets/images/native-segwit-qr.jpg)
 
 **Wrapped SegWit:**
 
 31zqcAgM3urq29KwEHeS6Mh8ycmnTDvF17
 
-![3KeLwkB5sfT8mDobpBD1EW4FCTJrL6wu8t](../assets/images/wrapped-segwit-qr.png)
+![31zqcAgM3urq29KwEHeS6Mh8ycmnTDvF17](../assets/images/wrapped-segwit-qr.jpg)
 
 **Lightning Network:**
 
