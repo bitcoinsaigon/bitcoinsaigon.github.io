@@ -20,11 +20,11 @@ bc1qjjwfxyjx6a5ezn0lsgh04t6w39ycs4qhpc4es80a0jnrlg2f9apqhvqdq8
 
 ![31zqcAgM3urq29KwEHeS6Mh8ycmnTDvF17](../assets/images/wrapped-segwit-qr.jpg)
 
-**Lightning Network:**
+**Lightning Network and On-Chain:**
 
-Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 30 minutes:
+Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 15 minutes:
 
-<iframe id="lightningtips" src="https://bitcoinsaigon-lntip.herokuapp.com/tip.html" style="border:none;"></iframe>
+<iframe id="tips" width="550" height="800" src="https://bitcoinsaigon-lntip.herokuapp.com/tip.html" style="border:none;"></iframe>
 
 **Donate to Bitcoin Saigon via [LNTXBot](https://lntxbot.bigsun.xyz/@Bitcoin_Saigon) on Telegram**
 
