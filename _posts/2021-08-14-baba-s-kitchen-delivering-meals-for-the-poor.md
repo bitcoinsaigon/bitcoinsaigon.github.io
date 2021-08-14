@@ -2,7 +2,7 @@
 layout: post
 title:  "Lockdown in Saigon - Baba’s Kitchen delivering 400 meals per day for the poor (and how you can support them!)"
 categories: [ Community ]
-image: 
+image: assets/images/baba-s-kitchen-delivering-meals-for-the-poor-1.jpg
 tags:
 ---
 As Vietnam currently gets ravaged by another round of lockdowns which have especially detrimental effects on the city’s inhabitants in more precarious living & working circumstances, private efforts in Saigon have been ramping up to provide at least some relief to the hardest-hit demographic.
@@ -15,7 +15,7 @@ One of the more outstanding initiatives has been launched by Baba’s Kitchen, w
 
 For several weeks now, the team around Robin Babu, the founder and owner of Baba’s Kitchen, has been serving hundreds of meals per day to the more unfortunate of this city to provide them with some relief in these challenging times.
 
-![](https://bitcoinsaigon.org/assets/images/baba-s-kitchen-delivering-meals-for-the-poor-1.jpg)
+![](assets/images/baba-s-kitchen-delivering-meals-for-the-poor-1.jpg)
 
 #### Q1: Hi Robin! How is the situation in Saigon these days - and what can people do to help?
 
@@ -31,7 +31,7 @@ We get donations of vegetables and occasionally fish or meat.
 
 **Robin:** Vietnamese people are very resilient and entrepreneurial; we believe that as soon as this pandemic is under control, the industries like apparel, shoes, furniture, metal and plastic will thrive again and the tourist industry will rebound.
 
-![Robin of Baba’s Kitchen holding up the flag in Vietnam](https://bitcoinsaigon.org/assets/images/baba-s-kitchen-delivering-meals-for-the-poor-2.jpg)
+![Robin of Baba’s Kitchen holding up the flag in Vietnam](assets/images/baba-s-kitchen-delivering-meals-for-the-poor-2.jpg)
 *Robin of Baba’s Kitchen holding up the flag in Vietnam*
 
 If you are looking to support the efforts by Robin and his team, every single Satoshi donated to the community page for the time of the lockdowns will be utilized to support the efforts of Baba’s Kitchen.
