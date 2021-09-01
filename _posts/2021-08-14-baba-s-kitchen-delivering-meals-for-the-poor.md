@@ -3,7 +3,7 @@ layout: post
 title:  "Lockdown in Saigon - Baba’s Kitchen delivering 400 meals per day for the poor (and how you can support them!)"
 categories: [ Community ]
 image: assets/images/baba-s-kitchen-delivering-meals-for-the-poor-1.jpg
-tags: [featured]
+tags: [featured] [special]
 ---
 As Vietnam currently gets ravaged by another round of lockdowns which have especially detrimental effects on the city’s inhabitants in more precarious living & working circumstances, private efforts in Saigon have been ramping up to provide at least some relief to the hardest-hit demographic.
 
