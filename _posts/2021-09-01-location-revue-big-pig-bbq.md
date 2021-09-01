@@ -2,7 +2,7 @@
 layout: post
 title:  "Location Revue - Big Pig BBQ"
 categories: [ Community ]
-image:
+image: assets/images/location-revue-big-pig-bbq-1.jpg
 tags:
 ---
 2021 - another year, another round of Corona-related shutdowns and “stay home” orders.
@@ -17,7 +17,7 @@ In these daring times it’s time to pull together as a community and *#supporty
 
 In our 3rd edition we are covering Big Pig BBQ, which has been a regular meetup spot for the local Bitcoin community; favoured due to its carnivore-friendly menu as well as its wide selection of local craft & imported beers.
 
-![](assets/images/location-revue-big-pig-bbq-1.jpg)
+![](/assets/images/location-revue-big-pig-bbq-1.jpg)
  
 We had the opportunity to catch up with Rob Rankin - the face behind Big Pig BBQ and well-known and reputable name in the local foodie & restaurateur scene - to discuss the challenges and opportunities which come along with the current times.
 
@@ -34,7 +34,7 @@ We had the opportunity to catch up with Rob Rankin - the face behind Big Pig BBQ
 **Rob:** Well, Corona has flipped everything on its head. At the moment we are completely closed in all outlets and waiting for delivery to be permitted again. 
 When will things get back to normal - this is anyone’s best guess. Like most F&B businesses, we will be pivoting certain brands towards more delivery.
 
-![](assets/images/location-revue-big-pig-bbq-2.jpg)
+![](/assets/images/location-revue-big-pig-bbq-2.jpg)
 *The Big Pig team has done their part to help feeding the most vulnerable victims of the current lockdown*
 
 #### Bitcoin Saigon: Once this whole Corona story is “over”: Why should people come & visit Vietnam?
@@ -45,7 +45,7 @@ When will things get back to normal - this is anyone’s best guess. Like most F
 
 **Rob**: I am a huge fan of our sizzling platters. Try the Beef & Mushroom or Beef & Cheese rolls which are served to the table sizzling hot with two sides. Then, get a big rack of our low & slow cooked ribs smothered in our homemade sweet & tangy BBQ sauce. Wash it down with a cold local craft beer - we have over 25 to choose from.
 
-![](assets/images/location-revue-big-pig-bbq-3.jpg)
+![](/assets/images/location-revue-big-pig-bbq-3.jpg)
 
 ------------
 
