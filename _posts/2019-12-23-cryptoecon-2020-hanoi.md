@@ -3,7 +3,7 @@ layout: post
 title:  "CryptoEcon 2020 in Hanoi - The Bitcoin-centric event of the year in Vietnam!"
 categories: [ Community ]
 image: assets/images/cryptoecon.jpg
-tags: [featured]
+tags: 
 ---
 After several months of preparation this week saw finally the official announcement of [CryptoEcon 2020](http://www.cryptoecon.org/) in Hanoi, which by all measures will likely be the unmatched Bitcoin-centric event of the year for Vietnam, which has been flooded by low-quality, scammy "Blockchain" events but starved for real, valuable content for far too long.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Chaincode Meetup"
 categories: [ Community ]
 image: assets/images/chaincode-01-head.jpg
-tags: [featured]
+tags: 
 ---
 Besides our regular weekly meetups - we have in February a special Bitcoin Saigon meetup coming up again!
  

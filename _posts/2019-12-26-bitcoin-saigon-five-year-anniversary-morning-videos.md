@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Saigon Five Year Anniversary - The Morning Sessions - Video out now!"
 categories: [ Community ]
 image: assets/images/5yearanniversary.jpg
-tags: [featured]
+tags: 
 ---
 
 Five Years Bitcoin Saigon - two days packed with deep discussion

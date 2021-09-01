@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Saigon Five Year Anniversary recap video - OUT NOW"
 categories: [ Community ]
 image: assets/images/5ya_video_shot.png
-tags: [featured]
+tags: 
 ---
 Five Years Bitcoin Saigon - it was two days packed with deep discussion around the past, present, and future of Bitcoin on various topics such as privacy, scaling, data transparency, and resilience against fundamental attack vectors.
 

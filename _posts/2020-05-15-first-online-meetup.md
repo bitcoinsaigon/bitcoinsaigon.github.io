@@ -3,7 +3,7 @@ layout: post
 title:  First Online Meetup
 categories: [ Community ]
 image: assets/images/albert_youtube.jpg
-tags: [featured]
+tags: 
 ---
 ## Bitcoin Saigon Online Meetup (30.04.20) - Shownotes
 

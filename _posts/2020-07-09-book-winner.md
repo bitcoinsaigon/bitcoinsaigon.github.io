@@ -3,7 +3,7 @@ layout: post
 title:  "Cryptoeconomics Book Auction Winner"
 categories: [ Community ]
 image: assets/images/bookwinner.png
-tags: [featured]
+tags: 
 ---
 ## Winner announcement -“Cryptoeconomics Book Auction”
 

@@ -3,7 +3,7 @@ layout: post
 title:  "CryptoEcon Book Auction"
 categories: [ Community ]
 image: assets/images/cryptoecon.jpg
-tags: [featured]
+tags: 
 ---
 
 ## CryptoEconomics - Book Auction

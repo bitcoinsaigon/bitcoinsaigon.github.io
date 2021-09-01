@@ -3,7 +3,7 @@ layout: post
 title:  "Interview with F2Pool's Thomas Heller"
 categories: [ Community ]
 image: assets/images/thomasheller.jpg
-tags: [featured]
+tags: 
 ---
 ## Interview Thomas Heller (F2Pool)
 

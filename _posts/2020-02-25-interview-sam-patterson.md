@@ -3,7 +3,7 @@ layout: post
 title:  "CryptoEcon 2020 - Interview with Samuel Patterson"
 categories: [ Community ]
 image: assets/images/OpenBazaar-2.0-Screengrab.png
-tags: [featured]
+tags: 
 ---
 ## CryptoEcon 2020 - Interview Sam Patterson (Co-Founder OpenBazaar)
 

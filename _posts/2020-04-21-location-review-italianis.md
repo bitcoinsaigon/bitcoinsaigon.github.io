@@ -3,7 +3,7 @@ layout: post
 title:  "Location Review - Italiani's Pizza"
 categories: [ Community ]
 image: assets/images/italianispizza.jpg
-tags: [featured]
+tags: 
 ---
 
 ## Italiani's Pizza

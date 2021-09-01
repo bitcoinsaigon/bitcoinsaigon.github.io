@@ -3,7 +3,7 @@ layout: post
 title: "Fabian Jahr interviewed by Bitcoin Saigon"
 categories: [ Community ]
 image: assets/images/fabian.jpg
-tags: [featured]
+tags: 
 ---
 ## **Fabian Jahr Interview - Bitcoin Saigon**
 

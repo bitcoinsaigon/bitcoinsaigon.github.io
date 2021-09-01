@@ -3,7 +3,7 @@ layout: post
 title:  "LNTXBOT - a Lightning Wallet for every Telegram User"
 categories: [ Community ]
 image: assets/images/lntxbot.jpg
-tags: [featured]
+tags: 
 ---
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "10th Anniversary of Bitcoin Pizza Day!"
 categories: [ Community ]
 image: assets/images/apizza.png
-tags: [featured]
+tags: 
 ---
 ## 10th Anniversary of Bitcoin Pizza Day!
 

@@ -3,7 +3,7 @@ layout: post
 title: "CryptoEcon 2020 - Interview Eric Voskuil (Libbitcoin Lead Developer)"
 categories: [ Community ]
 image: assets/images/voskuil.jpg
-tags: [featured]
+tags: 
 ---
 ## CryptoEcon 2020 - Interview Eric Voskuil (Libbitcoin Lead Developer)
 

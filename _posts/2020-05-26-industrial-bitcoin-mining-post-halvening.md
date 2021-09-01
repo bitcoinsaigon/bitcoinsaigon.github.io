@@ -3,7 +3,7 @@ layout: post
 title:  "Industrial Bitcoin Mining after the Halving and beyond"
 categories: [ Community ]
 image: assets/images/mining-post-halvening.jpg
-tags: [featured]
+tags: 
 ---
 
 ## "Industrial Bitcoin Mining after the Halving and beyond" (29.05.20 - Online Event)

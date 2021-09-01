@@ -3,7 +3,7 @@ layout: post
 title:  "Interview David Watson (Future.Travel & Operator of Asia’s first Lightning ATM)"
 categories: [ Community ]
 image: assets/images/lightning-atm-location.jpg
-tags: [featured]
+tags: 
 ---
 ![](../assets/images/david-watson.jpg)
 
