@@ -18,7 +18,7 @@ In these daring times it’s time to pull together as a community and *#supporty
 In our 3rd edition we are covering Big Pig BBQ, which has been a regular meetup spot for the local Bitcoin community; favoured due to its carnivore-friendly menu as well as its wide selection of local craft & imported beers.
 
 ![](/assets/images/location-revue-big-pig-bbq-1.jpg)
- 
+
 We had the opportunity to catch up with Rob Rankin - the face behind Big Pig BBQ and well-known and reputable name in the local foodie & restaurateur scene - to discuss the challenges and opportunities which come along with the current times.
 
 #### Bitcoin Saigon: Hi Rob! Thanks for taking the time to respond in this challenging time for the F&B industry in Saigon! Our first question: When and how did you decide to enter the F&B space which is known as a very competitive sector to operate in?
@@ -57,5 +57,4 @@ When will things get back to normal - this is anyone’s best guess. Like most F
 
 ------------
 
-*If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our Donation page!
-*
+*If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our Donation page!*
