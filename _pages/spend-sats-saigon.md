@@ -71,7 +71,7 @@ All of that you can have at [Rob Rankin’s Big Pig BBQ](https://news.bitcoinvn.
 
 Besides being able to exchange Sats for Steak - they’re also host of some of the [Bitcoin ATMs in town](http://btm.bitcoinvn.io).
 
-- Location review: [soon to follow!]
+- Location review: [bitcoinsaigon.org/location-revue-big-pig-bbq](https://bitcoinsaigon.org/location-revue-big-pig-bbq/)
 - Facebook: [fb.com/bigpig.vn](https://www.facebook.com/bigpig.vn)
 - Instagram: [instagram.com/bigpig.vn](www.instagram.com/bigpig.vn)
 
@@ -89,20 +89,6 @@ Hem Chill Seoul Street describes itself as inspired by the vibrant walking stree
 - Location review: [soon to follow!]
 - Facebook: [fb.com/hemchill.d2]( https://www.facebook.com/hemchill.d2)
 - Instagram: [instagram.com/hemchill.d2](www.instagram.com/hemchill.d2)
-
-#### Tailgate
-
-- Address: 224 Mai Chi Tho, Ho Chi Minh in D2
-- Google Maps: [goo.gl/maps/iK6JntYynLUznBRK8](https://goo.gl/maps/iK6JntYynLUznBRK8)
-- Style: Bar/Restaurant 
-
-Tailgate is located 224 Mai Chi Tho, Ho Chi Minh in D2 in a unique building made from sea containers. Tailgate offers a selection of coffee choice's from Cappuccino, Americano to Vietnamese coffee, ice or hot and more. There is also a food menu, and a selection of draft beers from east west and local brands to choose from. 
-
-It's a great place to get away from the crowded and busy streets of the usual local coffee and beer spots, with spacious room that can seat up to 40+, with an outdoor sitting area as well. Parties and events can also be booked. If visiting by motorbike, car or van there is plenty of space to park either one.
-
-- Location review: [soon to follow!]
-- Facebook: [fb.com/Tailgatesaigon](https://www.facebook.com/Tailgatesaigon/)
-- Instagram: [instagram.com/tailgatesaigon](https://www.instagram.com/tailgatesaigon/)
 
 #### Baba’s Kitchen
 
