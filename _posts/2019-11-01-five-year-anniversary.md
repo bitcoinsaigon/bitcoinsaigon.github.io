@@ -3,7 +3,7 @@ layout: post
 title:  "5 Year Anniversary of Bitcoin Saigon"
 categories: [ Community ]
 image: assets/images/5yearanniversary.jpg
-tags: 
+tags: [featured]
 ---
 Bitcoin Saigon community is celebrating it's five year anniversary - and many special guests from all across Asia are flying in to celebrate with us!
 

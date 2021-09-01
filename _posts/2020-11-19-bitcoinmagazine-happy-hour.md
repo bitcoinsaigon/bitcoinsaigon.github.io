@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Saigon at BitcoinMagazine Happy Hour (recording available now)"
 categories: [ Community ]
 image: assets/images/happyhour.png
-tags: 
+tags: [featured]
 ---
 
 On Friday, 13.11.20, [BitcoinMagazine](https://bitcoinmagazine.com/) hosted one of their regular “Bitcoin Happy Hour” podcasts; this time around with two well-known guests from the Bitcoin Saigon Community.

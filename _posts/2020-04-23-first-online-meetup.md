@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Saigon - 1st Online Meetup - 30.04.2020"
 categories: [ Community ]
 image: assets/images/onlinemeetup.jpg
-tags: 
+tags: [featured]
 ---
 
 While the current situation around the Coronavirus has made our regular weekly meetups for our local Bitcoin community impossible for the time, we are looking forward to offering an online alternative to keep all of us connected & discuss the newest trends, topics and happenings in and around the Bitcoin space (and there are many!).

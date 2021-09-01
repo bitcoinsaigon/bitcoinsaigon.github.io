@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin BlackFriday 2020! (Interview John Riggins - BitcoinMagazine)"
 categories: [ Community ]
 image: assets/images/johnriggins.jpg
-tags: 
+tags: [featured]
 ---
 
 What [started out in 2012](https://bitcointalk.org/index.php?topic=120886.0) with very humble beginnings as a grassroots initiative from some active Bitcointalk members and just a few dozen participating Bitcoin merchants, has grown over the years to a large scale event for the Global Bitcoin community.

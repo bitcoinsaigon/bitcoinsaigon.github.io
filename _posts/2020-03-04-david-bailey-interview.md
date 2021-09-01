@@ -3,7 +3,7 @@ layout: post
 title:  "Interviewing David Bailey of Bitcoin Magazine / Bitcoin2020"
 categories: [ Community ]
 image: assets/images/bitcoin2020.jpg
-tags: 
+tags: [featured]
 ---
 
 Update March 7: Bitcoin2020 conference has been officially postponed due to the Coronavirus sitution.

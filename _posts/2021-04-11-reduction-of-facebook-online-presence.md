@@ -3,7 +3,7 @@ layout: post
 title:  "Reduction of Facebook Online Presence"
 categories: [ Community ]
 image: assets/images/reduction-of-facebook-online-presence.jpg
-tags:
+tags: [featured]
 ---
 *Dear Bitcoin Saigon community,*
 

@@ -3,7 +3,7 @@ layout: post
 title:  "5 Year Party BBQ"
 categories: [ Community ]
 image: assets/images/bbq.jpg
-tags: 
+tags: [featured]
 ---
 The anniversary event is over - but the memories stay!
 

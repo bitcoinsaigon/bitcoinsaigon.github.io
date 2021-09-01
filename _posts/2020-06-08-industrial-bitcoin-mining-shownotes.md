@@ -3,7 +3,7 @@ layout: post
 title:  "Industrial Bitcoin Mining Show Notes"
 categories: [ Community ]
 image: assets/images/mining-post-halvening.jpg
-tags: 
+tags: [featured]
 ---
 
 "Industrial Bitcoin Mining" - Online Meetup (29.05.20) - Show notes

@@ -3,7 +3,7 @@ layout: post
 title: "Lightning Network News #1"
 categories: [ Community ]
 image: assets/images/lightning_labs_ceo.jpg
-tags: 
+tags: [featured]
 ---
 ## Bitcoin Saigon - Lightning Network News
 ## February 2020 - Episode I

@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Saigon Lightning Node upgraded to Version 0.11.1 Beta"
 categories: [ Community ]
 image: assets/images/bitcoin-lightning.jpg
-tags: 
+tags: [featured]
 ---
 
 Thanks to the relentless work by our community member [Tomo](https://twitter.com/tomoXtechno) and [Albert](https://twitter.com/subnetmask) the [community node](https://1ml.com/node/023b4948f45435c2a39a80792ef48fd2d9edc68ce7f3334c12248f42b91539c004) has been upgraded to the most [recent version of 0.11.1 beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.11.1-beta.rc2).

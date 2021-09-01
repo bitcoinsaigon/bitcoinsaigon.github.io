@@ -3,7 +3,7 @@ layout: post
 title:  "Cryptoeconomics by Eric Voskuil - now available as Paperback & Amazon Kindle version"
 categories: [ Community ]
 image: assets/images/cryptoeconomics-by-eric-voskuil.jpg
-tags:
+tags: [featured]
 ---
 
 [Eric Voskuil](http://www.twitter.com/evoskuil) - [Libbitcoin Lead Maintainer](https://github.com/libbitcoin), Lead Organizer of the [CryptoEcon event](https://cryptoecon.org/) and past [Bitcoin Saigon guest speaker](https://www.meetup.com/de-DE/Bitcoin-Saigon-Meetup/events/259622127/) - has released his collected writings on the matter of Bitcoin and the underlying economic incentives which make the system work as Paperback & [Amazon Kindle version](https://www.amazon.com/dp/1735060828).

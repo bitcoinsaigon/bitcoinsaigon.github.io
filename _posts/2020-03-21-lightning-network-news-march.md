@@ -3,7 +3,7 @@ layout: post
 title:  "Lightning Network News - March 2020"
 categories: [ Community ]
 image: assets/images/lightningcathedral.jpg
-tags: 
+tags: [featured]
 ---
 
 

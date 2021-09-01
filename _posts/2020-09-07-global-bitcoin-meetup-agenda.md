@@ -3,7 +3,7 @@ layout: post
 title:  "Global Bitcoin Meetup - Agenda"
 categories: [ Community ]
 image: assets/images/globalbitcoin.jpg
-tags: 
+tags: [featured]
 ---
 #### Global Bitcoin Meetup Agenda / 19th September 2020
 
