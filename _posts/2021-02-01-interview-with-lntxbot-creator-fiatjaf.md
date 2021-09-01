@@ -3,7 +3,7 @@ layout: post
 title:  "Interview with LNTXBot Creator Fiatjaf"
 categories: [ Community ]
 image: assets/images/interview_fiatjaf.jpg
-tags: [featured]
+tags: 
 ---
 
 If you are following the developments around the Lightning Network and are an active user of the [Telegram Messenger](https://bitcoinsaigon.org/public-telegram-announcement-channel/), there is a good chance that you have heard by now of [LNTXBot](https://bitcoinsaigon.org/lntxbot-lightning-wallet-telegram/).

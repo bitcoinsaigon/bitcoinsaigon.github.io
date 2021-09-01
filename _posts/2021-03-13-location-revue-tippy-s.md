@@ -3,7 +3,7 @@ layout: post
 title:  "Location revue - Tippy’s"
 categories: [ Community ]
 image: assets/images/location-revue-tippy-s-1.jpg
-tags: [featured]
+tags: 
 ---
 While the Corona-related shutdowns and “stay home” orders might be causing inconveniences to some of us given the inability to follow our regular lifestyle choices to the same degree; some others in or around our community have been suffering financially to a degree that it might pose existential risks for some business owners.
 

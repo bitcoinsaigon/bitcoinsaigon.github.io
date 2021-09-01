@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Saigon partners up with Bitcoin2020 conference"
 categories: [ Community ]
 image: assets/images/bitcoin2020_1500x500.jpeg
-tags: [featured]
+tags: 
 ---
 While the amount of “Blockchain” and “Crypto” events has been exploding over the years many pioneer Bitcoiners who attended the early Bitcoin conferences in London, Prague, San Jose, Amsterdam etc. felt quite “crowded out” in the modern times of another “Blockchain World Forum Ultimate Deluxe XXL” every other week with an overly abundance of fanciness and surface “professional looks”... - while severely lacking in substance during the endless “Blockchain for XYZ” and “Buy my ICO/IEO/IXO token now!” pitches by a boundless myriad of sleazy-looking, well-groomed suits on stage.
 

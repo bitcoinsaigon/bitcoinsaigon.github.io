@@ -3,7 +3,7 @@ layout: post
 title:  "Location Revue - Big Pig BBQ"
 categories: [ Community ]
 image: assets/images/location-revue-big-pig-bbq-1.jpg
-tags: [featured]
+tags: 
 ---
 2021 - another year, another round of Corona-related shutdowns and “stay home” orders.
 

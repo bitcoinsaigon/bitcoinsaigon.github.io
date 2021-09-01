@@ -3,7 +3,7 @@ layout: post
 title: "Interview with Monis - Organizer of Global Bitcoin Meetup September 2020"
 categories: [ Community ]
 image: assets/images/monis.jpg
-tags: [featured]
+tags: 
 ---
 
 [Monis](https://twitter.com/cryptotechgr) of the [Greek Crypto Community](https://twitter.com/greekcryptocom) is the leading force behind pulling together and organizing the upcoming [Global Online Bitcoin Meetup on September 19th](https://bitcoinsaigon.org/global-bitcoin-meetup/).

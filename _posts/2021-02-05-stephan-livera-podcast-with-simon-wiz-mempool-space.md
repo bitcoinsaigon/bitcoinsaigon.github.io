@@ -3,7 +3,7 @@ layout: post
 title:  "Stephan Livera Podcast 245 with Simon & Wiz of Mempool.space"
 categories: [ Community ]
 image: assets/images/stephan-livera-podcast-with-simon-wiz-mempool-space.jpg
-tags: [featured]
+tags: 
 ---
 
 If you have attended any of the recent Bitcoin Saigon meetups then most likely you had the lucky chance to exchange your thoughts about the future of the Bitcoin Ecosystem with Simon of the trailblazing [Mempool.space](https://mempool.space/) Blockchain Explorer project.

@@ -3,7 +3,7 @@ layout: post
 title:  "Interview Simon (Mempool.space)"
 categories: [ Community ]
 image: https://bitcoinsaigon.org/assets/images/interview-simon-mempool-space.jpg
-tags: [featured]
+tags: 
 ---
 If you have attended any of the recent Bitcoin meetups in Saigon, you most likely had also the chance to meet and converse with [Simon](http://www.twitter.com/softsimon_), who has dedicated his time now since a few years to build the Open Source Block Explorer [Mempool.space](http://mempool.space).
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Public Bitcoin Saigon Telegram Announcement Channel"
 categories: [ Community ]
 image: assets/images/join-telegram.jpg
-tags: [featured]
+tags: 
 ---
 With the increasing censorship on most major “BigTech”-owned Social Media platforms, we are offering from now on also a [Telegram Announcement](https://bitcoinsaigon.org/our-social-media.html) channel for any news from the Community.
 

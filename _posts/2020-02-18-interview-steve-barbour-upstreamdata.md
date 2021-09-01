@@ -3,7 +3,7 @@ layout: post
 title:  "Interviewing Steve Barbour - Owner of UpstreamData"
 categories: [ Community ]
 image: assets/images/steve-barbour-headshot.png
-tags: [featured]
+tags: 
 ---
 ## CryptoEcon 2020 - Interview Steve Barbour (Owner UpstreamData)
 

@@ -3,7 +3,7 @@ layout: post
 title: "CryptoEcon 2020 - Interview with Roman Snitko (CTO Hodl Hodl)"
 categories: [ Community ]
 image: assets/images/romansnitko_head.jpg
-tags: [featured]
+tags: 
 ---
 Thanks to the efforts of Eric Voskuil and [Libbitcoin Institute](http://www.libbitcoin.org "Libbitcoin Institute") Vietnam has the honour to host the very first [CryptoEcon](https://cryptoecon.org/ "CryptoEcon") conference - happening at the end of this month in Vietnam’s bustling capital of Hanoi.
 

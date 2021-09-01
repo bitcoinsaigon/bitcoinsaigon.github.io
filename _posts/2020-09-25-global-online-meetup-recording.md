@@ -3,7 +3,7 @@ layout: post
 title:  "Global Online Meetup (Sep 2020) - Recording live!"
 categories: [ Community ]
 image: assets/images/globalbitcoin.jpg
-tags: [featured]
+tags: 
 ---
 
 With the first iteration of the [Global Online Meetup](https://bitcoinsaigon.org/global-bitcoin-meetup-agenda/) organized by the [Greek Community](https://www.meetup.com/Greek-Cryptocurrency-community/) now a few days behind us, we have used the time to ready the full recording for those of you who missed out to follow the premier life. 
