@@ -5,8 +5,8 @@ permalink: "/our-social-media.html"
 
 You can find us, support us, and contact us on a few social media platforms.
 
-- Odysee: <a class="nav-link" target="_blank" href="https://odysee.com/@BitcoinSaigon:a">@BitcoinSaigon:a</a>
-- Twitter: <a class="nav-link" target="_blank" href="https://twitter.com/bitcoinsaigon?lang=en">@bitcoinsaigon</a>      
+- Twitter: <a class="nav-link" target="_blank" href="https://twitter.com/bitcoinsaigon?lang=en">@bitcoinsaigon</a>  
+- Odysee: <a class="nav-link" target="_blank" href="https://odysee.com/$/invite/@BitcoinSaigon:a">@BitcoinSaigon:a</a>    
 - Meetup.com: <a class="nav-link" target="_blank" href="https://www.meetup.com/Bitcoin-Saigon-Meetup/">Bitcoin Saigon Meetup</a>
 - Telegram (public announcement channel): <a class="nav-link" target="_blank" href="https://t.me/BitcoinSaigon_public">t.me/BitcoinSaigon_public</a>
 
