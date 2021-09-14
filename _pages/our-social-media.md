@@ -12,5 +12,5 @@ You can find us, support us, and contact us on a few social media platforms.
 
 <a class="nav-link" target="_blank" href="./donate-satoshis">Support the work of Bitcoin Saigon</a>
 
-- [DEPRECIATED, <a class="nav-link" target="_blank" href="./reduction-of-facebook-online-presence">why?</a>] Facebook:<a class="nav-link" target="_blank" href="https://www.facebook.com/BitcoinSaigon/">FB/BitcoinSaigon</a>
+- [DEPRECIATED, <a class="nav-link" target="_blank" href="./reduction-of-facebook-online-presence">why?</a>] Facebook:<a class="nav-link" target="_blank" href="https://www.facebook.com/BitcoinSaigon/"> FB/BitcoinSaigon</a>
 - [DEPRECIATED] YouTube: <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UC_ndxmE3SG_FaAD24hnh_eg?sub_confirmation=1">Bitcoin Saigon YouTube Channel</a>
