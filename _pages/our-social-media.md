@@ -10,7 +10,7 @@ You can find us, support us, and contact us on a few social media platforms.
 - Meetup.com: <a class="nav-link" target="_blank" href="https://www.meetup.com/Bitcoin-Saigon-Meetup/">Bitcoin Saigon Meetup</a>
 - Telegram (public announcement channel): <a class="nav-link" target="_blank" href="https://t.me/BitcoinSaigon_public">t.me/BitcoinSaigon_public</a>
 
-<a class="nav-link" target="_blank" href="./donate-satoshis"><h3>Support the work of Bitcoin Saigon.</h3></a>
+####[Support the work of Bitcoin Saigon](./donate-satoshis)
 
 ---
 
