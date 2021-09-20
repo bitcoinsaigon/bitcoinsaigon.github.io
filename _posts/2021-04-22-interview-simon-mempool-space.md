@@ -2,7 +2,7 @@
 layout: post
 title:  "Interview Simon (Mempool.space)"
 categories: [ Community ]
-image: https://bitcoinsaigon.org/assets/images/interview-simon-mempool-space.jpg
+image: /assets/images/interview-simon-mempool-space.jpg
 tags: 
 ---
 If you have attended any of the recent Bitcoin meetups in Saigon, you most likely had also the chance to meet and converse with [Simon](http://www.twitter.com/softsimon_), who has dedicated his time now since a few years to build the Open Source Block Explorer [Mempool.space](http://mempool.space).
@@ -11,7 +11,7 @@ Simon has over the past year contributed greatly with his insights and expertise
 
 While Simon has left Vietnam now to go onto the next leg of his nomadic journey, we still took the chance to have a few more words with him - on Bitcoin, Vietnam and where he sees the major opportunities in the upcoming decade!
 
-![Interview Simon (Mempool.space)](https://bitcoinsaigon.org/assets/images/interview-simon-mempool-space.jpg)
+![Interview Simon (Mempool.space)](/assets/images/interview-simon-mempool-space.jpg)
 
 #### Bitcoin Saigon: Hey Simon! The usual opener question: When and how did you learn about Bitcoin - and what made it “click” for you that you decided to dedicate your career to it?
 
