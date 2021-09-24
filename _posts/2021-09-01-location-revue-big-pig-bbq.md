@@ -57,4 +57,4 @@ When will things get back to normal - this is anyone’s best guess. Like most F
 
 ------------
 
-*If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our Donation page!*
+*If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page!](https://bitcoinsaigon.org/donate-satoshis)!*
