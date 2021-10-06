@@ -13,7 +13,7 @@ The arguments for moving on from Youtube are very much the same we already outli
 
 ## Why Odysee?
 
-Now, why [Odysee](https://odysee.com/$/invite) of all places? And aren’t they operating their own shitcoin?
+Now, why [Odysee](https://odysee.com/$/invite/@BitcoinSaigon:a) of all places? And aren’t they operating their own shitcoin?
 
 We have been recognizing and discussing within the community for more than a year by now the need to move on from the incumbent BigTech platforms which behave increasingly in a manner which stands diagonally opposite to human freedom, free expression and debate of ideas and worldviews which are not part of the approved mainstream narrative.
 
@@ -71,6 +71,7 @@ Keep up your spirits - and do your part.
 Build networks, build communities, build families - and to do all of that first and foremost:
 
 Build up yourself.
+
 ##*Tu ne cede malis, sed contra audentior ito*
 
 ------------
