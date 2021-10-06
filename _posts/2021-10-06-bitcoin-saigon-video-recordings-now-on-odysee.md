@@ -72,7 +72,7 @@ Build networks, build communities, build families - and to do all of that first 
 
 Build up yourself.
 
-##Tu ne cede malis, sed contra audentior ito
+## *Tu ne cede malis, sed contra audentior itoZ*
 
 ------------
 
