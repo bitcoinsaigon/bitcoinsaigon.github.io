@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin Saigon - Twitter Spaces - 16.10.2021"
+title:  "Bitcoin Saigon - Twitter Spaces - 17.10.2021"
 categories: 
 image: assets/images/bitcoin-saigon-twitter-spaces-16-10-2021.jpg
 tags: 
