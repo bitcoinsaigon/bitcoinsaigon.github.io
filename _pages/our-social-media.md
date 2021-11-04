@@ -15,4 +15,4 @@ You can find us, support us, and contact us on a few social media platforms.
 ---
 
 - [DEPRECIATED, [why?](./reduction-of-facebook-online-presence)] Facebook:<a class="nav-link" target="_blank" href="https://www.facebook.com/BitcoinSaigon/"> FB/BitcoinSaigon</a>
-- [DEPRECIATED] YouTube: <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UC_ndxmE3SG_FaAD24hnh_eg?sub_confirmation=1">Bitcoin Saigon YouTube Channel</a>
+- [DEPRECIATED, [why?](./bitcoin-saigon-video-recordings-now-on-odysee/)] YouTube: <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UC_ndxmE3SG_FaAD24hnh_eg?sub_confirmation=1">Bitcoin Saigon YouTube Channel</a>
