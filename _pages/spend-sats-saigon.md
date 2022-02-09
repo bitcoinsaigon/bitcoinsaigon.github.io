@@ -1,7 +1,7 @@
 ---
 title:  "Sats/Bitcoin Merchants Directory Saigon"
 image: assets/images/spend-bitcoin-saigon.jpg
-permalink: "/bitcoin-merchants-saigon"
+permalink: "/merchants"
 redirect_from:
     - /sats-bitcoin-merchants-directory-saigon
 ---
