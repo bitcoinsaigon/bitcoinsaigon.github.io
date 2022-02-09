@@ -1,7 +1,9 @@
 ---
 title:  "Sats/Bitcoin Merchants Directory Saigon"
-permalink: "/sats-bitcoin-merchants-directory-saigon.html"
 image: assets/images/spend-bitcoin-saigon.jpg
+permalink: "/bitcoin-merchants-saigon"
+redirect_from:
+    - /sats-bitcoin-merchants-directory-saigon
 ---
 The Bitcoin Community in Saigon has these days thanks to the dedicated work of some people within the community been able to expand the reach of Bitcoin Merchants in Saigon.
 
