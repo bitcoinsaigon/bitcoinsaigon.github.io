@@ -42,9 +42,8 @@ Burritos, Tacos, Guacamole, Quesadilla… - everything the Mexican cuisine has t
 - Location review: [bitcoinsaigon.org/location-revue-tippy-s](https://bitcoinsaigon.org/location-revue-tippy-s/)
 - Facebook: [fb.com/TippysMexicanFood](https://www.facebook.com/TippysMexicanFood/)
 
- <!---
- #### La Hem
-
+{% comment %} 
+#### La Hem
 - Address: Hẻm, 15A/54 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam
 - Google Maps: [goo.gl/maps/yiGoxWvw8TnnM4FS6](https://goo.gl/maps/yiGoxWvw8TnnM4FS6)
 - Phone: +84908889521
@@ -56,7 +55,7 @@ Perfect for a date or just a night to relax and chill with friends. With live mu
 
 - Location review: (Following soon!)
 - Facebook: [fb.com/lahemcafebar](https://facebook.com/lahemcafebar/)
---->
+{% endcomment %}
 
 #### [Big Pig BBQ](https://utit.vn/)
 
