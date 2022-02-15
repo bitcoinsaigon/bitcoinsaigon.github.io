@@ -11,11 +11,11 @@ Where possible, we would encourage you to familiarize yourself with the concepts
 
 ---
 
-####1) What is a belief that you hold about Bitcoin that is not widely shared within the community?
+#### 1) What is a belief that you hold about Bitcoin that is not widely shared within the community?
 
 That most things we do using Bitcoin on-chain today is a waste, contributing to making the blockchain slower to synchronize.
 
-####2) Which idea/discovery in Bitcoin over the past year changed your thinking/"blew your mind" the most?
+#### 2) Which idea/discovery in Bitcoin over the past year changed your thinking/"blew your mind" the most?
 
 None the past year - but the last one was when I was using a Lightning wallet to scan a QR-code to “log in” to an app, scan to deposit money and scan to withdraw the funds again, all instant without any personal information required and I understood the possibilities for global instant user friendly payments using Lightning.
 
