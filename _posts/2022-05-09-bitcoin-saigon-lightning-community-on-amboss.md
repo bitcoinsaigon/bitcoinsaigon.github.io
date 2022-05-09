@@ -14,7 +14,7 @@ By doing so - you can increase your privacy as well as save on routing fees when
 
 ![](/assets/images/bitcoin-saigon-lightning-community-on-amboss-1.jpg)
 
-Source: https://twitter.com/BitcoinErrorLog/status/1518555611973230594
+Source: [twitter.com/BitcoinErrorLog/status/1518555611973230594](https://twitter.com/BitcoinErrorLog/status/1518555611973230594)
 
 With this initiative we hope to see more local Lightning Node operators joining in the fun - playing their part to build out a more resilient and distributed network.
 
