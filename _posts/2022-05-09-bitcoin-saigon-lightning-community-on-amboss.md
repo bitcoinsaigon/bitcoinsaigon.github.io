@@ -22,7 +22,7 @@ While we currently as “vetting mechanism” only approve regular Bitcoin Saigo
 
 And if you’re a local node operator but haven’t made it to the meetups yet but intend to - shoot us a message via the common channels! :)
 
-P.S.: If you are just getting started - you might also be interested in the recently announced Liquidity Marketplace Magma by Amboss which helps you to acquire initial inbound liquidity.
+P.S.: If you are just getting started - you might also be interested in the [recently announced Liquidity Marketplace Magma](https://bitcoinmagazine.com/business/bitcoin-startup-amboss-launches-unique-lightning-liquidity-marketplace) by Amboss which helps you to acquire initial inbound liquidity.
 
 ---
 
