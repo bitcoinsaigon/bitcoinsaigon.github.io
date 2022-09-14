@@ -137,7 +137,9 @@ One of the highlights of the location is the stunning riverside view with a look
 - Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
 - Phone: +84909815515
 - Style: Vietnamese-style BBQ Restaurant
-Grilled meat & Bitcoiners - a match made in heaven. At Xie Xie BBQ you can enjoy typical Vietnamese-style grilled meats - with a view from the rooftop floor onto the Truong Sa canal. Plenty of choices for friends of liquified, fermented grains as well!
+Grilled meat & Bitcoiners - a match made in heaven.
+At Xie Xie BBQ you can enjoy typical Vietnamese-style grilled meats - with a view from the rooftop floor onto the Truong Sa canal.
+Plenty of choices for friends of liquified, fermented grains as well!
 - Location review: [soon to follow!]
 - Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
 
@@ -147,7 +149,7 @@ Grilled meat & Bitcoiners - a match made in heaven. At Xie Xie BBQ you can enjoy
 2. 26 Xuân Thủy, P. Thảo Điền, Quận 2, Ho Chi Minh City - [Google Maps](https://goo.gl/maps/V1iBGW8eNVHjJHGCA) - Phone: +84777143900
 - Style: Tex-Mex
 
-With the self-given goal of “offering the most authentic Mexicali experience in Saigon” Tacos Fuego has established itself as one of the front-runners in the Tex-Mex scene in Saigon.
+With the self-given goal of *“offering the most authentic Mexicali experience in Saigon”* Tacos Fuego has established itself as one of the front-runners in the Tex-Mex scene in Saigon.
 
 Established since 2019 in Bình Thạnh, the Tacos Fuego team built on their success and the growing demand to expand their offering also towards the Thao Dien crowd across the river.
 
