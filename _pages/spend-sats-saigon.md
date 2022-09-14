@@ -132,6 +132,33 @@ One of the highlights of the location is the stunning riverside view with a look
 
 -->
 
+#### Xie Xie BBQ
+- Address: 878 Trường Sa, Phường 13, District 3, Ho Chi Minh City
+- Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
+- Phone: +84909815515
+- Style: Vietnamese-style BBQ Restaurant
+Grilled meat & Bitcoiners - a match made in heaven. At Xie Xie BBQ you can enjoy typical Vietnamese-style grilled meats - with a view from the rooftop floor onto the Truong Sa canal. Plenty of choices for friends of liquified, fermented grains as well!
+- Location review: [soon to follow!]
+- Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
+
+#### Tacos Fuego
+- Address:
+1. 48 Phạm Viết Chánh, P. 19, Q. Bình Thạnh, Ho Chi Minh City - [Google Maps](https://goo.gl/maps/hZZBo6P8UdUqtmVN9) - Phone: +84 777143900
+2. 26 Xuân Thủy, P. Thảo Điền, Quận 2, Ho Chi Minh City - [Google Maps](https://goo.gl/maps/V1iBGW8eNVHjJHGCA) - Phone: +84777143900
+- Style: Tex-Mex
+
+With the self-given goal of “offering the most authentic Mexicali experience in Saigon” Tacos Fuego has established itself as one of the front-runners in the Tex-Mex scene in Saigon.
+
+Established since 2019 in Bình Thạnh, the Tacos Fuego team built on their success and the growing demand to expand their offering also towards the Thao Dien crowd across the river.
+
+*“We’re just doing our part to fill that tiny void that you might have if you’re familiar with Socal Mexican spots. (...). Whether it be street tacos, nachos, or Mexican fries, we put all our effort into satisfying that craving for Mexican fare."*
+
+Tacos Fuego is one of the newer spots on the meetup roster -  with a melting hot Habanero spicy hot sauce & melting fast Lightning payments for your quick Taco fix!
+
+- Location review: [soon to follow!]
+- Facebook: [Tacos Fuego](https://www.facebook.com/tacosfuegovn/)
+- Instagram: [Tacos Fuego](https://www.instagram.com/tacosfuego_vn/)
+
 #### Offline/Online Merchants
 
 #### [Future.Travel](https://future.travel/)
@@ -155,34 +182,6 @@ David himself is also a regular at the local Bitcoin meetups and probably the pe
 - Website: [future.travel](http://future.travel)
 - Twitter: [twitter.com/FutureTravel14](http://www.twitter.com/FutureTravel14)
 - Facebook: [fb.com/FutureTravel-1504447956442155](https://www.twitter.com/FutureTravel14)
-
-#### Xie Xie BBQ
-- Address: 878 Trường Sa, Phường 13, District 3, Ho Chi Minh City
-- Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
-- Phone: +84909815515
-- Style: Vietnamese-style BBQ Restaurant
-Grilled meat & Bitcoiners - a match made in heaven. At Xie Xie BBQ you can enjoy typical Vietnamese-style grilled meats - with a view from the rooftop floor onto the Truong Sa canal. Plenty of choices for friends of liquified, fermented grains as well!
-- Location review: [soon to follow!]
-- Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
-
-####Tacos Fuego
-- Address:
-1. 48 Phạm Viết Chánh, P. 19, Q. Bình Thạnh, Ho Chi Minh City - [Google Maps](https://goo.gl/maps/hZZBo6P8UdUqtmVN9) - Phone: +84 777143900
-2. 26 Xuân Thủy, P. Thảo Điền, Quận 2, Ho Chi Minh City - [Google Maps](https://goo.gl/maps/V1iBGW8eNVHjJHGCA) - Phone: +84777143900
-- Style: Tex-Mex
-
-With the self-given goal of “offering the most authentic Mexicali experience in Saigon” Tacos Fuego has established itself as one of the front-runners in the Tex-Mex scene in Saigon.
-
-Established since 2019 in Bình Thạnh, the Tacos Fuego team built on their success and the growing demand to expand their offering also towards the Thao Dien crowd across the river.
-
-*“We’re just doing our part to fill that tiny void that you might have if you’re familiar with Socal Mexican spots. (...). Whether it be street tacos, nachos, or Mexican fries, we put all our effort into satisfying that craving for Mexican fare."*
-
-Tacos Fuego is one of the newer spots on the meetup roster -  with a melting hot Habanero spicy hot sauce & melting fast Lightning payments for your quick Taco fix!
-
-- Location review: [soon to follow!]
-- Facebook: [Tacos Fuego](https://www.facebook.com/tacosfuegovn/)
-- Instagram: [Tacos Fuego](https://www.instagram.com/tacosfuego_vn/)
-
 
 #### [BitcoinVN Online Shop](http://shop.bitcoinvn.io)
 
