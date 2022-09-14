@@ -137,9 +137,13 @@ One of the highlights of the location is the stunning riverside view with a look
 - Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
 - Phone: +84909815515
 - Style: Vietnamese-style BBQ Restaurant
+
 Grilled meat & Bitcoiners - a match made in heaven.
+
 At Xie Xie BBQ you can enjoy typical Vietnamese-style grilled meats - with a view from the rooftop floor onto the Truong Sa canal.
+
 Plenty of choices for friends of liquified, fermented grains as well!
+
 - Location review: [soon to follow!]
 - Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
 
