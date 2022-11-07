@@ -20,7 +20,7 @@ There haven’t been very many Bitcoin Events in Vietnam to date (the last one o
 
 We had the opportunity to catch up with [Neutronpay’s](http://www.neutronpay.com) [COO Malcolm Weed](https://twitter.com/malcolm_weed) who has taken over the lead in bringing the first Lightningcon event to Vietnam.
 
-####Bitcoin Saigon: Hi Malcolm! Please give us a short intro about yourself and Neutronpay.
+#### Bitcoin Saigon: Hi Malcolm! Please give us a short intro about yourself and Neutronpay.
 
 **Malcolm:** I’ve been in the fintech/payments space for 10+ years. I previously worked for a payouts company called Hyperwallet, which is based in Vancouver, Canada and would later be acquired by PayPal. That is where I met Albert Buu, Neutronpay Founder & CEO for the first time. We would talk about Bitcoin, the overall industry and what the future looked like once it got adoption. In January 2017 I would leave Hyperwallet and go on to work full time in the crypto economy, first by helping Albert raise capital for his mining operation which was in Canada. Later that year in December I was a co-founder of a crypto brokerage in Vancouver which would serve the local area and also other regions across Canada. 
 
@@ -56,7 +56,7 @@ If you’re from Europe or North America then Southeast Asia is a must-do trip a
 
 If you want to learn more about Lightningcon Vietnam, Bitcoin Beach Vietnam,  Neutronpay or myself and Albert please see the links that will be provided.
 
-#####Lightningcon Vietnam: [lightningcon.org](www.lightningcon.org)
+##### Lightningcon Vietnam: [lightningcon.org](www.lightningcon.org)
 ##### Bitcoin Beach Vietnam: [@BitcoinBeachVN](http://twitter.com/BitcoinBeachVN) 
 ##### Neutronpay: [neutronpay.com]( www.neutronpay.com) [@neutronpay](http://twitter.com/neutronpay)
 ##### Albert Buu: [linkedin.com/in/albert-buu](https://www.linkedin.com/in/albert-buu/)          [@subnetmask](http://twitter.com/subnetmask)
