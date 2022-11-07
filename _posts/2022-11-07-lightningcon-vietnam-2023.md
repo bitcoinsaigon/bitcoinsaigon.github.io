@@ -8,7 +8,7 @@ tags:
 
 In the past month you might have noticed an announcement made by [a Twitter account called “Bitcoin Beach Vietnam”](https://twitter.com/BitcoinBeachVN) - rallying the orange troops to make the journey to Vietnam.
 
-![](assets/images/lightningcon-vietnam-2023-1.jpg)
+![](https://bitcoinsaigon.org/assets/images/lightningcon-vietnam-2023-1.jpg)
 
 So what’s the deal there? Who is behind it? What is the plan? And why should you care?
 
