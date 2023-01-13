@@ -11,7 +11,7 @@ You have come to the right place.
 
 ![Lightning Con March 2023](/assets/images/lightningcon-2023-first-speakers-ticket-sale-1.jpg)
 
-With the [official event website](lightningcon.org) being online since earlier this week, we can summarize the following key facts.
+With the [official event website](https://lightningcon.org) being online since earlier this week, we can summarize the following key facts.
 
 ## When is it?
 
@@ -63,7 +63,7 @@ There is certainly a reason why an increasing number of Việt kiều and Wester
 
 Furthermore:
 
-The team of [Neutronpay](neutronpay.com) has boots on the ground in Đà Nẵng since a few weeks, so yes, you will likely be able to buy stuff in and around the conference venue with your Sats.
+The team of [Neutronpay](https://neutronpay.com) has boots on the ground in Đà Nẵng since a few weeks, so yes, you will likely be able to buy stuff in and around the conference venue with your Sats.
 
 ## How can I pay for the tickets?
 
@@ -87,7 +87,7 @@ Like in the “good, ol’ before times”.
 
 Intercontinental travellers might have to do a stop-over in Hanoi or Saigon (Ho Chi Minh City); plenty of direct flights (approx. 1h) from there will lead you to Đà Nẵng.
 
-And if you’re looking to book your flight in Bitcoin with full service from a travel agency with boots on the ground, we can wholeheartedly recommend [Future.Travel](future.travel).
+And if you’re looking to book your flight in Bitcoin with full service from a travel agency with boots on the ground, we can wholeheartedly recommend [Future.Travel](https://future.travel).
 
 Its owner [David Watson](https://bitcoinsaigon.org/farewell-david-watson/) has been spitting orange pills in discussion with fiat gateway providers since many years back and has been a steadfast supporter of the Bitcoin Community down in Saigon over the years.
 
@@ -95,7 +95,7 @@ Oh, and he also launched the [first Lightning ATM in Asia](https://news.bitcoinv
 
 ## Where to get future updates?
 
-The prime account to follow and stay-up-to-date is [BitcoinBeachVN](twitter.com/bitcoinbeachvn) on Twitter; furthermore additional updates [will be made visible on the conference website](lightningcon.org).
+The prime account to follow and stay-up-to-date is [BitcoinBeachVN](https://twitter.com/bitcoinbeachvn) on Twitter; furthermore additional updates [will be made visible on the conference website](https://lightningcon.org).
 
 ---
 
