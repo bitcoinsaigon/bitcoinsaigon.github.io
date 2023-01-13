@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "BitcoinBeach Đà Nẵng / Lightning Con March 2023 - First Speakers announced and Ticket Sale opened"
+title:  "BitcoinBeach Da Nang / Lightning Con March 2023 - First Speakers announced and Ticket Sale opened"
 categories: 
 image: assets/images/lightningcon-2023-first-speakers-ticket-sale.jpg
 tags: 
 ---
-You likely clicked on this article because you heard over the past couple of weeks about the planned Bitcoin event in the beautiful beach city of Đà Nẵng along the coastline of Central Vietnam.
+You likely clicked on this article because you heard over the past couple of weeks about the planned Bitcoin event in the beautiful beach city of Da Nang along the coastline of Central Vietnam.
 
 You have come to the right place.
 
-![Lightning Con March 2023](images/lightningcon-2023-first-speakers-ticket-sale-1.jpg)
+![Lightning Con March 2023](/assets/images/lightningcon-2023-first-speakers-ticket-sale-1.jpg)
 
 With the [official event website](lightningcon.org) being online since earlier this week, we can summarize the following key facts.
 
