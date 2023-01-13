@@ -13,15 +13,15 @@ You have come to the right place.
 
 With the [official event website](lightningcon.org) being online since earlier this week, we can summarize the following key facts.
 
-##When is it?
+## When is it?
 
 The core event days will be 23th and 24th of March of 2023.
 
-##Where is it?
+## Where is it?
 
 The event will take place beachside at the [Furama Resort Đà Nẵng](https://furamavietnam.com/vi/).
 
-##Who is it for?
+## Who is it for?
 
 This is a Bitcoin only event.
 
@@ -33,7 +33,7 @@ We want the builders, people who have done their homework and are willing to put
 
 We live in serious times and we only have time for serious people.
 
-##Who it isn’t for?
+## Who it isn’t for?
 
 See above. 
 
@@ -41,7 +41,7 @@ If you’re into “cRyPtO” and gambling away your money on stuff you don’t 
 
 Stay away and expect toxicity and a very unpleasant time if you want to come and shill garbage to the attendees.
 
-##Is there a real “Bitcoin Beach” à la El Zonte in Da Nang?
+## Is there a real “Bitcoin Beach” à la El Zonte in Da Nang?
 
 No.
 
@@ -65,11 +65,11 @@ Furthermore:
 
 The team of [Neutronpay](neutronpay.com) has boots on the ground in Đà Nẵng since a few weeks, so yes, you will likely be able to buy stuff in and around the conference venue with your Sats.
 
-##How can I pay for the tickets?
+## How can I pay for the tickets?
 
 [Bitcoin only](https://lightningcon.org/#ticket).
 
-##Any covid restrictions for traveling to Vietnam?
+## Any covid restrictions for traveling to Vietnam?
 
 Nope.
 
@@ -81,7 +81,7 @@ No tests, papers or quarantine required.
 
 Like in the “good, ol’ before times”.
 
-##How to get to Đà Nẵng?
+## How to get to Đà Nẵng?
 
 Đà Nẵng has its own international airport and is relatively well-connected with flights from other countries in Asia.
 
@@ -93,7 +93,7 @@ Its owner [David Watson](https://bitcoinsaigon.org/farewell-david-watson/) has b
 
 Oh, and he also launched the [first Lightning ATM in Asia](https://news.bitcoinvn.io/first-lightning-atm-saigon-launches/) a couple of years ago. 
 
-##Where to get future updates?
+## Where to get future updates?
 
 The prime account to follow and stay-up-to-date is [BitcoinBeachVN](twitter.com/bitcoinbeachvn) on Twitter; furthermore additional updates [will be made visible on the conference website](lightningcon.org).
 
