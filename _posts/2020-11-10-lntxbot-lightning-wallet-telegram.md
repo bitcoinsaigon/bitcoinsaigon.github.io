@@ -7,6 +7,8 @@ tags:
 ---
 *Update 18.01.23:  LNTXBot is [announced to sunset](https://t.me/lntxbot_dev/86735) by its creator Fiatjaf. All LNTXBot users are encouraged to withdraw their remaining Sats from LNTXBot. Fiatjaf's main focus has shifted - among other things - towards advancing the social networking protocol [Nostr](https://bitcoinsaigon.org/now-also-on-nostr/).*
 
+---
+
 While the Bitcoin & Lightning ecosystem is seeing fast progress in the development in more user-friendly Lightning Wallet options, one of the most simple ways to receive your first Sats is via the [LNTXBOT](https://github.com/fiatjaf/lntxbot) by [fiatjaf](https://twitter.com/fiatjaf?lang=en), a Lightning Wallet which allows every Telegram user to send & receive Sats without further ado.
 
 Besides sending & receiving Sats via your LNTXBOT wallet, you can also offer a variety of other services like crowdfunding, fundraising, an ad market place and plenty of other integrated options to make use of your Sats. To set up a LNTXBOT wallet on your Telegram account simply message: @LNTXBOT and a wallet is set up. To understand your wallet functions type /help …. to check your balance type:  /balance
