@@ -5,7 +5,7 @@ categories: [ Community ]
 image: assets/images/lntxbot.jpg
 tags: 
 ---
-#### Update 18.01.23:  LNTXBot is [announced to sunset](https://t.me/lntxbot_dev/86735) by its creator Fiatjaf. All LNTXBot users are encouraged to withdraw their remaining Sats from LNTXBot. Fiatjaf's main focus has shifted - among other things - towards advancing the social networking protocol [Nostr](https://bitcoinsaigon.org/now-also-on-nostr/).
+*Update 18.01.23:  LNTXBot is [announced to sunset](https://t.me/lntxbot_dev/86735) by its creator Fiatjaf. All LNTXBot users are encouraged to withdraw their remaining Sats from LNTXBot. Fiatjaf's main focus has shifted - among other things - towards advancing the social networking protocol [Nostr](https://bitcoinsaigon.org/now-also-on-nostr/).*
 
 While the Bitcoin & Lightning ecosystem is seeing fast progress in the development in more user-friendly Lightning Wallet options, one of the most simple ways to receive your first Sats is via the [LNTXBOT](https://github.com/fiatjaf/lntxbot) by [fiatjaf](https://twitter.com/fiatjaf?lang=en), a Lightning Wallet which allows every Telegram user to send & receive Sats without further ado.
 
