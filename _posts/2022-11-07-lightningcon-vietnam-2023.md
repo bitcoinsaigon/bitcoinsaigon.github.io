@@ -56,7 +56,7 @@ If you’re from Europe or North America then Southeast Asia is a must-do trip a
 
 If you want to learn more about Lightningcon Vietnam, Bitcoin Beach Vietnam,  Neutronpay or myself and Albert please see the links that will be provided.
 
-##### Lightningcon Vietnam: [lightningcon.org](www.lightningcon.org)
+##### Lightningcon Vietnam: [lightningcon.org](https://lightningcon.org)
 ##### Bitcoin Beach Vietnam: [@BitcoinBeachVN](http://twitter.com/BitcoinBeachVN) 
 ##### Neutronpay: [neutronpay.com]( www.neutronpay.com) [@neutronpay](http://twitter.com/neutronpay)
 ##### Albert Buu: [linkedin.com/in/albert-buu](https://www.linkedin.com/in/albert-buu/)          [@subnetmask](http://twitter.com/subnetmask)
