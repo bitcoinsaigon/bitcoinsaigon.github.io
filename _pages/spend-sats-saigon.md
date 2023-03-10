@@ -10,6 +10,7 @@ The Bitcoin Community in Saigon has these days thanks to the dedicated work of s
 Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [David Watson](https://twitter.com/watson_ita) of [Future.Travel](http://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
 
 ## Food & Beverage Venues
+
 <!-- 
 #### [Italiani’s](http://www.italianis.vn)
 
@@ -29,6 +30,7 @@ So if outside the usual Bitcoin meetups you are looking for the right venue for 
 - Facebook: [fb.com/ItalianisPizza2](http://www.facebook.com/ItalianisPizza2)
 - Instagram: [instagram.com/italianis.saigon](http://www.instagram.com/italianis.saigon) -->
 
+
 #### Tippy’s Mexican Food
 
 - Address (District 1): 31/40 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Vietnam
@@ -43,6 +45,8 @@ Burritos, Tacos, Guacamole, Quesadilla… - everything the Mexican cuisine has t
 
 - Location review: [bitcoinsaigon.org/location-revue-tippy-s](https://bitcoinsaigon.org/location-revue-tippy-s/)
 - Facebook: [fb.com/TippysMexicanFood](https://www.facebook.com/TippysMexicanFood/)
+
+
 <!-- 
 {% comment %} 
 #### La Hem
@@ -130,8 +134,6 @@ One of the highlights of the location is the stunning riverside view with a look
 - Facebook: [fb.com/CaponesDeepDishandStreetFood](https://facebook.com/CaponesDeepDishandStreetFood)
 - Instagram: [instagram.com/capones_saigon/](https://www.instagram.com/capones_saigon/)
 
--->
-<!-- 
 #### Xie Xie BBQ
 - Address: 878 Trường Sa, Phường 13, District 3, Ho Chi Minh City
 - Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
@@ -145,7 +147,9 @@ At Xie Xie BBQ you can enjoy typical Vietnamese-style grilled meats - with a vie
 Plenty of choices for friends of liquified, fermented grains as well!
 
 - Location review: [soon to follow!]
-- Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/) --> -->
+- Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
+ -->
+ 
 
 #### [Tacos Fuego](https://www.tacosfuego.vn/)
 - Address:
@@ -165,7 +169,9 @@ Tacos Fuego is one of the newer spots on the meetup roster -  with a melting hot
 - Facebook: [Tacos Fuego](https://www.facebook.com/tacosfuegovn/)
 - Instagram: [Tacos Fuego](https://www.instagram.com/tacosfuego_vn/)
 
+
 #### Offline/Online Merchants
+
 
 #### [Future.Travel](https://future.travel/)
 
@@ -188,6 +194,7 @@ David himself is also a regular at the local Bitcoin meetups and probably the pe
 - Website: [future.travel](http://future.travel)
 - Twitter: [twitter.com/FutureTravel14](http://www.twitter.com/FutureTravel14)
 - Facebook: [fb.com/FutureTravel-1504447956442155](https://www.twitter.com/FutureTravel14)
+
 
 #### [BitcoinVN Online Shop](http://shop.bitcoinvn.io)
 
