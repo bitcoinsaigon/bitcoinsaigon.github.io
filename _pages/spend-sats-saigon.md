@@ -10,7 +10,7 @@ The Bitcoin Community in Saigon has these days thanks to the dedicated work of s
 Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [David Watson](https://twitter.com/watson_ita) of [Future.Travel](http://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
 
 ## Food & Beverage Venues
-
+<!-- 
 #### [Italiani’s](http://www.italianis.vn)
 
 - Address (District 1): 17 Han Thuyen, Ben Nghe, D1, HCMC
@@ -27,7 +27,7 @@ So if outside the usual Bitcoin meetups you are looking for the right venue for 
 
 - Location review: [bitcoinsaigon.org/location-review-italianis](https://bitcoinsaigon.org/location-review-italianis)
 - Facebook: [fb.com/ItalianisPizza2](http://www.facebook.com/ItalianisPizza2)
-- Instagram: [instagram.com/italianis.saigon](http://www.instagram.com/italianis.saigon)
+- Instagram: [instagram.com/italianis.saigon](http://www.instagram.com/italianis.saigon) -->
 
 #### Tippy’s Mexican Food
 
@@ -43,7 +43,7 @@ Burritos, Tacos, Guacamole, Quesadilla… - everything the Mexican cuisine has t
 
 - Location review: [bitcoinsaigon.org/location-revue-tippy-s](https://bitcoinsaigon.org/location-revue-tippy-s/)
 - Facebook: [fb.com/TippysMexicanFood](https://www.facebook.com/TippysMexicanFood/)
-
+<!-- 
 {% comment %} 
 #### La Hem
 - Address: Hẻm, 15A/54 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam
@@ -131,7 +131,7 @@ One of the highlights of the location is the stunning riverside view with a look
 - Instagram: [instagram.com/capones_saigon/](https://www.instagram.com/capones_saigon/)
 
 -->
-
+<!-- 
 #### Xie Xie BBQ
 - Address: 878 Trường Sa, Phường 13, District 3, Ho Chi Minh City
 - Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
@@ -145,7 +145,7 @@ At Xie Xie BBQ you can enjoy typical Vietnamese-style grilled meats - with a vie
 Plenty of choices for friends of liquified, fermented grains as well!
 
 - Location review: [soon to follow!]
-- Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
+- Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/) --> -->
 
 #### [Tacos Fuego](https://www.tacosfuego.vn/)
 - Address:
