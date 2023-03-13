@@ -26,10 +26,10 @@ Generate an invoice QR code with the amount of satoshis you want to donate to us
 
 <iframe id="tips" width="900" height="680" src="https://bitcoinsaigon-lntip.herokuapp.com/tip.html" style="border:none;"></iframe>
 
-**Donate to Bitcoin Saigon via [LNTXBot](https://lntxbot.com/@Bitcoin_Saigon) on Telegram**
+<!-- **Donate to Bitcoin Saigon via [LNTXBot](https://lntxbot.com/@Bitcoin_Saigon) on Telegram**
 
 [lntxbot.com/@Bitcoin_Saigon](https://lntxbot.com/@Bitcoin_Saigon)
 
 ![@Bitcoin_Saigon on Telegram](../assets/images/lntx-bot-qr-code.jpg)
 
-LNURL1DP68GURN8GHJ7MRWW3UXYMM59E3K7MF0D3H82UNV9ACXZ7FLW4EK2UNWV9KK202ZD96XXMMFDE04XCTFVAHKURURZQE
+LNURL1DP68GURN8GHJ7MRWW3UXYMM59E3K7MF0D3H82UNV9ACXZ7FLW4EK2UNWV9KK202ZD96XXMMFDE04XCTFVAHKURURZQE -->
