@@ -134,6 +134,8 @@ One of the highlights of the location is the stunning riverside view with a look
 - Facebook: [fb.com/CaponesDeepDishandStreetFood](https://facebook.com/CaponesDeepDishandStreetFood)
 - Instagram: [instagram.com/capones_saigon/](https://www.instagram.com/capones_saigon/)
 
+ -->
+
 #### Xie Xie BBQ
 - Address: 878 Trường Sa, Phường 13, District 3, Ho Chi Minh City
 - Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
@@ -148,7 +150,7 @@ Plenty of choices for friends of liquified, fermented grains as well!
 
 - Location review: [soon to follow!]
 - Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
- -->
+ 
  
 
 #### [Tacos Fuego](https://www.tacosfuego.vn/)
