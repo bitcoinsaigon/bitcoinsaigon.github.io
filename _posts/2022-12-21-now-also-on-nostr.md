@@ -7,7 +7,7 @@ tags:
 ---
 Your favorites bunch of whacky Bitcoiners in Saigon - now also available on [Nostr](https://nostr.com).
 
-`8e6d1c7468945cbe379c5d08f959bf05b6c36c6c10b262eac316652950ef597b`
+`npub13ek3cargj3wtuduut5y0jkdlqkmvxmrvzzex96krzejjj580t9ashr4946`
 
 You know what to do with it.
 
