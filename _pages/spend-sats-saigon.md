@@ -213,7 +213,7 @@ BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the
 - Facebook: [BitcoinVN Shop](https://www.facebook.com/Vilanh-BTC-Shop-Bitcoinvn-104495564767407/)
 - Twitter: [BitcoinVN Shop](http://www.twitter.com/BitcoinVNShop)
 
-#### Anytime Fitness
+#### [Anytime Fitness](https://www.anytimefitness.vn/)
 Address:
 - 31/1 Lo M7, Midtown, Phu My Hung, Duong 15, Phuong Tan Phu, Quan 7
 - 18 Trần Ngọc Diện, Thao Dien, District 2
