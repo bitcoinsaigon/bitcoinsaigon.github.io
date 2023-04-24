@@ -213,6 +213,25 @@ BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the
 - Facebook: [BitcoinVN Shop](https://www.facebook.com/Vilanh-BTC-Shop-Bitcoinvn-104495564767407/)
 - Twitter: [BitcoinVN Shop](http://www.twitter.com/BitcoinVNShop)
 
+#### Anytime Fitness
+Address:
+- 31/1 Lo M7, Midtown, Phu My Hung, Duong 15, Phuong Tan Phu, Quan 7
+- 18 Trần Ngọc Diện, Thao Dien, District 2
+
+Style: *You don’t go here to load up on calories - but to burn them!*
+
+Health is wealth.
+
+Your daily dose of exercise is to be seen in the same way that saving capital is - you do the work today, to have a better future tomorrow.
+
+Since Bitcoiners like to work, you can sweat out toxins & reset your hormone balance on a 24h basis at all current two (and soon more) locations across Ho Chi Minh City.
+
+With more locations in the pipeline - so watch out.
+
+- Location review: [soon to follow!]
+- Facebook: [Anytime Fitness](https://www.facebook.com/afthaodien)
+
+
 ---
 
 *This page is purely for informational purpose. As for the matter of the current legal status of Cryptocurrency payments in Vietnam we recommend to reach out to the following Vietnam-based Bitcoin companies: [BitcoinVN](http://www.bitcoinvn.io) (Bitcoin Exchange Service) / [Neutronpay](https://neutronpay.com/) (Bitcoin payment processor)*
