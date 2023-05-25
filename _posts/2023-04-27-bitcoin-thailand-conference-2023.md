@@ -3,7 +3,7 @@ layout: post
 title:  "Bitcoin Thailand Conference 2023 - July 15/16 2023, Bangkok"
 categories: 
 image: assets/images/bitcoin-thailand-conference-2023.jpg
-tags: [special]
+tags: [sticky]
 ---
 After the resounding success of the inaugural [LightningCon Da Nang 2023 Conference](https://news.bitcoinvn.io/lightningcon-2023-da-nang-review-and-footage/ "LightningCon Da Nang 2023 Conference") which was followed a few days later by the first international [Bitcoin-only event in the Philippines](https://twitter.com/BtcRetreat) the conviction among the movers & shakers in the region has seen a significant boost in strength.
 
