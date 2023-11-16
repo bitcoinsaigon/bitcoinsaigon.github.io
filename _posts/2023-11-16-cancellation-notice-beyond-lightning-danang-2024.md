@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cancellation notice - “Beyond Lightning Da Nang - March 2024"
+title:  "Cancellation notice - \"Beyond Lightning Da Nang\" - March 2024"
 categories: 
 image: assets/images/cancellation-notice-beyond-lightning-danang-2024.jpg
 tags: 
