@@ -229,6 +229,29 @@ With more locations in the pipeline - so watch out.
 - Location review: [soon to follow!]
 - Facebook: [Anytime Fitness](https://www.facebook.com/afthaodien)
 
+#### Pingu's Burger
+Address:
+- 26 Đ. Số 2, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam - [Google Maps](https://maps.app.goo.gl/hNJZhEiAt5Sg7QCx9) - Phone: Tel: + 84 708 124 898
+
+Style: Burger joint
+
+Healthy fast food?
+
+Yes, that’s possible with Pingu’s Burger.
+
+The newly established Burger Joint in Thao Dien is priding itself on its 100% beef patties cooked in real butter.
+
+Pingu’s Burger is a small family business with people behind who care and are looking to provide their customers with food that is healthy, hearty and prepared with ingredients sourced and selected in true P2P fashion from Vietnamese farmers.
+
+None of the artificial crap modern corporations like to stuff in their offerings to chase that extra penny on the bottom line.
+Getting your Burger fix at Pingu’s, you support your local community and people who actually do care about having a positive impact on their direct environment.
+
+And yes - you can pay for your beef patty burgers with Bitcoin / Lightning.
+
+Good food for good money.
+
+- Location review: [soon to follow!]
+- Facebook: [Pingu's Burger](https://www.facebook.com/pingusburger)
 
 ---
 
