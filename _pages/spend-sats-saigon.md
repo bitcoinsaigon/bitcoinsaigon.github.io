@@ -33,7 +33,6 @@ So if outside the usual Bitcoin meetups you are looking for the right venue for 
 
 #### Tippy’s Mexican Food
 
-- Address (District 1): 31/40 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Vietnam
 - Address (District 4): 99 Số 45, Phường 5, Quận 4, Hồ Chí Minh, Vietnam
 - Google Maps: [District 1](https://goo.gl/maps/AvzvBJGou2WUe4HZ8), [District 4](https://goo.gl/maps/Es78ZLxJ4PpUKkME7)
 - Phone: +84354759810 (District 1),  +84378052168 (District 4)
@@ -136,7 +135,7 @@ One of the highlights of the location is the stunning riverside view with a look
 
  -->
 
-#### Xie Xie BBQ
+<!-- #### Xie Xie BBQ
 - Address: 878 Trường Sa, Phường 13, District 3, Ho Chi Minh City
 - Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
 - Phone: +84909815515
@@ -150,8 +149,7 @@ Plenty of choices for friends of liquified, fermented grains as well!
 
 - Location review: [soon to follow!]
 - Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
- 
- 
+  -->
 
 #### [Tacos Fuego](https://www.tacosfuego.vn/)
 - Address:
