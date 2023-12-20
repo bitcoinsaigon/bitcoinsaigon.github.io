@@ -170,10 +170,10 @@ Tacos Fuego is one of the newer spots on the meetup roster -  with a melting hot
 - Instagram: [Tacos Fuego](https://www.instagram.com/tacosfuego_vn/)
 
 #### Pingu's Burger
-Address:
-- 26 Đ. Số 2, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam - [Google Maps](https://maps.app.goo.gl/hNJZhEiAt5Sg7QCx9) - Phone: Tel: + 84 708 124 898
+- Address:
+  - 26 Đ. Số 2, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam - [Google Maps](https://maps.app.goo.gl/hNJZhEiAt5Sg7QCx9) - Phone: Tel: + 84 708 124 898
 
-Style: Burger joint
+- Style: Burger joint
 
 Healthy fast food?
 
