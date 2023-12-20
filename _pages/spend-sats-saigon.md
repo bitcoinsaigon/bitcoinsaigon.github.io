@@ -34,8 +34,10 @@ So if outside the usual Bitcoin meetups you are looking for the right venue for 
 #### Tippy’s Mexican Food
 
 - Address (District 4): 99 Số 45, Phường 5, Quận 4, Hồ Chí Minh, Vietnam
-- Google Maps: [District 1](https://goo.gl/maps/AvzvBJGou2WUe4HZ8), [District 4](https://goo.gl/maps/Es78ZLxJ4PpUKkME7)
-- Phone: +84354759810 (District 1),  +84378052168 (District 4)
+<!-- - Google Maps: [District 1](https://goo.gl/maps/AvzvBJGou2WUe4HZ8), [District 4](https://goo.gl/maps/Es78ZLxJ4PpUKkME7)
+- Phone: +84354759810 (District 1),  +84378052168 (District 4) -->
+- Google Maps: [District 4](https://goo.gl/maps/Es78ZLxJ4PpUKkME7)
+- Phone: +84378052168 (District 4)
 - Style: Mexican restaurant (Burritos & Tacos)
 
 Led by F&B veteran Christopher Arizaga from Arizona, Tippy’s has become a regular spot for the local Bitcoin meetups as one of the leading localities to stock up & splurge on Mexican comfort food.
