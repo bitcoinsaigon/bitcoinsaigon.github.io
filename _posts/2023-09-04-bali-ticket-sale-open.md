@@ -13,7 +13,7 @@ By the end of next month (26th/27th of October) the friends of the orange coin w
 
 After successful events in Da Nang, Boracay (Philippines) and Bangkok it is now time for the Indonesian Bitcoin community to take up the host role.
 
-![Caption: Vitamin D maxxing made easy in Bali](/assets/images/bitcoin-indonesia-conference-2023-2.jpg)
+![Vitamin D maxxing made easy in Bali](/assets/images/bitcoin-indonesia-conference-2023-2.jpg)
 *Vitamin D maxxing made easy in Bali*
 
 Besides our ASEAN all stars including representatives from Vietnam-based leading Bitcoin firms such as BitcoinVN or Neutronpay, you will be able to meet with some of the global movers and shakers in the Bitcoin space, including:
