@@ -12,7 +12,7 @@ to us here:
 Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 15 minutes:
 
 <div style="position: relative;">
-<iframe id="tips" src="https://lightning-tip.fly.dev/tip.html" style="border:none; width:100%"></iframe>
+<iframe id="tips" src="https://lightning-tip.fly.dev/tip.html" style="border:none; width:100%; height: 400px"></iframe>
 </div>
 
 <!-- Script to adjust iframe size -->
