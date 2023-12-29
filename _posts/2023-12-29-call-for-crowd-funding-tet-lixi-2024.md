@@ -13,7 +13,7 @@ Be it through your local Bitcoiner friend, the [Bitcoin spots in town](https://b
 
 And we are going to do it all over again - this time in the celebration of the approaching Year of the Dragon.
 
-To fund the upcoming 2024 campaign, we are looking to **crowdfund 1,000,000 Satoshis** - which can be donated either via our [Donation page](https://bitcoinsaigon.org/donate-satoshis) and/or via our Geyser campaign page.
+To fund the upcoming 2024 campaign, we are looking to **crowdfund 1,000,000 Satoshis** - which can be donated either via our [Donation page](https://bitcoinsaigon.org/donate-satoshis) and/or via [our Geyser campaign page](https://geyser.fund/project/tetlixi2024/).
 
 ![Li Xi](/assets/images/call-for-crowd-funding-tet-lixi-2024-1.jpg)
 
