@@ -2,7 +2,7 @@
 layout: post
 title: "Call for Crowdfunding - Tết lì xì Campaign 2024"
 categories: 
-image: assets/images/call-for-crowd-funding-tet-lixi-2024.jpg
+image: /assets/images/call-for-crowd-funding-tet-lixi-2024.jpg
 tags: 
 ---
 In [2022](https://bitcoinsaigon.org/li-xi-2022/) and [2023](https://bitcoinsaigon.org/li-xi-2023/) the Saigonese Bitcoin Community organized - following the [lead example](https://www.bitcoin.org.hk/laisee/) set by the Bitcoiner Crew from Hong Kong - a classic Lì xì (“lucky money”) campaign.
@@ -15,7 +15,7 @@ And we are going to do it all over again - this time in the celebration of the a
 
 To fund the upcoming 2024 campaign, we are looking to **crowdfund 1,000,000 Satoshis** - which can be donated either via our [Donation page](https://bitcoinsaigon.org/donate-satoshis) and/or via our Geyser campaign page.
 
-![Li Xi](assets/images/call-for-crowd-funding-tet-lixi-2024-1.jpg)
+![Li Xi](/assets/images/call-for-crowd-funding-tet-lixi-2024-1.jpg)
 
 ## What is a “Lì xì”?
 
@@ -25,7 +25,7 @@ _“Lì xì” _- commonly translated as “Lucky Money” - is a small mostly s
 
 The Lunar New Year celebrations (called Tết in Vietnam) are the biggest annual event here in the wider East Asian region; basically what would happen if you combine Thanksgiving, Christmas and New Years eve celebrations all into one big celebratory happenstance.
 
-![Li Xi](assets/images/call-for-crowd-funding-tet-lixi-2024-2.jpg)
+![Li Xi](/assets/images/call-for-crowd-funding-tet-lixi-2024-2.jpg)
 
 It is also the only time in the year you can find those busy Asians not working non-stop :) 
 
@@ -33,7 +33,7 @@ The Vietnamese diaspora returns home and people in the city travel back to their
 
 While the amount in the red envelopes is usually more of symbolic nature, especially young kids are rather joyous upon collecting and counting all their Lì xì exploits.
 
-![Li Xi](assets/images/call-for-crowd-funding-tet-lixi-2024-3.jpg)
+![Li Xi](/assets/images/call-for-crowd-funding-tet-lixi-2024-3.jpg)
 
 ## The 2024 Lì xì campaign
 
