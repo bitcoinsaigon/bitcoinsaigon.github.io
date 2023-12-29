@@ -2,7 +2,20 @@
 title: "Support Bitcoin Saigon with a donation"
 permalink: "/donate-satoshis.html"
 ---
-<!-- Adjust iframe size -->
+If you would like to support the work of Bitcoin Saigon - a non-profit
+community run by volunteers with a passion for Bitcoin - to help us
+finance further equipment or other event-related costs, you can donate
+to us here:
+
+**Lightning Network and On-Chain:**
+
+Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 15 minutes:
+
+<div style="position: relative;">
+<iframe id="tips" src="https://lightning-tip.fly.dev/tip.html" style="border:none; width:100%"></iframe>
+</div>
+
+<!-- Script to adjust iframe size -->
 <script>
 function resizeIframe() {
   var iframe = document.getElementById('tips');
@@ -20,17 +33,6 @@ document.getElementById('tips').onload = function() {
   resizeIframe();
 };
 </script>
-
-If you would like to support the work of Bitcoin Saigon - a non-profit
-community run by volunteers with a passion for Bitcoin - to help us
-finance further equipment or other event-related costs, you can donate
-to us here:
-
-**Lightning Network and On-Chain:**
-
-Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 15 minutes:
-
-<iframe id="tips" width="100%" src="https://lightning-tip.fly.dev/tip.html" style="border:none;"></iframe>
 
 **Donate Sats to the Bitcoin Saigon community via [GetAlby](https://getalby.com/p/bitcoinsaigon)**
 
