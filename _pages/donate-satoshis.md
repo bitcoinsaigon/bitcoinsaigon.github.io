@@ -12,7 +12,7 @@ to us here:
 
 Generate an invoice QR code with the amount of satoshis you want to donate to us and then send within 15 minutes:
 
-<iframe id="tips" width="900" height="680" src="https://lightning-tip.fly.dev/tip.html" style="border:none;"></iframe>
+<iframe id="tips" width="900" height="auto" src="https://lightning-tip.fly.dev/tip.html" style="border:none;"></iframe>
 
 **Donate Sats to the Bitcoin Saigon community via [GetAlby](https://getalby.com/p/bitcoinsaigon)**
 
