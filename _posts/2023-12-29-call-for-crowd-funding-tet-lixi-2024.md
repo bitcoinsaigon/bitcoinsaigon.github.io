@@ -2,7 +2,7 @@
 layout: post
 title: "Call for Crowdfunding - Tết lì xì Campaign 2024"
 categories: 
-image: /assets/images/call-for-crowd-funding-tet-lixi-2024.jpg
+image: assets/images/call-for-crowd-funding-tet-lixi-2024.jpg
 tags: 
 ---
 In [2022](https://bitcoinsaigon.org/li-xi-2022/) and [2023](https://bitcoinsaigon.org/li-xi-2023/) the Saigonese Bitcoin Community organized - following the [lead example](https://www.bitcoin.org.hk/laisee/) set by the Bitcoiner Crew from Hong Kong - a classic Lì xì (“lucky money”) campaign.
