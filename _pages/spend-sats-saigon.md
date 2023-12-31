@@ -169,7 +169,7 @@ Tacos Fuego is one of the newer spots on the meetup roster -  with a melting hot
 - Facebook: [Tacos Fuego](https://www.facebook.com/tacosfuegovn/)
 - Instagram: [Tacos Fuego](https://www.instagram.com/tacosfuego_vn/)
 
-#### Pingu's Burger
+#### [Pingu's Burger](https://pingusburger.com/)
 - Address:
   - 26 Đ. Số 2, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam - [Google Maps](https://maps.app.goo.gl/hNJZhEiAt5Sg7QCx9) - Phone: Tel: + 84 708 124 898
 
@@ -191,6 +191,7 @@ And yes - you can pay for your beef patty burgers with Bitcoin / Lightning.
 Good food for good money.
 
 - Location review: [soon to follow!]
+- Website: [pingusburger.com](https://pingusburger.com/)
 - Facebook: [Pingu's Burger](https://www.facebook.com/pingusburger)
 
 #### Offline/Online Merchants
