@@ -4,6 +4,8 @@ title: "Bitcoin Lì Xì - 2024 Year of the Dragon campaign"
 categories: 
 image: assets/images/lixi-2024-year-of-dragon.jpg
 tags: 
+redirect_from:
+  - /lixi/
 ---
 ## **Bitcoin Lì Xì**
 
