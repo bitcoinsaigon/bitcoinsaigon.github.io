@@ -5,6 +5,8 @@ categories:
 image: assets/images/call-for-crowd-funding-tet-lixi-2024.jpg
 tags: 
 ---
+***The fundraising goal has been achieved by 29.01.24 - we thank everyone for their contributions to make this campaign in Saigon work successfully for a third year in a row!***
+
 In [2022](https://bitcoinsaigon.org/li-xi-2022/) and [2023](https://bitcoinsaigon.org/li-xi-2023/) the Saigonese Bitcoin Community organized - following the [lead example](https://www.bitcoin.org.hk/laisee/) set by the Bitcoiner Crew from Hong Kong - a classic Lì xì (“lucky money”) campaign.
 
 After 500 red envelopes à 1,000 Sats each in the first year, we doubled the campaign size last year to 1,000 red envelopes.
