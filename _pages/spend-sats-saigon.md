@@ -30,7 +30,7 @@ So if outside the usual Bitcoin meetups you are looking for the right venue for 
 - Facebook: [fb.com/ItalianisPizza2](http://www.facebook.com/ItalianisPizza2)
 - Instagram: [instagram.com/italianis.saigon](http://www.instagram.com/italianis.saigon) -->
 
-
+<!-- 
 #### Tippy’s Mexican Food
 
 - Address (District 4): 99 Số 45, Phường 5, Quận 4, Hồ Chí Minh, Vietnam
@@ -44,7 +44,7 @@ Burritos, Tacos, Guacamole, Quesadilla… - everything the Mexican cuisine has t
 
 - Location review: [bitcoinsaigon.org/location-revue-tippy-s](https://bitcoinsaigon.org/location-revue-tippy-s/)
 - Facebook: [fb.com/TippysMexicanFood](https://www.facebook.com/TippysMexicanFood/)
-
+-->
 
 <!-- 
 {% comment %} 
