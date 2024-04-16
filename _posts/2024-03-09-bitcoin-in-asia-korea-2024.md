@@ -25,9 +25,9 @@ Besides many local and regional leading Asian Bitcoin builders, some well-known 
 
 ![Bitcoin Seoul 2024 Speakers](/assets/images/bitcoin-in-asia-korea-2024-2.jpg)
 
-_"Imagine South Korea, home to Samsung, Hyundai, K-Pop, and K-Dramas understands Bitcoin. _
+*"Imagine South Korea, home to Samsung, Hyundai, K-Pop, and K-Dramas understands Bitcoin.*
 
-_Korea could influence Asia and beyond with its tech and cultural clout. Bitcoin Seoul will mark the start of the journey."_
+*Korea could influence Asia and beyond with its tech and cultural clout. Bitcoin Seoul will mark the start of the journey."*
 
 The local Bitcoin Community in Vietnam will be presented on stage by [Neutronpay](neutronpay.com) Founder [Albert Buu](www.twitter.com/subnetmask) and Dominik Weil, Co-Founder of Vietnam’s premier Bitcoin Exchange [BitcoinVN](https://bitcoinvn.io).
 
