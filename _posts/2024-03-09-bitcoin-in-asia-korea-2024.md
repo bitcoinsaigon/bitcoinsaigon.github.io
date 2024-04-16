@@ -29,7 +29,7 @@ Besides many local and regional leading Asian Bitcoin builders, some well-known 
 
 *Korea could influence Asia and beyond with its tech and cultural clout. Bitcoin Seoul will mark the start of the journey."*
 
-The local Bitcoin Community in Vietnam will be presented on stage by [Neutronpay](neutronpay.com) Founder [Albert Buu](www.twitter.com/subnetmask) and Dominik Weil, Co-Founder of Vietnam’s premier Bitcoin Exchange [BitcoinVN](https://bitcoinvn.io).
+The local Bitcoin Community in Vietnam will be presented on stage by [Neutronpay](neutronpay.com) Founder [Albert Buu](www.twitter.com/subnetmask) and [Dominik Weil](https://twitter.com/DominikWeil), Co-Founder of Vietnam’s premier Bitcoin Exchange [BitcoinVN](https://bitcoinvn.io).
 
 Fancy a trip to Seoul in May? 
 
