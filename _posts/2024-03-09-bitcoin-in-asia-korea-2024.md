@@ -5,7 +5,7 @@ categories:
 image: assets/images/bitcoin-in-asia-korea-2024.jpg
 tags: 
 ---
-_TL, DR: In need of a ticket for Bitcoin Seoul? [Here you go](https://www.bitcoinseoul.kr/en/)._
+_TL, DR: In need of a ticket for Bitcoin Seoul? [Here you go](https://pay.zaprite.com/pl_kf0Nl2jk1W) (VIP ticket? [Here](https://pay.zaprite.com/pl_PHo4SxIUoH))._
 
 After a long absence of in-person gatherings during the lockdown years, the Bitcoin communities across Asia were treated last year with gatherings in Da Nang, Boracay, Bangkok, and finally Bali.
 
@@ -29,7 +29,7 @@ _"Imagine South Korea, home to Samsung, Hyundai, K-Pop, and K-Dramas understands
 
 _Korea could influence Asia and beyond with its tech and cultural clout. Bitcoin Seoul will mark the start of the journey."_
 
-The local Bitcoin Community in Vietnam will be presented on stage by [Neutronpay](neutronpay.com) Founder [Albert Buu](www.twitter.com/subnetmask).
+The local Bitcoin Community in Vietnam will be presented on stage by [Neutronpay](neutronpay.com) Founder [Albert Buu](www.twitter.com/subnetmask) and Dominik Weil, Co-Founder of Vietnam’s premier Bitcoin Exchange [BitcoinVN](https://bitcoinvn.io).
 
 Fancy a trip to Seoul in May? 
 
