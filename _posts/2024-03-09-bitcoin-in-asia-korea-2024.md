@@ -17,7 +17,7 @@ In 2024, we're seeing several alternative locations shaping up for the Asian Bit
 
 [Seoul](https://www.bitcoinseoul.kr/en/) and [Hong Kong](https://b.tc/conference/asia) in May, followed by Bangkok and Tokyo in early fall.
 
-Bitcoin Seoul 2024 will take place from May 29th to 31st, 2024, at The Shilla & SFACTORY, as part of the larger SEOUL FORUM event.
+Bitcoin Seoul 2024 will take place from May 29th to 31st, 2024, at Peaches Do-one, as part of the larger SEOUL FORUM event.
 
 _Lead Organizer [Calvin Kim](https://twitter.com/kcalvinalvinn): “Bitcoin Seoul Conference hopes to accelerate Bitcoin adoption in Korea by providing locals with the opportunity to meet and interact with developers, thought leaders and entrepreneurs. Koreans have had a lot of interest in Bitcoin but there weren’t enough resources to meet the demand. With this conference, we hope to inspire and connect people that are interested in Bitcoin.”_
 
