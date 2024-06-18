@@ -11,7 +11,7 @@ After a long hiatus, the Bitcoin Saigon community resurfaces with its first publ
 
 Since motion pictures are often more powerful than words in conveying a message, the inspiration comes from various similar community-based events around the world, such as those seen in El Salvador:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> farmers market in 🇸🇻 El Salvador has what you’re looking for 👀<br><br> <a href="https://t.co/UDk1lJd4Fa">pic.twitter.com/UDk1lJd4Fa</a></p>&mdash; Bitcoin News (@BitcoinNewsCom) <a href="https://twitter.com/BitcoinNewsCom/status/1788603569421132158?ref_src=twsrc%5Etfw">May 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> farmers market in 🇸🇻 El Salvador has what you’re looking for 👀<br><br> <a href="https://t.co/UDk1lJd4Fa">pic.twitter.com/UDk1lJd4Fa</a></p>&mdash; Bitcoin News (@BitcoinNewsCom) <a href="https://twitter.com/BitcoinNewsCom/status/1788603569421132158?ref_src=twsrc%5Etfw">May 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## What to expect?
 
@@ -25,7 +25,7 @@ Genuine people, authentic products.
 
 …some participants might also sell unnecessary furniture or similar second-hand items in exchange for some more Sats in their wallets (IYKYK).
 
-![Spot the Bitcoiner](/assets/images/inaugural-satoshi-flea-market-saigon-2024-1.jpg)
+![alt_text](/assets/images/inaugural-satoshi-flea-market-saigon-2024-1.jpg)
 
 
 It is not a “crypto event”.
