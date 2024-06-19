@@ -46,6 +46,8 @@ If we decide to hold another iteration in a few months, we will seek to improve 
 
 - **Date:** Afternoon of 28th of July (Sunday) 2024
 
+***Disclaimer**: In line with current State Bank regulations, no official transactions will be conducted in cryptocurrency during the event. VND will be accepted as the means of payment at all booths.*
+
 ---
 
 *If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page](https://bitcoinsaigon.org/donate-satoshis)!*
