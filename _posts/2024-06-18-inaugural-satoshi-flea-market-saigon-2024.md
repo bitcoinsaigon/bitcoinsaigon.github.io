@@ -23,7 +23,7 @@ We aim to cultivate a community and strengthen the ties among its members, align
 
 …some participants might also sell unnecessary furniture or similar second-hand items in exchange for some more Sats in their wallets (IYKYK).
 
-![alt_text](/assets/images/inaugural-satoshi-flea-market-saigon-2024-1.jpg)
+![Spot the Bitcoiner](/assets/images/inaugural-satoshi-flea-market-saigon-2024-1.jpg)
 
 
 It is not a “crypto event”.
