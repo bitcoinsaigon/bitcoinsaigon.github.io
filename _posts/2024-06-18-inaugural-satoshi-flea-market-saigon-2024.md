@@ -19,7 +19,7 @@ Genuine people, authentic products.
 
 It’s a rather casual event for friends and family of the extended community to showcase their arts and crafts. 
 
-We aim to cultivate a community and strengthen the ties among its members, aligned with the Bitcoin ethos: low time preference, long-term thinking, and a strive for excellence and the best quality (versus the “throwaway” culture cultivated by fiat monetary systems).
+We aim to cultivate a community and strengthen the ties among its members, aligned with the Bitcoin ethos: low time preference, long-term thinking, and a strive for excellence and the best quality (versus the “throwaway” culture cultivated by societies operating without access to sound savings technology).
 
 …some participants might also sell unnecessary furniture or similar second-hand items in exchange for some more Sats in their wallets (IYKYK).
 
