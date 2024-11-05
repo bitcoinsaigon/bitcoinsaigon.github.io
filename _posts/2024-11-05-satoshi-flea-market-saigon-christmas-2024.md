@@ -17,7 +17,7 @@ This festive get-together celebrates the Bitcoin spirit with a chance to support
 
 From handcrafted goods to Bitcoin swag and locally crafted culinary fare, we’ve got something for everyone to enjoy!
 
-[embed: https://odysee.com/@BitcoinSaigon:a/satoshi-flea-market-summer-2024:4]
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@BitcoinSaigon:a/satoshi-flea-market-summer-2024:4?r=CFxM7qdCpE2YtVjLg71YEtkqd4qiHwac" allowfullscreen></iframe>
 
 ## Where is it?
 
@@ -41,7 +41,7 @@ If you are looking for tips on the _“hottest new memecoin of the week”_ or a
 
 - **Bitcoin Standard Goods & Produce**: High-quality food products and artisanal goods produced with a “Bitcoin standard” ethos, alongside a curated selection of Bitcoin merch and handcrafted creations from our community.
 - **Connect with the Community**: Mingle with Bitcoiners, have a chat over locally produced & brewed coffee, and meet fellow enthusiasts building and shaping the future of Bitcoin here in Saigon, Vietnam and the wider region.
-- **Kids & Family Friendly**: _“The future belongs to those who show up for it!” _
+- **Kids & Family Friendly**: _“The future belongs to those who show up for it!”_
 
   This principle is at the heart of our community, where strong, growing families are valued and celebrated. We warmly welcome the young ones to connect, play, and enjoy the festivities together.
 
