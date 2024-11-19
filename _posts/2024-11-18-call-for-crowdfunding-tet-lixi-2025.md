@@ -16,7 +16,7 @@ Be it through your local Bitcoiner friend, the [Bitcoin spots in town](https://b
 
 And we are going to do it all over again - this time in the celebration of the approaching Year of the Snake.
 
-To fund the upcoming 2025 campaign, we are looking to crowdfund 600,000 Satoshis - which can be donated either via our [Donation page](https://bitcoinsaigon.org/donate-satoshis) and/or via [our Geyser campaign page](https://geyser.fund/project/tetlixi2024/).
+To fund the upcoming 2025 campaign, we are looking to crowdfund 600,000 Satoshis - which can be donated either via our [Donation page](https://bitcoinsaigon.org/donate-satoshis) and/or via [our Geyser campaign page](https://geyser.fund/project/ttlxcampaign2025/).
 
 ## What is a “Lì xì”?
 
