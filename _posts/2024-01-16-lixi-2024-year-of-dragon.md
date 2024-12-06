@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "Bitcoin Lì Xì - 2024 Year of the Dragon campaign"
-categories: 
+categories:
 image: assets/images/lixi-2024-year-of-dragon.jpg
-tags: 
-redirect_from:
-  - /lixi/
+tags:
 ---
+
 ## **Bitcoin Lì Xì**
 
-In Vietnam it is customary to gift money for special occasions, especially Lunar New Year (Tết), weddings and births. The cash is typically enclosed in a red envelope (also called red pocket, Bao lì xì). 
+In Vietnam it is customary to gift money for special occasions, especially Lunar New Year (Tết), weddings and births. The cash is typically enclosed in a red envelope (also called red pocket, Bao lì xì).
 
-The envelope is gifted, the recipient takes out the cash from the envelope. 
+The envelope is gifted, the recipient takes out the cash from the envelope.
 
 The Bitcoin Lì Xì achieves the same experience using LNURL-withdrawal QR codes that can be gifted electronically or physically.
 
@@ -25,10 +24,10 @@ To redeem your Lì Xì, you need a Lightning wallet that supports LNURL-withdraw
 
 Some of the top-recommended wallets include:
 
-* [Neutronpay](https://neutronpay.com/)
-* [Wallet of Satoshi](https://www.walletofsatoshi.com/) 
-* [Blink](https://www.blink.sv/) 
-* [Zeus](https://zeusln.com/) 
+- [Neutronpay](https://neutronpay.com/)
+- [Wallet of Satoshi](https://www.walletofsatoshi.com/)
+- [Blink](https://www.blink.sv/)
+- [Zeus](https://zeusln.com/)
 
 You can find [a complete list here.](https://github.com/fiatjaf/awesome-lnurl/#wallets)
 
@@ -48,9 +47,9 @@ Sats flowing in a permissionless monetary system from one end of the world to th
 
 Last but not least we would like to thank our corporate donors to cover the printing and manufacturing expenses of this campaign.
 
-* [Neutronpay](http://neutronpay.com/)
-* [BitcoinVN](http://www.bitcoinvn.io/)
+- [Neutronpay](http://neutronpay.com/)
+- [BitcoinVN](http://www.bitcoinvn.io/)
 
 ---
 
-*If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page!](https://bitcoinsaigon.org/donate-satoshis)!*
+_If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page!](https://bitcoinsaigon.org/donate-satoshis)!_

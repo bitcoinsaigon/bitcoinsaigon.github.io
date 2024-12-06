@@ -4,6 +4,8 @@ title: "Bitcoin Lì Xì - 2025 Year of the Snake campaign"
 categories: [Community]
 image: assets/images/bitcoin-lixi-2025.jpg
 tags:
+redirect_from:
+  - /lixi/
 ---
 
 ## **Bitcoin Lì Xì**
