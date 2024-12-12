@@ -13,23 +13,3 @@ to us here:
 `bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy`
 
 **Donate Sats to the Bitcoin Saigon community via [GetAlby](https://getalby.com/p/bitcoinsaigon)**
-
-**Native SegWit:**
-
-`bc1qjjwfxyjx6a5ezn0lsgh04t6w39ycs4qhpc4es80a0jnrlg2f9apqhvqdq8`
-
-![bc1qjjwfxyjx6a5ezn0lsgh04t6w39ycs4qhpc4es80a0jnrlg2f9apqhvqdq8](../assets/images/native-segwit-qr.jpg)
-
-**Wrapped SegWit:**
-
-`31zqcAgM3urq29KwEHeS6Mh8ycmnTDvF17`
-
-![31zqcAgM3urq29KwEHeS6Mh8ycmnTDvF17](../assets/images/wrapped-segwit-qr.jpg)
-
-<!-- **Donate to Bitcoin Saigon via [LNTXBot](https://lntxbot.com/@Bitcoin_Saigon) on Telegram**
-
-[lntxbot.com/@Bitcoin_Saigon](https://lntxbot.com/@Bitcoin_Saigon)
-
-![@Bitcoin_Saigon on Telegram](../assets/images/lntx-bot-qr-code.jpg)
-
-LNURL1DP68GURN8GHJ7MRWW3UXYMM59E3K7MF0D3H82UNV9ACXZ7FLW4EK2UNWV9KK202ZD96XXMMFDE04XCTFVAHKURURZQE -->
