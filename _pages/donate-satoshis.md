@@ -8,7 +8,7 @@ community run by volunteers with a passion for Bitcoin - to help us
 finance further equipment or other event-related costs, you can donate
 to us here:
 
-## Bitcoin On-Chain
+## **Bitcoin On-Chain**
 
 `bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy`
 
@@ -16,7 +16,7 @@ to us here:
 
 Checkout this address on [mempool.space](https://mempool.space/address/bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy).
 
-## Donate Sats to the Bitcoin Saigon community via [GetAlby](https://getalby.com/p/bitcoinsaigon)
+## **Donate Sats to the Bitcoin Saigon community via [GetAlby](https://getalby.com/p/bitcoinsaigon)**
 
 <div style="position: relative;">
 <iframe id="albyTips" src="https://getalby.com/p/bitcoinsaigon" style="border:none; width:100%; height: 780px"></iframe>
