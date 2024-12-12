@@ -12,4 +12,8 @@ to us here:
 
 `bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy`
 
+![bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy](/assets/images/btc-on-chain-donation-qr.png)
+
+Checkout this address on [mempool.space](https://mempool.space/address/bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy).
+
 **Donate Sats to the Bitcoin Saigon community via [GetAlby](https://getalby.com/p/bitcoinsaigon)**
