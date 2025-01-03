@@ -26,7 +26,7 @@ That said, with many Bitcoiners from the region likely to be in town, you’ll p
 
 If you believe you could contribute meaningfully by sharing ideas or adding value, we encourage you to register here.
 
-[https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff](https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff) \*
+[https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff](https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff)
 
 \*_Approval of the application will depend on the organizer's discretion_
 
