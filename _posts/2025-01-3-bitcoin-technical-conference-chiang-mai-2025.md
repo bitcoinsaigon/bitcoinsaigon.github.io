@@ -38,10 +38,10 @@ That said, with many Bitcoiners from the region likely to be in town, you’ll p
 
 If you believe you could contribute meaningfully by sharing ideas or adding value, we encourage you to register using the following links:
 
-- Leads: https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff
-- Attendees: https://formstr.app/#/fill/b3b9bd115fe936848a5e03134fefff945287285d51b1dee4731fef6a1070c597
+- Leads: [https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff](https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff)
+- Attendees: [https://formstr.app/#/fill/b3b9bd115fe936848a5e03134fefff945287285d51b1dee4731fef6a1070c597](https://formstr.app/#/fill/b3b9bd115fe936848a5e03134fefff945287285d51b1dee4731fef6a1070c597)
 
-_\*Tickets: https://satsnfacts.btc.pub/p/ticket/_
+_\*Tickets: [https://satsnfacts.btc.pub/p/ticket/](https://satsnfacts.btc.pub/p/ticket/)_
 
 _\*It is mandatory to register in order to receive an event ticket._
 
