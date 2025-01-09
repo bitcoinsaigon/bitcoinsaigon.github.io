@@ -22,13 +22,30 @@ In the 2020s, Chiang Mai has become a vibrant hub for Bitcoiners to connect and 
 
 Please understand that this gathering is **highly targeted towards a technical audience** - it is not a "Bitcoin business/Commercial" or "Bitcoin community/adoption" style event.
 
+## The Sats ‘n Facts Unconference will include two primary types of participants:
+
+### Leads
+
+Leads are expected to guide hands-on activities rather than deliver traditional presentations. These activities could range from technical hackathons or smaller operational tasks to off-tech workshops related to Bitcoin and similar technologies.
+
+Even non-technical participants can lead; for example, a newbie coder might host a workshop titled "How to Scale/Hack My Learning Skills as a Coding Noob." The key criterion is the ability to offer a meaningful, interactive experience for attendees and share synergies with other FOSS Builders, Designers and Creators.
+
+### Attendees
+
+Attendees are those who have chosen to purchase tickets after undergoing scrutiny by the organizing team. They are expected to add value by actively participating in lead-driven activities or by creating ad-hoc, win-win collaborations during the event.
+
 That said, with many Bitcoiners from the region likely to be in town, you’ll probably still have a great time hanging out in the area and enjoying the surrounding days with your fellow orange-clad friends.
 
-If you believe you could contribute meaningfully by sharing ideas or adding value, we encourage you to register here.
+If you believe you could contribute meaningfully by sharing ideas or adding value, we encourage you to register using the following links:
 
-[https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff](https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff)
+- Leads: https://formstr.app/#/forms/cf02333ea3c0d0c21080df599373e289fa343a55e63a1abdc7f633d1594078ff
+- Attendees: https://formstr.app/#/fill/b3b9bd115fe936848a5e03134fefff945287285d51b1dee4731fef6a1070c597
 
-\*_Approval of the application will depend on the organizer's discretion_
+_\*Tickets: https://satsnfacts.btc.pub/p/ticket/_
+
+_\*It is mandatory to register in order to receive an event ticket._
+
+_\*Thai Nationals will have a significant discount code after scrutiny Sats N Facts team scrutiny._
 
 ---
 
