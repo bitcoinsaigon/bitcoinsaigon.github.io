@@ -20,7 +20,7 @@ Not only can you wine & dine at your pleasure at a variety of venues - our long-
 - Phone: +84901453194
 - Style: Italian restaurant ([Pizza & Pasta](https://italianis.vn/#menu))
 
-Led by the [young Vietnamese entrepreneurs Kevin and Ariel](https://news.bitcoinvn.io/interview-with-ariel-nguyen-of-italianis) Italiani’s has been a meeting point for the local Bitcoin community since 2016.
+Led by the [young Vietnamese entrepreneurs Kevin and Ariel](https://bitcoinvn.io/news/interview-with-ariel-nguyen-of-italianis) Italiani’s has been a meeting point for the local Bitcoin community since 2016.
 As such, their original location also wrote a little Vietnamese Bitcoin history, [hosting the very first Bitcoin ATM](https://btm.bitcoinvn.io)  [in Vietnam back in 2016](https://ice3x.co.za/first-bitcoin-atm-in-vietnam/).
 
 Their venue in Han Thuyen is located romantically right next to 30/04 park between the Independence palace and Notre Dame church.
@@ -73,7 +73,7 @@ Bitcoin & Meat - latest since the trend towards Bitcoin Carnivory which was set 
 
 Hard money in combination with hard muscles - built by consumption of large swaths of meat.
 
-All of that you can have at [Rob Rankin’s Big Pig BBQ](https://news.bitcoinvn.io/interview-rob-rankin-big-pig-bbq-utit-vn/?lang=en) with currently two locations in town; one of them right next to Tân Sơn Nhất Airport within five minutes walking distance to the terminal.
+All of that you can have at [Rob Rankin’s Big Pig BBQ](https://bitcoinvn.io/news/interview-rob-rankin-big-pig-bbq-utit-vn/?lang=en) with currently two locations in town; one of them right next to Tân Sơn Nhất Airport within five minutes walking distance to the terminal.
 
 Besides being able to exchange Sats for Steak - they’re also host of some of the [Bitcoin ATMs in town](https://btm.bitcoinvn.io).
 
@@ -223,18 +223,18 @@ David himself is also a regular at the local Bitcoin meetups and probably the pe
 - Twitter: [twitter.com/FutureTravel14](https://www.twitter.com/FutureTravel14)
 - Facebook: [fb.com/FutureTravel-1504447956442155](https://www.twitter.com/FutureTravel14)
 
-#### [BitcoinVN Online Shop](https://shop.bitcoinvn.io)
+#### [BitcoinVN Online Shop](https://bitcoinvn.io/shop)
 
 Sector: Bitcoin-related hardware and merchandise
 
-[BitcoinVN Shop](https://shop.bitcoinvn.io) is the Online Shop of Vietnam’s oldest Bitcoin Exchange [BitcoinVN](https://www.bitcoinvn.io).
+[BitcoinVN Shop](https://bitcoinvn.io/shop) is the Online Shop of Vietnam’s oldest Bitcoin Exchange [BitcoinVN](https://www.bitcoinvn.io).
 
-As such it serves as an official reseller of hardware wallets from trusted manufacturers such as [Trezor](https://news.bitcoinvn.io/bitcoinvn-shop-official-reseller-trezor-vietnam/?lang=en) or [Ledger](https://news.bitcoinvn.io/official-reseller-ledger-hardware-vietnam/?lang=en).
+As such it serves as an official reseller of hardware wallets from trusted manufacturers such as [Trezor](https://bitcoinvn.io/news/bitcoinvn-shop-official-reseller-trezor-vietnam/?lang=en) or [Ledger](https://bitcoinvn.io/news/official-reseller-ledger-hardware-vietnam/?lang=en).
 
 BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the country since early 2014; founded by industry veterans such as [Dominik Weil](https://www.twitter.com/DominikWeil), [Alex Winter](https://www.twitter.com/realalexwinter) and [Bao Phuong Nguyen](https://www.twitter.com/PhuongBitcoinVN) and provides a variety of exchange-related services such as the online trading platform [VBTC](https://www.vbtc.exchange), the brokerage [BitcoinVN](https://www.bitcoinvn.io), an [OTC desk for institutional & affluent private clients](https://www.bitcoinvn.io/en/otc) and a fleet of [Bitcoin ATMs](https://btm.bitcoinvn.io).
 
 - Interview: (following soon!)
-- Website: [shop.bitcoinvn.io](https://shop.bitcoinvn.io)
+- Website: [shop.bitcoinvn.io](https://bitcoinvn.io/shop)
 - Facebook: [BitcoinVN Shop](https://www.facebook.com/Vilanh-BTC-Shop-Bitcoinvn-104495564767407/)
 - Twitter: [BitcoinVN Shop](https://www.twitter.com/BitcoinVNShop)
 
