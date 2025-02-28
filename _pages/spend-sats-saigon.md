@@ -8,12 +8,12 @@ redirect_from:
 
 The Bitcoin Community in Saigon has these days thanks to the dedicated work of some people within the community been able to expand the reach of Bitcoin Merchants in Saigon.
 
-Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [David Watson](https://twitter.com/watson_ita) of [Future.Travel](http://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
+Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [David Watson](https://twitter.com/watson_ita) of [Future.Travel](https://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
 
 ## Food & Beverage Venues
 
 <!--
-#### [Italiani’s](http://www.italianis.vn)
+#### [Italiani’s](https://www.italianis.vn)
 
 - Address (District 1): 17 Han Thuyen, Ben Nghe, D1, HCMC
 - Google Maps: [goo.gl/maps/Mc5gTiajZB1BhKS6A](https://goo.gl/maps/Mc5gTiajZB1BhKS6A)
@@ -21,15 +21,15 @@ Not only can you wine & dine at your pleasure at a variety of venues - our long-
 - Style: Italian restaurant ([Pizza & Pasta](https://italianis.vn/#menu))
 
 Led by the [young Vietnamese entrepreneurs Kevin and Ariel](https://news.bitcoinvn.io/interview-with-ariel-nguyen-of-italianis) Italiani’s has been a meeting point for the local Bitcoin community since 2016.
-As such, their original location also wrote a little Vietnamese Bitcoin history, [hosting the very first Bitcoin ATM](http://btm.bitcoinvn.io)  [in Vietnam back in 2016](https://ice3x.co.za/first-bitcoin-atm-in-vietnam/).
+As such, their original location also wrote a little Vietnamese Bitcoin history, [hosting the very first Bitcoin ATM](https://btm.bitcoinvn.io)  [in Vietnam back in 2016](https://ice3x.co.za/first-bitcoin-atm-in-vietnam/).
 
 Their venue in Han Thuyen is located romantically right next to 30/04 park between the Independence palace and Notre Dame church.
 
 So if outside the usual Bitcoin meetups you are looking for the right venue for a date night - food & ambience certainly will not disappoint!
 
 - Location review: [bitcoinsaigon.org/location-review-italianis](https://bitcoinsaigon.org/location-review-italianis)
-- Facebook: [fb.com/ItalianisPizza2](http://www.facebook.com/ItalianisPizza2)
-- Instagram: [instagram.com/italianis.saigon](http://www.instagram.com/italianis.saigon) -->
+- Facebook: [fb.com/ItalianisPizza2](https://www.facebook.com/ItalianisPizza2)
+- Instagram: [instagram.com/italianis.saigon](https://www.instagram.com/italianis.saigon) -->
 
 <!--
 #### Tippy’s Mexican Food
@@ -75,7 +75,7 @@ Hard money in combination with hard muscles - built by consumption of large swat
 
 All of that you can have at [Rob Rankin’s Big Pig BBQ](https://news.bitcoinvn.io/interview-rob-rankin-big-pig-bbq-utit-vn/?lang=en) with currently two locations in town; one of them right next to Tân Sơn Nhất Airport within five minutes walking distance to the terminal.
 
-Besides being able to exchange Sats for Steak - they’re also host of some of the [Bitcoin ATMs in town](http://btm.bitcoinvn.io).
+Besides being able to exchange Sats for Steak - they’re also host of some of the [Bitcoin ATMs in town](https://btm.bitcoinvn.io).
 
 - Location review: [bitcoinsaigon.org/location-revue-big-pig-bbq](https://bitcoinsaigon.org/location-revue-big-pig-bbq/)
 - Facebook: [fb.com/bigpig.vn](https://www.facebook.com/bigpig.vn)
@@ -212,31 +212,31 @@ Full service Travel Agent with online ticketing
 
 If there is one person in Saigon and possibly all over Vietnam who deserves the title as _the_ doyen of Bitcoin merchant adoption in Vietnam, then it is [Future.Travel](https://future.travel/)’s General Director David Watson.
 
-An entrepreneur from head to toe and with business operating experience across 4 different continents in his long career, [back in 2015 they were the first merchant to accept Bitcoin for service offerings](http://www.coinnewsasia.com/vietnam-adds-its-first-bitcoin-merchant/) at the travel agency.
+An entrepreneur from head to toe and with business operating experience across 4 different continents in his long career, [back in 2015 they were the first merchant to accept Bitcoin for service offerings](https://www.coinnewsasia.com/vietnam-adds-its-first-bitcoin-merchant/) at the travel agency.
 
-He and his firm have been a steady supporter over the years of the local community - be it the efforts around [Bitfilm Festival 2015](https://www.coinnewsasia.com/bitcoin-saigon-to-host-the-first-bitfilm-festival/); [BlockFin Asia](http://www.blockfin.asia/) or sponsoring the [Bitcoin Lightning Node of the local community](https://1ml.com/node/023e4a4c0e0e114d88ab50ec14582fefd60ad8baae63eb0934db146d995c5567d7).
+He and his firm have been a steady supporter over the years of the local community - be it the efforts around [Bitfilm Festival 2015](https://www.coinnewsasia.com/bitcoin-saigon-to-host-the-first-bitfilm-festival/); [BlockFin Asia](https://www.blockfin.asia/) or sponsoring the [Bitcoin Lightning Node of the local community](https://1ml.com/node/023e4a4c0e0e114d88ab50ec14582fefd60ad8baae63eb0934db146d995c5567d7).
 
 David himself is also a regular at the local Bitcoin meetups and probably the person who has set up the most people with wallets and their first Sats all across the country.
 
 - Interview: [Interview David Watson](https://bitcoinsaigon.org/david-watson-future-travel/)
-- Website: [future.travel](http://future.travel)
-- Twitter: [twitter.com/FutureTravel14](http://www.twitter.com/FutureTravel14)
+- Website: [future.travel](https://future.travel)
+- Twitter: [twitter.com/FutureTravel14](https://www.twitter.com/FutureTravel14)
 - Facebook: [fb.com/FutureTravel-1504447956442155](https://www.twitter.com/FutureTravel14)
 
-#### [BitcoinVN Online Shop](http://shop.bitcoinvn.io)
+#### [BitcoinVN Online Shop](https://shop.bitcoinvn.io)
 
 Sector: Bitcoin-related hardware and merchandise
 
-[BitcoinVN Shop](http://shop.bitcoinvn.io) is the Online Shop of Vietnam’s oldest Bitcoin Exchange [BitcoinVN](http://www.bitcoinvn.io).
+[BitcoinVN Shop](https://shop.bitcoinvn.io) is the Online Shop of Vietnam’s oldest Bitcoin Exchange [BitcoinVN](https://www.bitcoinvn.io).
 
 As such it serves as an official reseller of hardware wallets from trusted manufacturers such as [Trezor](https://news.bitcoinvn.io/bitcoinvn-shop-official-reseller-trezor-vietnam/?lang=en) or [Ledger](https://news.bitcoinvn.io/official-reseller-ledger-hardware-vietnam/?lang=en).
 
-BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the country since early 2014; founded by industry veterans such as [Dominik Weil](http://www.twitter.com/DominikWeil), [Alex Winter](http://www.twitter.com/realalexwinter) and [Bao Phuong Nguyen](http://www.twitter.com/PhuongBitcoinVN) and provides a variety of exchange-related services such as the online trading platform [VBTC](http://www.vbtc.exchange), the brokerage [BitcoinVN](http://www.bitcoinvn.io), an [OTC desk for institutional & affluent private clients](http://www.bitcoinvn.io/en/otc) and a fleet of [Bitcoin ATMs](http://btm.bitcoinvn.io).
+BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the country since early 2014; founded by industry veterans such as [Dominik Weil](https://www.twitter.com/DominikWeil), [Alex Winter](https://www.twitter.com/realalexwinter) and [Bao Phuong Nguyen](https://www.twitter.com/PhuongBitcoinVN) and provides a variety of exchange-related services such as the online trading platform [VBTC](https://www.vbtc.exchange), the brokerage [BitcoinVN](https://www.bitcoinvn.io), an [OTC desk for institutional & affluent private clients](https://www.bitcoinvn.io/en/otc) and a fleet of [Bitcoin ATMs](https://btm.bitcoinvn.io).
 
 - Interview: (following soon!)
-- Website: [shop.bitcoinvn.io](http://shop.bitcoinvn.io)
+- Website: [shop.bitcoinvn.io](https://shop.bitcoinvn.io)
 - Facebook: [BitcoinVN Shop](https://www.facebook.com/Vilanh-BTC-Shop-Bitcoinvn-104495564767407/)
-- Twitter: [BitcoinVN Shop](http://www.twitter.com/BitcoinVNShop)
+- Twitter: [BitcoinVN Shop](https://www.twitter.com/BitcoinVNShop)
 
 #### [Anytime Fitness](https://www.anytimefitness.vn/)
 
@@ -260,7 +260,7 @@ With more locations in the pipeline - so watch out.
 
 ---
 
-_This page is purely for informational purpose. As for the matter of the current legal status of Cryptocurrency payments in Vietnam we recommend to reach out to the following Vietnam-based Bitcoin companies: [BitcoinVN](http://www.bitcoinvn.io) (Bitcoin Exchange Service) / [Neutronpay](https://neutronpay.com/) (Bitcoin payment processor)_
+_This page is purely for informational purpose. As for the matter of the current legal status of Cryptocurrency payments in Vietnam we recommend to reach out to the following Vietnam-based Bitcoin companies: [BitcoinVN](https://www.bitcoinvn.io) (Bitcoin Exchange Service) / [Neutronpay](https://neutronpay.com/) (Bitcoin payment processor)_
 
 ---
 
