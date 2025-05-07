@@ -36,7 +36,7 @@ We expect a few familiar faces from the Bitcoin Saigon community to make their w
 
 To stay up to date with the latest announcements and agenda updates for Bitcoin Asia 2025, be sure to follow their [official social media channels](https://x.com/BitcoinConfAsia) and check out the [Bitcoin Asia 2025 website](https://b.tc/conference/asia).
 
-If you're planning to attend on your own, feel free to use the discount code “BitcoinSaigon” when purchasing your ticket. The sats earned from affiliate commissions will go directly to the Bitcoin Saigon community treasury - supporting local event initiatives and the infrastructure that keeps our grassroots efforts going.
+If you're planning to attend on your own, feel free to use the [discount code “BitcoinSaigon” when purchasing your ticket](https://tickets.b.tc/event/bitcoin-asia-2025?promoCodeTask=apply&promoCodeInput=BITCOINSAIGON). The sats earned from affiliate commissions will go directly to the Bitcoin Saigon community treasury - supporting local event initiatives and the infrastructure that keeps our grassroots efforts going.
 
 ---
 
