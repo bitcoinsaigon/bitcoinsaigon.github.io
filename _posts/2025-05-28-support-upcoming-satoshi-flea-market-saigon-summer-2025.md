@@ -8,7 +8,7 @@ tags:
 
 _TL, DR: Fundraising to cover the costs of the upcoming Summer Satoshi Flea Market Saigon is live - either directly via our [donation page](https://bitcoinsaigon.org/donate-satoshis) or via the official Geyser campaign_
 
-We're happy to announce the bi-annual Satoshi Flea Market Summer date - **mark your calendars for July 20th.**
+We're happy to announce the bi-annual Satoshi Flea Market Summer date - *mark your calendars for July 20th.*
 
 Following the sad closure of our long-time home Indika Saigon - a place that hosted countless community moments since 2018 - this edition will take place at a **new location in District 2**.
 
