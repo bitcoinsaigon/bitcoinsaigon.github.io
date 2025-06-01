@@ -3,6 +3,7 @@ layout: post
 title: "Support the upcoming Satoshi Flea Market Saigon - Summer Edition 2025"
 categories: [Community]
 image: assets/images/support-upcoming-satoshi-flea-market-saigon-summer-2025-1.webp
+author: lien
 tags:
 ---
 

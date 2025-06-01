@@ -37,6 +37,9 @@ authors:
     email: fakemail@gmail.com
     twitter: https://twitter.com/wowthemesnet
 
+  lien:
+    name: lien
+
 # Defaults
 defaults:
   # all posts
