@@ -37,6 +37,10 @@ authors:
     email: fakemail@gmail.com
     twitter: https://twitter.com/wowthemesnet
 
+  lien:
+    name: Lien
+    site: https://www.bitcoinsaigon.org
+
 # Defaults
 defaults:
   # all posts
