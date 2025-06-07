@@ -6,7 +6,8 @@ image: assets/images/support-upcoming-satoshi-flea-market-saigon-summer-2025-1.w
 tags:
 ---
 
-_TL, DR: Fundraising to cover the costs of the upcoming Summer Satoshi Flea Market Saigon is live - either directly via our [donation page](https://bitcoinsaigon.org/donate-satoshis) or via the official Geyser campaign_
+_TL, DR: Fundraising to cover the costs of the upcoming Summer Satoshi Flea Market Saigon is live - either directly via our [donation page](https://bitcoinsaigon.org/donate-satoshis) or via the [official Geyser campaign](https://geyser.fund/project/satoshifleamarketsaigonsummer2025/prelaunch?hero=bitcoinsaigon1).
+
 
 We're happy to announce the bi-annual Satoshi Flea Market Summer date - *mark your calendars for July 20th.*
 
