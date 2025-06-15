@@ -36,6 +36,6 @@ The main conference on **September 5th** is part of **Bitcoin Week Bali** - runn
 
 **For more up to date information, follow:**
 
-Follow [Bitcoin House Bali](https://x.com/btchousebali) ([https://iris.to/npub1fpqlfgejlvnv5swanf0398y6k9vvheqs9g4zmjlthrga7ytn53dq3pqwcz](https://x.com/search?q=#npub1fpqlfgejlvnv5swanf0398y6k9vvheqs9g4zmjlthrga7ytn53dq3pqwcz&src=hashtag_click))
+Follow [Bitcoin House Bali](https://x.com/btchousebali) ([https://iris.to/npub1fpqlfgejlvnv5swanf0398y6k9vvheqs9g4zmjlthrga7ytn53dq3pqwcz](https://iris.to/npub1fpqlfgejlvnv5swanf0398y6k9vvheqs9g4zmjlthrga7ytn53dq3pqwcz))
 
 [Bitcoin Indonesia Conference](https://x.com/bitcoinindo21) ([https://primal.net/p/npub1y4qd2zhtn05gnsaaq5xfejzfk4a32638tx6gpp9g8k6e42g9d66qaxhcr3](https://primal.net/p/npub1y4qd2zhtn05gnsaaq5xfejzfk4a32638tx6gpp9g8k6e42g9d66qaxhcr3))
