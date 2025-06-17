@@ -4,14 +4,17 @@ title: "Bitcoin Indonesia Conference (Bali) returns — 5th September 2025"
 categories: [Community]
 image: assets/images/Indonesia-Conference-592025 (2).jpg
 tags:
+redirect_from:
+  - /Indonesia-Conference-5.9.2025/
 ---
+
 After a one-year break, the Bitcoin Indonesia Conference is set to return to the _Island of the Gods_ - organized by the dedicated crew behind Bitcoin House Bali.
 
 The 2023 edition marked a key moment for the Southeast Asian Bitcoin community - serving as a crystallizing point to reconnect and strengthen regional ties after years of forced lockdowns and disrupted travel. It brought together builders, thinkers, and local organizers from across the region to rebuild the _human layer_ of the Bitcoin network in person.
 
 ![](<../assets/images/Indonesia-Conference-592025 (1).jpg>)
 
-True to Bali’s character, the local community delivered. The conference blended cultural side events, informal gatherings, and a relaxed atmosphere - far from your typical suit-and-lanyard Bitcoin business affair. Instead, it became a space where ideas flowed freely, and new connections were forged under palm trees rather than fluorescent lights.
+True to Bali’s character, the local community delivered. The conference blended cultural siAde events, informal gatherings, and a relaxed atmosphere - far from your typical suit-and-lanyard Bitcoin business affair. Instead, it became a space where ideas flowed freely, and new connections were forged under palm trees rather than fluorescent lights.
 
 ![](<../assets/images/Indonesia-Conference-592025 (3).jpg>)
 
@@ -27,10 +30,10 @@ Space is limited, and Indonesia’s Bitcoin scene is growing fast. If you're pla
 
 The main conference on **September 5th** is part of **Bitcoin Week Bali** - running from **September 1–8, 2025** - featuring a wide range of community-driven side events, including but not limited to:
 
-*   🏄 Surf, Run & Yoga sessions
-*   🌱 Sovereign Gardening
-*   💜 Nostr & Nomad Day
-*   🏝️ Local meetups & island exploration
+- 🏄 Surf, Run & Yoga sessions
+- 🌱 Sovereign Gardening
+- 💜 Nostr & Nomad Day
+- 🏝️ Local meetups & island exploration
 
 ⚠️ Note: Your conference ticket covers **September 5th only**. Side events during Bitcoin Week are independently organized and may require separate registration.
 
