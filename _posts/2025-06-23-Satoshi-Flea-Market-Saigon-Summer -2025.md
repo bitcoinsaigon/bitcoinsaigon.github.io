@@ -36,9 +36,7 @@ If you are looking for tips on the _“hottest new memecoin of the week”_ or a
 **Why Attend?**
 
 *   Bitcoin Standard Goods & Produce: High-quality food products and artisanal goods produced with a “Bitcoin standard” ethos, alongside a curated selection of Bitcoin merch and handcrafted creations from our community.
-    
 *   Connect with the Community: Mingle with Bitcoiners, have a chat over locally produced & brewed coffee, and meet fellow enthusiasts building and shaping the future of Bitcoin here in Saigon, Vietnam and the wider region.
-    
 *   Kids & Family Friendly: _“The future belongs to those who show up for it!”_This principle is at the heart of our community, where strong, growing families are valued and celebrated. We warmly welcome the young ones to connect, play, and enjoy the festivities together.
     
 
