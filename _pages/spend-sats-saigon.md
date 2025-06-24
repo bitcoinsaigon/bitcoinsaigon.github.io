@@ -6,11 +6,7 @@ redirect_from:
   - /sats-bitcoin-merchants-directory-saigon
 ---
 
-<iframe 
-  src="https://btcmap.org/map#14/10.78213/106.69896"
-  width="100%" 
-  height="450" 
-  allowfullscreen>
+<iframe src="https://btcmap.org/map#14/10.78213/106.69896" width="100%" height="450" allowfullscreen style="border: none;">
 </iframe>
 
 ---
