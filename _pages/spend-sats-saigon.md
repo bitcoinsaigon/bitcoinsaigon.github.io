@@ -64,6 +64,6 @@ The service and contributions of David Watson will not be forgotten - they remai
 
 ---
 
-This page is purely for informational purpose. As for the matter of the current legal status of Cryptocurrency payments in Vietnam we recommend to reach out to the following Vietnam-based Bitcoin companies: [BitcoinVN](https://www.bitcoinvn.io/) (Bitcoin Exchange Service) / [Neutronpay](https://neutronpay.com/) (Bitcoin payment processor)
+_This page is purely for informational purpose. As for the matter of the current legal status of Cryptocurrency payments in Vietnam we recommend to reach out to the following Vietnam-based Bitcoin companies: [BitcoinVN](https://www.bitcoinvn.io/) (Bitcoin Exchange Service) / [Neutronpay](https://neutronpay.com/) (Bitcoin payment processor)_
 
-If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page](https://bitcoinsaigon.org/donate-satoshis)!
+_If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page](https://bitcoinsaigon.org/donate-satoshis)!_
