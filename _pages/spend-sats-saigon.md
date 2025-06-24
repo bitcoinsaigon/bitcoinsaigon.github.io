@@ -6,6 +6,13 @@ redirect_from:
   - /sats-bitcoin-merchants-directory-saigon
 ---
 
+<iframe 
+  src="https://btcmap.org/map#14/10.78213/106.69896"
+  width="600" 
+  height="450" 
+  allowfullscreen>
+</iframe>
+
 The Bitcoin Community in Saigon has these days thanks to the dedicated work of some people within the community been able to expand the reach of Bitcoin Merchants in Saigon.
 
 Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [David Watson](https://twitter.com/watson_ita) of [Future.Travel](https://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
