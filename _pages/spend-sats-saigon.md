@@ -8,7 +8,7 @@ redirect_from:
 
 <iframe 
   src="https://btcmap.org/map#14/10.78213/106.69896"
-  width="600" 
+  width="100%" 
   height="450" 
   allowfullscreen>
 </iframe>
