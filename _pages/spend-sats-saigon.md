@@ -13,262 +13,55 @@ redirect_from:
   allowfullscreen>
 </iframe>
 
-The Bitcoin Community in Saigon has these days thanks to the dedicated work of some people within the community been able to expand the reach of Bitcoin Merchants in Saigon.
+---
 
-Not only can you wine & dine at your pleasure at a variety of venues - our long-standing community supporter [David Watson](https://twitter.com/watson_ita) of [Future.Travel](https://www.future.travel) (the first merchant in Vietnam to implement Bitcoin payments in 2015) will also get your flights, hotel and visa arranged - all for a handful of Sats.
+After maintaining for several years a static page of Bitcoin merchants in town, we’ve come to the conclusion that the high turnover of businesses accepting Bitcoin - many of whom later dropped it or simply went out of business - made it no longer feasible to maintain such a page reliably.
 
-## Food & Beverage Venues
+More often than not, the list ended up misleading Bitcoiners visiting Saigon, as the place they had hoped to support either no longer existed or had quietly removed Bitcoin from its payment options.
 
-<!--
-#### [Italiani’s](https://www.italianis.vn)
+Instead, we’ve decided to re-focus our efforts on supporting the excellent BTCMap project, which aims to maintain a dynamically updated map of Bitcoin merchants around the world, including Vietnam. The project is open-source, community-driven and fully reliant on donations - so if you find their service useful (or simply want to support their mission), consider sending a few sats their way.
 
-- Address (District 1): 17 Han Thuyen, Ben Nghe, D1, HCMC
-- Google Maps: [goo.gl/maps/Mc5gTiajZB1BhKS6A](https://goo.gl/maps/Mc5gTiajZB1BhKS6A)
-- Phone: +84901453194
-- Style: Italian restaurant ([Pizza & Pasta](https://italianis.vn/#menu))
+> **[Support Bitmap.org](https://btcmap.org/support-us)**
 
-Led by the [young Vietnamese entrepreneurs Kevin and Ariel](https://bitcoinvn.io/news/interview-with-ariel-nguyen-of-italianis) Italiani’s has been a meeting point for the local Bitcoin community since 2016.
-As such, their original location also wrote a little Vietnamese Bitcoin history, [hosting the very first Bitcoin ATM](https://btm.bitcoinvn.io)  [in Vietnam back in 2016](https://ice3x.co.za/first-bitcoin-atm-in-vietnam/).
+That said, we’re not forgetting our local heroes. Below, you’ll still find a shortlist of long-standing merchants in Saigon who have accepted Bitcoin reliably for over two years and have been personally vetted by active members of the Bitcoin Saigon community. These are businesses we know and trust - the kind you can confidently recommend to fellow Bitcoiners.
 
-Their venue in Han Thuyen is located romantically right next to 30/04 park between the Independence palace and Notre Dame church.
+If you operate a Bitcoin-friendly business in Saigon and believe you meet the criteria to be added to this vetted list, get in touch with us!
 
-So if outside the usual Bitcoin meetups you are looking for the right venue for a date night - food & ambience certainly will not disappoint!
+---
 
-- Location review: [bitcoinsaigon.org/location-review-italianis](https://bitcoinsaigon.org/location-review-italianis)
-- Facebook: [fb.com/ItalianisPizza2](https://www.facebook.com/ItalianisPizza2)
-- Instagram: [instagram.com/italianis.saigon](https://www.instagram.com/italianis.saigon) -->
+## Qualified merchant list
 
-<!--
-#### Tippy’s Mexican Food
+### Offline/Online Merchants
 
-- Address (District 4): 99 Số 45, Phường 5, Quận 4, Hồ Chí Minh, Vietnam
-- Google Maps: [District 4](https://goo.gl/maps/Es78ZLxJ4PpUKkME7)
-- Phone: +84378052168 (District 4)
-- Style: Mexican restaurant (Burritos & Tacos)
+#### BitcoinVN Online Shop
 
-Led by F&B veteran Christopher Arizaga from Arizona, Tippy’s has become a regular spot for the local Bitcoin meetups as one of the leading localities to stock up & splurge on Mexican comfort food.
+_Sector: Bitcoin-related hardware and merchandise_
 
-Burritos, Tacos, Guacamole, Quesadilla… - everything the Mexican cuisine has to offer and more to make you happy & full!
+BitcoinVN Shop is the Online Shop of Vietnam’s oldest Bitcoin Exchange BitcoinVN.
 
-- Location review: [bitcoinsaigon.org/location-revue-tippy-s](https://bitcoinsaigon.org/location-revue-tippy-s/)
-- Facebook: [fb.com/TippysMexicanFood](https://www.facebook.com/TippysMexicanFood/)
--->
+As such it serves as an official reseller of hardware wallets from trusted manufacturers such as Trezor or Ledger.
 
-<!--
-{% comment %}
-#### La Hem
-- Address: Hẻm, 15A/54 Lê Thánh Tôn, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam
-- Google Maps: [goo.gl/maps/yiGoxWvw8TnnM4FS6](https://goo.gl/maps/yiGoxWvw8TnnM4FS6)
-- Phone: +84908889521
-- Style: Bar
-
-Is a little bespoke/speak easy lounge/bar in the middle of Japanese town. Serves cocktails, spirits and a selection of Japanese liquor. There is also a food menu for hand food.
-
-Perfect for a date or just a night to relax and chill with friends. With live music on special nights.
-
-- Location review: (Following soon!)
-- Facebook: [fb.com/lahemcafebar](https://facebook.com/lahemcafebar/)
-{% endcomment %}
-
-#### [Big Pig BBQ](https://utit.vn/)
-
-- Address: 46 Trường Sơn, Phường 2, Tân Bình, Thành phố Hồ Chí Minh 70000, Vietnam - [Google Maps](https://goo.gl/maps/G6fKNwJgwcdhkMm39) - Phone: 02835474034 – 02835474035.
-- Address 2nd location: 12 Cao Thắng, Phường 5, Quận 3, Thành phố Hồ Chí Minh 70000, Vietnam - [Google Maps](https://goo.gl/maps/Mw85EP2wwptMCGL29) - Phone: 02839291688
-- Style: American Style BBQ
-
-Bitcoin & Meat - latest since the trend towards Bitcoin Carnivory which was set in Motion by [Michael Goldstein of the Nakamoto Institute several years ago](https://twitter.com/bitstein/status/874049065142677504), it has become a match made in heaven for a strong subsection of the Bitcoin Community.
-
-Hard money in combination with hard muscles - built by consumption of large swaths of meat.
-
-All of that you can have at [Rob Rankin’s Big Pig BBQ](https://bitcoinvn.io/news/interview-rob-rankin-big-pig-bbq-utit-vn/?lang=en) with currently two locations in town; one of them right next to Tân Sơn Nhất Airport within five minutes walking distance to the terminal.
-
-Besides being able to exchange Sats for Steak - they’re also host of some of the [Bitcoin ATMs in town](https://btm.bitcoinvn.io).
-
-- Location review: [bitcoinsaigon.org/location-revue-big-pig-bbq](https://bitcoinsaigon.org/location-revue-big-pig-bbq/)
-- Facebook: [fb.com/bigpig.vn](https://www.facebook.com/bigpig.vn)
-- Instagram: [instagram.com/bigpig.vn](www.instagram.com/bigpig.vn)
-
-#### Hem Chill - Seoul Street
-
-- Address: 8/13 Duong So 49B, Thao Dien, Quan 2, Thành phố Hồ Chí Minh 70000, Vietnam
-- Google Maps: [g.page/hemchill-d2](https://g.page/hemchill-d2?share)
-- Phone: 02836202919
-- Style: Bar & Fingerfood (Asian Style)
-
-Located in Saigon’s “Western expat” district of Thao Dien, Hem Chill - Seoul Street is one of the newest additions to Rob Rankin’s network of theme-oriented F&B outlets in town.
-
-Hem Chill Seoul Street describes itself as inspired by the vibrant walking streets of Asia with a wide variety of signature cocktails, craft beer, wine & soju as well as a variety of Asian & Western food delights.
-
-- Location review: [soon to follow!]
-- Facebook: [fb.com/hemchill.d2]( https://www.facebook.com/hemchill.d2)
-- Instagram: [instagram.com/hemchill.d2](www.instagram.com/hemchill.d2)
-
-<!--
-#### Baba’s Kitchen
-
-- Address:
-1. 274 Bui Vien, Pham Ngu Lao Ward, District 1, Ho Chi Minh City - [Google Maps](https://g.page/babaskitchenbuivien?share) - Phone: +842838386661
-2.  35 Le Van Mien, Thao Dien Ward, District 2, Ho Chi Minh City, Vietnam - [Google Maps](https://g.page/babaskitchenthaodien?share) - Phone: +842837446897
-- Style: Indian Restaurant
-
-“Baba’s brings India to Vietnam” is the motto of Baba’s Kitchen, which has been operating since fall of 2011 in the heart of our beloved Saigon.
-
-By now being close to a decade in operation (and recently expanding to new locations in Thao Dien as well as the tourist town of Hoi An in Quang Nam province), you can tell that they found approval & steady support within Saigon’s large Foodie scene.
-
-Baba’s is offering a wide variety of Indian menu offerings, including mild, vegetarian and halal options at a very affordable price point.
-
-Baba’s Kitchen has been a regular venue of the weekly Bitcoin Saigon meetups since several years.
-
-- Location review: [soon to follow!]
-- Facebook: [Baba’s Kitchen](https://facebook.com/babaskitchenvn)
-- Instagram: [Baba’s Kitchen](https://instagram.com/babaskitchenvn)
-- Twitter: [Baba’s Kitchen](https://twitter.com/babaskitchenvn)
-
-#### Capone’s Chicago Deep Dish Pizza & Street Food
-
-- Address: 13 Đường số 49B, Thảo Điền, Quận 2, Ho Chi Minh City
-- Google Maps: [g.page/CaponesPizzaSaigonHCMC](https://g.page/CaponesPizzaSaigonHCMC?share)
-- Phone: +84338787459
-- Style: Authentic Chicago Deep Dish pizza & street food
-
-Capone’s Chicago Deep Dish Pizza has been filling a gap in Saigon’s ever expanding scene of food offerings:
-
-If you got cravings for a typical Chicago-area Deep Dish Pizza - Capone’s got you covered. The Pizza pies are huge - and if that is still not enough for you, Capone’s got the “Double Decker” version on the menu to really fill you up!
-
-One of the highlights of the location is the stunning riverside view with a look right onto South-East Asia’s tallest building, the Landmark 81 at Vinhomes Central Park.
-
-- Location review: [soon to follow!]
-- Facebook: [fb.com/CaponesDeepDishandStreetFood](https://facebook.com/CaponesDeepDishandStreetFood)
-- Instagram: [instagram.com/capones_saigon/](https://www.instagram.com/capones_saigon/)
-
- -->
-
-<!-- #### Xie Xie BBQ
-- Address: 878 Trường Sa, Phường 13, District 3, Ho Chi Minh City
-- Google Maps: [g.co/kgs/Rq8a8f](https://g.co/kgs/Rq8a8f)
-- Phone: +84909815515
-- Style: Vietnamese-style BBQ Restaurant
-
-Grilled meat & Bitcoiners - a match made in heaven.
-
-At Xie Xie BBQ you can enjoy typical Vietnamese-style grilled meats - with a view from the rooftop floor onto the Truong Sa canal.
-
-Plenty of choices for friends of liquified, fermented grains as well!
-
-- Location review: [soon to follow!]
-- Facebook: [Xie Xie BBQ](https://www.facebook.com/xiexiebbq/)
-  -->
-
-<!--
-#### [Tacos Fuego](https://www.tacosfuego.vn/)
-- Address:
-1. 48 Phạm Viết Chánh, P. 19, Q. Bình Thạnh, Ho Chi Minh City - [Google Maps](https://goo.gl/maps/hZZBo6P8UdUqtmVN9) - Phone: +84 777143900
-2. 26 Xuân Thủy, P. Thảo Điền, Quận 2, Ho Chi Minh City - [Google Maps](https://goo.gl/maps/V1iBGW8eNVHjJHGCA) - Phone: +84777143900
-- Style: Tex-Mex
-
-With the self-given goal of *“offering the most authentic Mexicali experience in Saigon”* Tacos Fuego has established itself as one of the front-runners in the Tex-Mex scene in Saigon.
-
-Established since 2019 in Bình Thạnh, the Tacos Fuego team built on their success and the growing demand to expand their offering also towards the Thao Dien crowd across the river.
-
-*“We’re just doing our part to fill that tiny void that you might have if you’re familiar with Socal Mexican spots. (...). Whether it be street tacos, nachos, or Mexican fries, we put all our effort into satisfying that craving for Mexican fare."*
-
-Tacos Fuego is one of the newer spots on the meetup roster -  with a melting hot Habanero spicy hot sauce & melting fast Lightning payments for your quick Taco fix!
-
-- Location review: [soon to follow!]
-- Facebook: [Tacos Fuego](https://www.facebook.com/tacosfuegovn/)
-- Instagram: [Tacos Fuego](https://www.instagram.com/tacosfuego_vn/)
--->
-
-#### [Pingu's Burger](https://pingusburger.com/)
-
-- Address:
-
-  - 26 Đ. Số 2, Thảo Điền, Thủ Đức, Thành phố Hồ Chí Minh 700000, Vietnam - [Google Maps](https://maps.app.goo.gl/hNJZhEiAt5Sg7QCx9) - Phone: Tel: + 84 708 124 898
-
-- Style: Burger joint
-
-Healthy fast food?
-
-Yes, that’s possible with Pingu’s Burger.
-
-The newly established Burger Joint in Thao Dien is priding itself on its 100% beef patties cooked in real butter.
-
-Pingu’s Burger is a small family business with people behind who care and are looking to provide their customers with food that is healthy, hearty and prepared with ingredients sourced and selected in true P2P fashion from Vietnamese farmers.
-
-None of the artificial crap modern corporations like to stuff in their offerings to chase that extra penny on the bottom line.
-Getting your Burger fix at Pingu’s, you support your local community and people who actually do care about having a positive impact on their direct environment.
-
-And yes - you can pay for your beef patty burgers with Bitcoin / Lightning.
-
-Good food for good money.
-
-- Location review: [soon to follow!]
-- Website: [pingusburger.com](https://pingusburger.com/)
-- Facebook: [Pingu's Burger](https://www.facebook.com/pingusburger)
-
-#### Offline/Online Merchants
-
-#### [Future.Travel](https://future.travel/)
-
-Sector: Online Travel Agency (Flights, Cruises, Hotels, Visas and more!)
-Full service Travel Agent with online ticketing
-
-- Address: 15/6 Le Van Huan, Tan Binh District, Ho Chi Minh City (Airport location)
-- Google Maps: [goo.gl/maps/7aPVHXaRg1W9Ncs67](https://goo.gl/maps/7aPVHXaRg1W9Ncs67)
-- Phone: +842873019991 or WhatsAp/Viber/Zalo +84902669335
-
-If there is one person in Saigon and possibly all over Vietnam who deserves the title as _the_ doyen of Bitcoin merchant adoption in Vietnam, then it is [Future.Travel](https://future.travel/)’s General Director David Watson.
-
-An entrepreneur from head to toe and with business operating experience across 4 different continents in his long career, [back in 2015 they were the first merchant to accept Bitcoin for service offerings](https://www.coinnewsasia.com/vietnam-adds-its-first-bitcoin-merchant/) at the travel agency.
-
-He and his firm have been a steady supporter over the years of the local community - be it the efforts around [Bitfilm Festival 2015](https://www.coinnewsasia.com/bitcoin-saigon-to-host-the-first-bitfilm-festival/); [BlockFin Asia](https://www.blockfin.asia/) or sponsoring the [Bitcoin Lightning Node of the local community](https://1ml.com/node/023e4a4c0e0e114d88ab50ec14582fefd60ad8baae63eb0934db146d995c5567d7).
-
-David himself is also a regular at the local Bitcoin meetups and probably the person who has set up the most people with wallets and their first Sats all across the country.
-
-- Interview: [Interview David Watson](https://bitcoinsaigon.org/david-watson-future-travel/)
-- Website: [future.travel](https://future.travel)
-- Twitter: [twitter.com/FutureTravel14](https://www.twitter.com/FutureTravel14)
-- Facebook: [fb.com/FutureTravel-1504447956442155](https://www.twitter.com/FutureTravel14)
-
-#### [BitcoinVN Online Shop](https://bitcoinvn.io/shop)
-
-Sector: Bitcoin-related hardware and merchandise
-
-[BitcoinVN Shop](https://bitcoinvn.io/shop) is the Online Shop of Vietnam’s oldest Bitcoin Exchange [BitcoinVN](https://www.bitcoinvn.io).
-
-As such it serves as an official reseller of hardware wallets from trusted manufacturers such as [Trezor](https://bitcoinvn.io/news/bitcoinvn-shop-official-reseller-trezor-vietnam/?lang=en) or [Ledger](https://bitcoinvn.io/news/official-reseller-ledger-hardware-vietnam/?lang=en).
-
-BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the country since early 2014; founded by industry veterans such as [Dominik Weil](https://www.twitter.com/DominikWeil), [Alex Winter](https://www.twitter.com/realalexwinter) and [Bao Phuong Nguyen](https://www.twitter.com/PhuongBitcoinVN) and provides a variety of exchange-related services such as the online trading platform [VBTC](https://www.vbtc.exchange), the brokerage [BitcoinVN](https://www.bitcoinvn.io), an [OTC desk for institutional & affluent private clients](https://www.bitcoinvn.io/en/otc) and a fleet of [Bitcoin ATMs](https://btm.bitcoinvn.io).
+BitcoinVN itself is Vietnam’s oldest Bitcoin Exchange service operating in the country since early 2014; founded by industry veterans such as Dominik Weil, Alex Winter and Bao Phuong Nguyen and provides a variety of exchange-related services such as the online trading platform VBTC, the brokerage BitcoinVN, an OTC desk for institutional & affluent private clients and a fleet of Bitcoin ATMs.
 
 - Interview: (following soon!)
-- Website: [shop.bitcoinvn.io](https://bitcoinvn.io/shop)
-- Facebook: [BitcoinVN Shop](https://www.facebook.com/Vilanh-BTC-Shop-Bitcoinvn-104495564767407/)
-- Twitter: [BitcoinVN Shop](https://www.twitter.com/BitcoinVNShop)
-
-#### [Anytime Fitness](https://www.anytimefitness.vn/)
-
-Address:
-
-- 31/1 Lo M7, Midtown, Phu My Hung, Duong 15, Phuong Tan Phu, Quan 7
-- 18 Trần Ngọc Diện, Thao Dien, District 2
-
-Style: _You don’t go here to load up on calories - but to burn them!_
-
-Health is wealth.
-
-Your daily dose of exercise is to be seen in the same way that saving capital is - you do the work today, to have a better future tomorrow.
-
-Since Bitcoiners like to work, you can sweat out toxins & reset your hormone balance on a 24h basis at all current two (and soon more) locations across Ho Chi Minh City.
-
-With more locations in the pipeline - so watch out.
-
-- Location review: [soon to follow!]
-- Facebook: [Anytime Fitness](https://www.facebook.com/afthaodien)
+- Website: [bitcoinvn.io/shop](https://bitcoinvn.io/shop)
+- Facebook: [BitcoinVN Shop](https://www.facebook.com/BitcoinVNShop)
+- Twitter: [BitcoinVN Shop](https://x.com/BitcoinVNShop)
 
 ---
 
-_This page is purely for informational purpose. As for the matter of the current legal status of Cryptocurrency payments in Vietnam we recommend to reach out to the following Vietnam-based Bitcoin companies: [BitcoinVN](https://www.bitcoinvn.io) (Bitcoin Exchange Service) / [Neutronpay](https://neutronpay.com/) (Bitcoin payment processor)_
+A Special Acknowledgment
+
+A very special thanks and deep gratitude go to David Watson of Future.Travel, who has long served as the grand doyen and true pioneer of Bitcoin merchant adoption in Vietnam.
+
+For many years, David has led by example - not only as the first merchant in Vietnam to accept Bitcoin (since 2015), but also as a consistent advocate for broader adoption across the country. His tireless efforts and continued support for the community have left a lasting mark.
+
+The service and contributions of David Watson will not be forgotten - they remain a cornerstone of Bitcoin Saigon’s early merchant network and community ethos.
+
+👉 Learn more about [David Watson’s role as a pioneer](https://bitcoinsaigon.org/farewell-david-watson/) Bitcoin merchant in Vietnam here.
 
 ---
 
-_If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page](https://bitcoinsaigon.org/donate-satoshis)!_
+This page is purely for informational purpose. As for the matter of the current legal status of Cryptocurrency payments in Vietnam we recommend to reach out to the following Vietnam-based Bitcoin companies: [BitcoinVN](https://www.bitcoinvn.io/) (Bitcoin Exchange Service) / [Neutronpay](https://neutronpay.com/) (Bitcoin payment processor)
+
+If you would like to support the work of the Bitcoin Saigon Community - you can donate some of your Sats to us via our [Donation page](https://bitcoinsaigon.org/donate-satoshis)!
