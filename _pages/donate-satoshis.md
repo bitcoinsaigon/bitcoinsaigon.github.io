@@ -21,24 +21,3 @@ to us here:
 ![bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy](/assets/images/btc-on-chain-donation-qr.png)
 
 Checkout this address on [mempool.space](https://mempool.space/address/bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy).
-
-<!-- Script to adjust iframe size
-<script>
-function resizeIframe() {
-  var iframe = document.getElementById('albyTips');
-  if (iframe) {
-    iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-  }
-}
-
-window.onload = function() {
-  resizeIframe(); // Adjust the iframe height when the page loads
-};
-
-// Adjust the iframe height when the content inside it changes
-/*
-document.getElementById('albyTips').onload = function() {
-  resizeIframe();
-};
-*/
-</script>
