@@ -17,11 +17,7 @@ to us here:
 <h2 style="text-align: center; font-weight: bold">Bitcoin Saigon Community Treasury - on-chain donation address</h2>
 
 <div style="text-align: center;">
-
-`bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy`
-
-![bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy](/assets/images/btc-on-chain-donation-qr.png)
-
-Checkout this address on [mempool.space](https://mempool.space/address/bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy).
-
+<p>bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy</p>
+<p><img src="../assets/images/btc-on-chain-donation-qr.png" alt="bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy" /></p>
+<p>Checkout this address on <a href="https://mempool.space/address/bc1qj0vq37gw53csj7jyaxnygpkl46yn9cfweznpzy">mempool.space</a>.</p>
 </div>
