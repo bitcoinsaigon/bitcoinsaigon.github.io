@@ -3,12 +3,16 @@ title: "Support Bitcoin Saigon with a donation"
 permalink: "/donate-satoshis.html"
 ---
 
-If you would like to support the work of Bitcoin Saigon - a non-profit
+<p>If you would like to support the work of Bitcoin Saigon - a non-profit
 community run by volunteers with a passion for Bitcoin - to help us
 finance further equipment or other event-related costs, you can donate
-to us here:
+to us here:</p>
 
 <h2 style="text-align: center; font-weight: bold">Donate Sats to the Bitcoin Saigon Community Treasury</h2>
+
+<div style="text-align: center;">
+<img width="auto" height="auto" src="../assets/images/bitcoin-saigon-community-treasury-qr.jpg" alt="Bitcoin Saigon Community Treasury" />
+</div>
 
 <div style="overflow: hidden; height: 620px;">
   <iframe id="albyTips" src="https://getalby.com/p/bitcoinsaigon" style="position: relative; top: -63px; border:none; width:100%; height: 620px;" scrolling="no"></iframe>
