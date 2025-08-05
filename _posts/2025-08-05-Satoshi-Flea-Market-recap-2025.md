@@ -31,8 +31,10 @@ Our shoutout goes to:
 
 [UniVini Social App](https://univini.app.link/946QJAyPyUb) - The Easiest Way to Practice Languages, Build Networks and Travel
 
-[BitcoinVN Shop](http://bitcoinvn.io/shop) - Hardware Wallets and other self-custody tools in Vietnam
+[BitcoinVN Shop](https://makingwaves-btc.com/en/) - Hardware Wallets and other self-custody tools in Vietnam
 
+[Making Waves](http://bitcoinvn.io/shop) - Made-to-order Bitcoin handmade goods from Japan
+![alt text](../assets/images/satoshi-flea-market-recap-11.jpg)
 Móc Móc - crochet work that celebrates original craftsmanship, offbeat art
 
 [Savi-Spice](https://savispice.com/) - Nature’s finest ingredients from Vietnam and beyond
@@ -40,7 +42,7 @@ Móc Móc - crochet work that celebrates original craftsmanship, offbeat art
 [Tigist](https://www.facebook.com/profile.php?id=61577790167561) - a story of Ethiopian heritage, family traditions,unity and a deep love for cooking passed down to generations
 
 [Overmorrow Brewing](https://www.overmorrow.beer/) - craft beers to promote and honor classic styles throughout history – while updating them for the present and the future here in Vietnam
-
+![alt text](../assets/images/satoshi-flea-market-recap-4.png)
 [Lucky Animal Shelter](https://www.facebook.com/luckyshelterhcmc) - dedicated rescue space in Saigon caring for cats (and soon expanding to dogs and more!)
 
 [Mom-to-Be](https://momtobehouse.com/) - premium, clean-ingredient care products for health-conscious parents and babies
