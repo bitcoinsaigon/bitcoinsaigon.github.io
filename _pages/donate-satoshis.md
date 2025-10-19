@@ -14,8 +14,8 @@ to us here:</p>
 <img width="auto" height="auto" src="../assets/images/bitcoin-saigon-community-treasury-qr.jpg" alt="Bitcoin Saigon Community Treasury" />
 </div>
 
-<div style="overflow: hidden; height: 620px;">
-  <iframe id="albyTips" src="https://getalby.com/p/bitcoinsaigon" style="position: relative; top: -63px; border:none; width:100%; height: 620px;" scrolling="no"></iframe>
+<div style="overflow: hidden; height: 720px;">
+  <iframe id="albyTips" src="https://getalby.com/p/bitcoinsaigon" style="position: relative; top: -63px; border:none; width:100%; height: 720px;" scrolling="auto"></iframe>
 </div>
 
 <h2 style="text-align: center; font-weight: bold">Bitcoin Saigon Community Treasury - on-chain donation address</h2>
