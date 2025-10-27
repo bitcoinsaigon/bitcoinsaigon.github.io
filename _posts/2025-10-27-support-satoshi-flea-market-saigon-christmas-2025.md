@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Support Upcoming Satoshi Flea Market Saigon - Christmas 2025"
+title: "Support The Upcoming Satoshi Flea Market Saigon - Christmas 2025"
 categories: [Community]
 image: assets/images/support-satoshi-flea-market-saigon-christmas-2025-header.jpg
 tags:
