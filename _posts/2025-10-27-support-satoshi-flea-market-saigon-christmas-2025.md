@@ -10,7 +10,7 @@ _TL, DR: Fundraising to cover the costs of the upcoming Christmas Satoshi Flea M
 
 After the inaugural success of our Satoshi Christmas Flea Market 2024, we’re coming back for another round - **mark your calendars for December 14th**.
 
-As with our most recent summer Flea Market, the Christmas edition will once again take place at **Big Bếp** \*(previously known as “Funk Factory”)** in District 2\*** - the perfect home base for relaxed vibes, good talks and a growing community of Bitcoiners and (hopefully) soon-to-be-Bitcoiners (_“promising precoiners”_ in community parlance).
+As with our most recent summer Flea Market, the Christmas edition will once again take place at **Big Bếp** _(previously known as “Funk Factory”)_ in District 2 - the perfect home base for relaxed vibes, good talks and a growing community of Bitcoiners and (hopefully) soon-to-be-Bitcoiners (_“promising precoiners”_ in community parlance).
 
 ![](/assets/images/support-satoshi-flea-market-saigon-christmas-2025-1.jpg)
 
