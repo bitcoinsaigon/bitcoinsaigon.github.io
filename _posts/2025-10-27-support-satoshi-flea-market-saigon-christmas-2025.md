@@ -26,7 +26,7 @@ Launched in the summer of 2024 and inspired by successful Satoshi Flea Markets a
 
 Since then, it has grown into an emerging local tradition and even attracted “high-profile visitors” from the global Bitcoin community - including Ms. Bitcoin from El Salvador, who attended the previous Christmas edition of the bi-annual event.
 
-[embed: https://odysee.com/@BitcoinSaigon:a/bitcoin-saigon-flea-market-christmas-2024:b]
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40BitcoinSaigon%3Aa%2Fbitcoin-saigon-flea-market-christmas-2024%3Ab?r=CFxM7qdCpE2YtVjLg71YEtkqd4qiHwac" allowfullscreen></iframe>
 
 In order to make an impact:
 
