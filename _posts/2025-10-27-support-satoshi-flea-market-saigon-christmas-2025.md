@@ -6,7 +6,7 @@ image: assets/images/support-satoshi-flea-market-saigon-christmas-2025-header.jp
 tags:
 ---
 
-_TL, DR: Fundraising to cover the costs of the upcoming Christmas Satoshi Flea Market Saigon 2025 is live - either directly via our [donation page](https://bitcoinsaigon.org/donate-satoshis) or via the [official Geyser campaign](https://geyser.fund/project/satoshifleamarketsaigonsummer2025/prelaunch?hero=bitcoinsaigon1)_.
+_TL, DR: Fundraising to cover the costs of the upcoming Christmas Satoshi Flea Market Saigon 2025 is live - either directly via our [donation page](https://bitcoinsaigon.org/donate-satoshis) or via the [official Geyser campaign](https://geyser.fund/project/satoshifleamarketsaigonchristmas2025)_.
 
 After the inaugural success of our Satoshi Christmas Flea Market 2024, we’re coming back for another round - **mark your calendars for December 14th**.
 
