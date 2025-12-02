@@ -9,7 +9,7 @@ The past couple of weeks, our little Christmas helpers have kept busy preparing 
 
 ![](/assets/images/satoshi-flea-market-saigon-dec-2025-1.jpg)
 
-This time we anticipate an expanded vendor line-up, additional entertainment stations for the kids (our common future\!), and of course your very own **Satoshi Santa** in full dress \- always ready for a chat about his impressive family history or a quick photo session with the young ones for the family album.
+This time we anticipate an expanded vendor line-up, additional entertainment stations for the kids (our common future\!), and of course your very own **Satoshi Santa** in full dress \- always ready for a chat about his impressive family history. This year, we’ll have Photos with Santa- where kids can ask what they wish for, and adults can brag about taking a photo with Satoshi Santa.
 
 ![](/assets/images/satoshi-flea-market-saigon-dec-2025-2.jpg)
 
