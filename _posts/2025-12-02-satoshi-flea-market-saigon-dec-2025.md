@@ -92,13 +92,9 @@ Fedimint is the first bitcoin-backed ecash protocol. Fedimint decentralizes trus
 
 ### [GetAlby](https://getalby.com/)
 
-All you need to use bitcoin as everyday money online, in apps and in person.
+All you need to use Bitcoin as everyday money, whether online, in apps, or in person.
 
-Self-custody in the cloud.
-
-One-click, one-minute setup with Alby Cloud.
-
-Access your wallet directly in any browser while keeping full control over your keys.
+Full self-custody, easy setup, and complete control from the start.
 
 ### [Liana](https://lianawallet.com/)
 
