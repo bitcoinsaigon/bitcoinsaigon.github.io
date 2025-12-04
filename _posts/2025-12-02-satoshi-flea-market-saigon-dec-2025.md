@@ -88,7 +88,7 @@ Also the company behind Vietnam’s locally built, sturdy, and state-of-the-art 
 
 ### [Fedi](https://fedimint.org/)
 
-Fedimint is the first bitcoin-backed ecash protocol. Fedimint decentralizes trust across a federation of guardians, ensuring that no single guardian has complete control over user funds. Fedimint allows for various Federation configurations, each catering to a community’s specific needs and trust relationships.
+Fedi is a Bitcoin-powered wallet that protects your privacy. It includes chat for communication and easy payment, as well as Mini Apps for expandability (e.g., topping up phone plans, sending gift cards, finding Bitcoin-accepting businesses, and more).
 
 ### [GetAlby](https://getalby.com/)
 
@@ -110,9 +110,9 @@ Be your own explorer.
 
 ### [Neutron](http://neutron.me)
 
-Real-Time Wallet Infrastructure for a Borderless World.
+Neutron lets your business connect to the Lightning Network through a simple integration. 
 
-Neutron makes it easy to build on Bitcoin rails. Launch secure wallets, process payments, and connect global infrastructure \- all through one API.
+Add Lightning wallets, real-time value transfer, and new network capabilities without running any of the underlying infrastructure.
 
 ## Of course, we want to keep the event as community-based as possible and true to the “bottom-up” spirit of Bitcoin \- peer-to-peer.
 
