@@ -86,7 +86,7 @@ The exchange that does not want your money \- and will guide (and consistently p
 
 Also the company behind Vietnam’s locally built, sturdy, and state-of-the-art in-house Bitcoin ATMs, developed over the past five years.
 
-### [Fedi](https://fedimint.org/)
+### [Fedi](https://www.fedi.xyz/)
 
 Fedi is a Bitcoin-powered wallet that protects your privacy. It includes chat for communication and easy payment, as well as Mini Apps for expandability (e.g., topping up phone plans, sending gift cards, finding Bitcoin-accepting businesses, and more).
 
