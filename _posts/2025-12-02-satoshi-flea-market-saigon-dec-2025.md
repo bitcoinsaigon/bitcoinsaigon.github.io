@@ -21,7 +21,7 @@ It lives and dies with the support of the community and its friends. Our gratitu
 
 - Date: 14th of December 2025  
 - Time: 01:00 PM to 06:00 PM ICT (Vietnam timezone)  
-- Location: Big Bếp (previously known as “Funk Factory”) in District 2  
+- Location: [Big Bếp (previously known as “Funk Factory”) in District 2](https://openstreetmap.org/search?query=duong+an+phu+10&zoom=19&minlon=106.75169588478508&minlat=10.804702860610039&maxlon=106.75533564241829&maxlat=10.80692386947327#map=19/10.805853/106.752411)
 - Entrance: Free :) 
 
 ![](/assets/images/satoshi-flea-market-saigon-dec-2025.jpg)
