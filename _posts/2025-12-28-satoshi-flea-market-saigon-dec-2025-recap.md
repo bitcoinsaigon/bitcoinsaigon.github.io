@@ -9,7 +9,7 @@ The Satoshi Christmas Flea Market Saigon took place on December 14 in its fourth
 
 The place was sprawling with happy kids enjoying the various attractions or joining our resident **Satoshi Santa** for a photo session for the family albums, while the adults were exploring the variety of vendors on site or simply enjoying good conversations with fellow Bitcoiners \- or quietly handing out the orange pill to a few promising pre-coiners in attendance.
 
-![](assets/images/satoshi-flea-market-saigon-dec-2025-recap-1.jpg)
+![](/assets/images/satoshi-flea-market-saigon-dec-2025-recap-1.jpg)
 
 We would like to express our sincere gratitude to everyone who helped make this event a success and contributed in whatever way they could \- be it by putting in the hard work to organize the event, showing up in person, [providing financial support](https://bitcoinsaigon.org/donate-satoshis), or simply spreading the word to friends and family, whether in real life or on [social media](https://bitcoinsaigon.org/our-social-media). All of it is deeply appreciated and played its part in making the event the success it was.
 
@@ -19,7 +19,7 @@ We would also like to thank our event sponsors who helped to fill the funding ga
 
 We thank you for your support and are looking forward to growing together with you\!
 
-![](assets/images/satoshi-flea-market-saigon-dec-2025-recap-2.jpg)
+![](/assets/images/satoshi-flea-market-saigon-dec-2025-recap-2.jpg)
 
 ### [**Branta**](http://branta.pro/)
 
@@ -63,19 +63,19 @@ Add Lightning wallets, real-time value transfer, and new network capabilities wi
 
 **Special appreciation also goes to all our vendors who put in the effort to bring those Christmassy vibes to the Saigon Satoshi Flea Market Christmas Edition \- without you, the market wouldn’t be a market at all.**
 
-![](assets/images/satoshi-flea-market-saigon-dec-2025-recap-3.jpg)
+![](/assets/images/satoshi-flea-market-saigon-dec-2025-recap-3.jpg)
 
-![](assets/images/satoshi-flea-market-saigon-dec-2025-recap-4.jpg)
+![](/assets/images/satoshi-flea-market-saigon-dec-2025-recap-4.jpg)
 
-![](assets/images/satoshi-flea-market-saigon-dec-2025-recap-5.jpg)
+![](/assets/images/satoshi-flea-market-saigon-dec-2025-recap-5.jpg)
 
-![](assets/images/satoshi-flea-market-saigon-dec-2025-recap-6.jpg)
+![](/assets/images/satoshi-flea-market-saigon-dec-2025-recap-6.jpg)
 
 Budget-wise, the final cost of the event exceeded the initially anticipated 1 million sats. After all costs were accounted for and all bills and suppliers paid, we came out at **1,376,632 sats**.
 
 As such, we unfortunately fell slightly short of covering the event budget in the black \- despite the tremendous support received from Bitcoiners near and far in backing the continued grassroots efforts of the Saigon Bitcoin community.
 
-![](assets/images/satoshi-flea-market-saigon-dec-2025-recap-7.jpg)
+![](/assets/images/satoshi-flea-market-saigon-dec-2025-recap-7.jpg)
 
 While not an ultimate show-stopper, it will be essential going forward to run these events \- which require a significant allocation of time and effort from our organizing team \- on a non-negative basis.
 
@@ -83,7 +83,7 @@ We appreciate all the support received so far and are grateful for any additiona
 
 We hope everyone had a Merry Christmas, and we wish everyone a fruitful & fertile 2026 ahead\!
 
-![](assets/images/satoshi-flea-market-saigon-dec-2025-recap-8.jpg)
+![](/assets/images/satoshi-flea-market-saigon-dec-2025-recap-8.jpg)
 
 ---
 
