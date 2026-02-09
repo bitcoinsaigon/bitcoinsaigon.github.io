@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Bitcoin Lì Xì - 2025 Year of the Snake campaign"
+title: "Bitcoin Lì Xì - 2026 Year of the Horse campaign"
 categories: [Community]
-image: assets/images/bitcoin-lixi-2025.jpg
+image: assets/images/bitcoin-lixi-2026.jpg
 tags:
+redirect_from:
+  - /lixi/
 ---
 
 ## **Bitcoin Lì Xì**
@@ -14,9 +16,9 @@ The envelope is gifted, the recipient takes out the cash from the envelope.
 
 The Bitcoin Lì Xì achieves the same experience using LNURL-withdrawal QR codes that can be gifted electronically or physically.
 
-Happy year of the Snake!
+Happy year of the Horse!
 
-!["Bitcoin Lì Xì - Year Of The Snake"](/assets/images/bitcoin-lixi-2025-1.jpg)
+!["Bitcoin Lì Xì - Year Of The Horse"](/assets/images/bitcoin-lixi-2026-1.jpg)
 
 ## **Redeeming Your Bitcoin Lì Xì**
 
@@ -47,10 +49,11 @@ Sats flowing in a permissionless monetary system from one end of the world to th
 
 Last but not least we would like to thank our corporate donors to cover the printing and manufacturing expenses of this campaign.
 
-- [Blink](https://www.blink.sv/)
-- [Bitfinex](https://www.bitfinex.com)
-- [Branta](https://www.branta.pro/)
-- [BitcoinVN](https://www.bitcoinvn.io)
+- [Branta](https://www.branta.pro/)  
+- [BitcoinVN](https://www.bitcoinvn.io/)  
+- [Neutron](https://neutronpay.com/)  
+- [Wallet of Satoshi](https://www.walletofsatoshi.com/)  
+- [Zeus Engineering](https://zeus-engineering.com/)
 
 ---
 
