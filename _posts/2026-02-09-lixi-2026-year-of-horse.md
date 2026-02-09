@@ -7,9 +7,6 @@ tags:
 redirect_from:
   - /lixi/
 ---
-
-## **Bitcoin Lì Xì**
-
 In Vietnam it is customary to gift money for special occasions, especially Lunar New Year (Tết), weddings and births. The cash is typically enclosed in a red envelope (also called red pocket, Bao lì xì).
 
 The envelope is gifted, the recipient takes out the cash from the envelope.
