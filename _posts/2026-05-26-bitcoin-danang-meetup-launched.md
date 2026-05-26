@@ -18,7 +18,7 @@ No Web3 / blockchain / crypto gobbledygook.
 Meetups are currently planned on a monthly basis at changing locations. We will do our best to amplify announcements coming from the Da Nang community.
 
 ![](/assets/images/bitcoin-danang-meetup-launched-2.webp)
-*\[Bitcoin Pizza Day 2026 in Da Nang\]*
+<small><em>Bitcoin Pizza Day 2026 in Da Nang</em></small>
 
 As we had to learn ourselves in the earlier years:
 
