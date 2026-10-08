@@ -22,7 +22,7 @@ More often than not, the list ended up misleading Bitcoiners visiting Saigon, as
 Instead, we’ve decided to re-focus our efforts on supporting the excellent BTCMap project, which aims to maintain a dynamically updated map of Bitcoin merchants around the world, including Vietnam. The project is open-source, community-driven and fully reliant on donations - so if you find their service useful (or simply want to support their mission), consider sending a few sats their way.
 
 <p style="text-align: center; font-size: 1.5rem; font-weight: bold;">
-  <a href="https://btcmap.org/support-us" target="_blank">Support Bitmap.org</a>
+  <a href="https://btcmap.org/support-us" target="_blank">Support BTCMap.org</a>
 </p>
 
 That said, we’re not forgetting our local heroes. Below, you’ll still find a shortlist of long-standing merchants in Saigon who have accepted Bitcoin reliably for over two years and have been personally vetted by active members of the Bitcoin Saigon community. These are businesses we know and trust - the kind you can confidently recommend to fellow Bitcoiners.
